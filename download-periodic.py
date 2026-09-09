@@ -4,9 +4,12 @@ Download every 10-K / 10-Q for a filer since a given period, discovered from
 EDGAR rather than hardcoded.
 
     export SEC_UA="CJ cjbox21@gmail.com"
-    python3 download-periodic.py --since 2024-12-01              # Capital One
-    python3 download-periodic.py --since 2024-12-01 --filer schw
-    python3 download-periodic.py --since 2024-12-01 --filer all
+    python3 download-periodic.py                        # Capital One, since 2024-06
+    python3 download-periodic.py --filer all            # both companies
+    python3 download-periodic.py --since 2024-01-01     # all of 2024 too
+
+Default --since is 2024-06-01, which picks up the 2024-06-30 and 2024-09-30
+quarter-ends. Lower it to 2024-01-01 to add 2024-03-31 as well.
 
 Run from your own machine -- Cowork's network can't reach sec.gov.
 
@@ -18,8 +21,12 @@ from the 2025 10-Qs, which this fetches.
 
 Files are named to match what extract-local-anchors.py expects:
     capitalone-10q-2025q1.htm, capitalone-10k-fy2024.htm, ...
+
+This is the ONLY script that downloads periodic filings. download-filings.sh
+used to do it too, with different filenames, which meant every filing landed
+twice. It no longer does.
 """
-import argparse, json, os, sys, time, urllib.error, urllib.request
+import argparse, glob, json, os, re, sys, time, urllib.error, urllib.request
 
 UA = os.environ.get("SEC_UA", "CJ cjbox21@gmail.com")
 
@@ -59,9 +66,44 @@ def label(form, report_date):
     return f"10q-{y}q{(m - 1) // 3 + 1}"
 
 
+# Recognise both the current convention and the legacy one that
+# download-filings.sh used, so an already-downloaded filing is never fetched
+# again under a second name. That mismatch is what produced ~29 MB of
+# byte-identical duplicates.
+_NAME_PATTERNS = [
+    re.compile(r"^(?P<prefix>[a-z]+)-10k-fy(?P<y>\d{4})", re.I),
+    re.compile(r"^(?P<prefix>[a-z]+)-10q-(?P<y>\d{4})q(?P<n>\d)", re.I),
+    re.compile(r"^(?P<prefix>[a-z]+)-10q-q(?P<n>\d)-(?P<y>\d{4})", re.I),  # legacy
+]
+
+
+def canonical_of(filename):
+    """Any known filename -> (prefix, canonical_label), or None."""
+    b = os.path.basename(filename).lower()
+    for rx in _NAME_PATTERNS:
+        m = rx.match(b)
+        if not m:
+            continue
+        g = m.groupdict()
+        if "n" in g and g.get("n"):
+            return g["prefix"], f"10q-{g['y']}q{g['n']}"
+        return g["prefix"], f"10k-fy{g['y']}"
+    return None
+
+
+def existing_index(directory):
+    """(prefix, canonical_label) -> filename already on disk."""
+    idx = {}
+    for p in glob.glob(os.path.join(directory, "*.htm*")):
+        c = canonical_of(p)
+        if c and os.path.getsize(p) > 0:
+            idx.setdefault(c, os.path.basename(p))
+    return idx
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--since", default="2024-12-01",
+    ap.add_argument("--since", default="2024-06-01",
                     help="earliest period-of-report to fetch (YYYY-MM-DD)")
     ap.add_argument("--filer", default="cof", choices=["cof", "schw", "all"])
     ap.add_argument("--dir", default="filings")
@@ -73,7 +115,11 @@ def main():
 
     targets = ["cof", "schw"] if args.filer == "all" else [args.filer]
     os.makedirs(args.dir, exist_ok=True)
-    got, failed = [], []
+    got, failed, skipped = [], [], []
+    have = existing_index(args.dir)
+    if have:
+        print(f"{len(have)} periodic filing(s) already on disk "
+              f"(matched across both naming conventions)")
 
     for key in targets:
         cik, prefix = FILERS[key]
@@ -106,9 +152,17 @@ def main():
             url = (f"https://www.sec.gov/Archives/edgar/data/{cik}/{nod}/{prim}")
             tag = f"{form} period {rpt} filed {filed}"
 
-            if os.path.exists(out) and os.path.getsize(out) > 0:
-                print(f"    = {os.path.basename(out):34s} {tag}  (cached)")
-                got.append(out); continue
+            # Skip if we already hold this (form, period) under ANY known name.
+            dedupe_key = (prefix, label(form, rpt))
+            if dedupe_key in have:
+                existing = have[dedupe_key]
+                note = "cached" if existing == os.path.basename(out) else \
+                       f"already present as {existing}"
+                print(f"    = {os.path.basename(out):34s} {tag}  ({note})")
+                got.append(os.path.join(args.dir, existing))
+                if existing != os.path.basename(out):
+                    skipped.append((os.path.basename(out), existing))
+                continue
             if args.dry_run:
                 print(f"    ? {os.path.basename(out):34s} {tag}\n        {url}")
                 continue
@@ -117,7 +171,7 @@ def main():
             except Exception as e:
                 print(f"    ! {os.path.basename(out):34s} FAILED: {e}",
                       file=sys.stderr)
-                failed.append(f"{key} {form} {rpt}")
+                failed.append(f"{prefix} {form} {rpt}")
                 continue
             with open(out, "wb") as fh:
                 fh.write(body)
@@ -126,6 +180,11 @@ def main():
             got.append(out)
 
     print(f"\n{len(got)} file(s) available in {args.dir}/")
+    if skipped:
+        print(f"{len(skipped)} download(s) avoided -- same filing already held "
+              f"under the legacy name:")
+        for would, existing in skipped:
+            print(f"    {would}  <-  {existing}")
     if failed:
         print("FAILURES:", file=sys.stderr)
         for f in failed:

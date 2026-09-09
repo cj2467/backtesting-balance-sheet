@@ -17,6 +17,22 @@ Outstanding, two things:
    bug (below) and produced an empty manifest. Re-run `./download-filings.sh`.
 2. Three quarter-ends are missing — see below. Run `download-periodic.py`.
 
+## Income statement / net interest income
+
+`extract-local-flows.py` → `flows.csv` → `make-nii-table.py` → `nii-cof.csv`.
+Ten quarters, 2024Q1 through 2026Q2. Add `--annual` for 12-month columns.
+
+The wrinkle is Q4. A balance sheet is an instant so every quarter-end is
+reported directly, but an income statement is a duration and issuers report
+3M in Q1, 3M+6M in Q2, 3M+9M in Q3, and **12M only** in the 10-K. There is no
+3-month Q4 figure anywhere. So Q4 is derived as FY − 9M, flagged `(D)` in the
+table and `derived=Q4=FY-9M` in the CSV. The subtraction is exact, but it spans
+two filings, so a restatement between them would land there.
+
+Validation: interest income less interest expense ties to reported NII at 0.0
+for all ten quarters, and the four quarters of 2024 and 2025 each sum to the
+reported full year at 0.0 — which independently confirms the derived Q4s.
+
 ## RESOLVED: all seven quarter-ends are now available
 
 `download-periodic.py` fetched the 2025 10-Qs and FY2024 10-Ks. Capital One now
@@ -70,8 +86,12 @@ That should produce all seven quarter-ends with no further changes.
 ```bash
 export SEC_UA="CJ cjbox21@gmail.com"      # SEC requires a real contact string
 
-./download-filings.sh                      # periodic filings + monthly 8-Ks
-python3 extract-local-anchors.py           # quarterly anchors, OFFLINE -> anchors.csv
+python3 download-periodic.py --filer all   # 10-K/10-Q for both companies
+./download-filings.sh                      # monthly credit-metrics 8-Ks
+python3 extract-local-anchors.py           # balance sheet -> anchors.csv
+python3 extract-local-flows.py             # income statement -> flows.csv
+python3 make-balance-sheet.py --since 2024-06-30
+python3 make-nii-table.py   --since 2024Q3
 python3 parse-credit-metrics.py --dump     # LOOK at the tables first
 python3 parse-credit-metrics.py            # -> credit-metrics-{raw,tidy}.csv
 python3 build-monthly.py                   # -> monthly-balance-sheet.csv
@@ -79,6 +99,25 @@ python3 build-monthly.py                   # -> monthly-balance-sheet.csv
 
 `MONTHS_BACK=36 ./download-filings.sh` to reach further back. You need at least
 through April 2025 for Discover's final standalone exhibit.
+
+### No duplicate downloads
+
+`download-periodic.py` is the only script that fetches periodic filings.
+`download-filings.sh` used to fetch them too, with hardcoded names
+(`capitalone-10q-q1-2026.htm`) while the periodic script derives them from the
+reporting period (`capitalone-10q-2026q1.htm`), so every filing landed twice —
+about 29 MB of byte-identical duplicates. Now:
+
+- `download-filings.sh` no longer downloads periodic filings at all; it prints
+  the `download-periodic.py` command instead.
+- `download-periodic.py` recognises **both** naming conventions before
+  downloading, so a filing already held under a legacy name is skipped and
+  reported rather than re-fetched.
+- `extract-local-anchors.py` and `extract-local-flows.py` skip byte-identical
+  files by SHA-256, so any duplicates still on disk are read only once.
+
+Default `--since` is `2024-06-01`, which covers the 2024-06-30 and 2024-09-30
+quarter-ends. Use `--since 2024-01-01` to add 2024-03-31.
 
 ## The scripts
 

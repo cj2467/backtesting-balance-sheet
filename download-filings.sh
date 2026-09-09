@@ -29,18 +29,22 @@ fetch() {
 }
 
 # ---------------------------------------------------------------- periodic
+# NOT DONE HERE ANY MORE.
+#
+# This script used to fetch the 10-K/10-Q with hardcoded URLs and hardcoded
+# filenames (capitalone-10q-q1-2026.htm), while download-periodic.py derives
+# names from the reporting period (capitalone-10q-2026q1.htm). Running both
+# therefore downloaded every periodic filing twice under two names -- ~29 MB
+# of byte-identical duplicates.
+#
+# download-periodic.py is now the single source of truth for periodic filings:
+# it discovers them from EDGAR rather than relying on accession numbers I'd
+# have to hardcode, and there is exactly one naming convention.
 mkdir -p filings
-pushd filings >/dev/null
 
 echo "== 10-K / 10-Q =="
-fetch schwab-10k-fy2025.htm      "$BASE/316709/000031670926000009/schw-20251231.htm" || true
-fetch schwab-10q-q1-2026.htm     "$BASE/316709/000031670926000019/schw-20260331.htm" || true
-fetch schwab-10q-q2-2026.htm     "$BASE/316709/000031670926000031/schw-20260630.htm" || true
-fetch capitalone-10k-fy2025.htm  "$BASE/927628/000092762826000024/cof-20251231.htm" || true
-fetch capitalone-10q-q1-2026.htm "$BASE/927628/000092762826000048/cof-20260331.htm" || true
-fetch capitalone-10q-q2-2026.htm "$BASE/927628/000092762826000089/cof-20260630.htm" || true
-
-popd >/dev/null
+echo "   skipped -- use download-periodic.py (one naming convention, no dupes):"
+echo "     python3 download-periodic.py --since 2024-06-01 --filer all"
 
 # ------------------------------------------------- monthly credit metrics
 # Accession numbers for the monthly 8-Ks can't be guessed, so we walk

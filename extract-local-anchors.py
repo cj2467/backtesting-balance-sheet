@@ -40,12 +40,19 @@ CONCEPTS = {
                               "FinancingReceivableAllowanceForCreditLossExcludingAccruedInterest"],
     "securities_afs":        ["DebtSecuritiesAvailableForSaleExcludingAccruedInterest",
                               "AvailableForSaleSecuritiesDebtSecurities"],
-    "securities_htm":        ["DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss",
+    # Capital One tags HTM as ...BeforeAllowanceForCreditLoss, not After.
+    # Searching only for the "After" variant left HTM inside the residual.
+    "securities_htm":        ["DebtSecuritiesHeldToMaturityExcludingAccruedInterestBeforeAllowanceForCreditLoss",
+                              "DebtSecuritiesHeldToMaturityExcludingAccruedInterestAfterAllowanceForCreditLoss",
                               "HeldToMaturitySecurities"],
+    "short_term_borrowings": ["ShortTermBorrowings"],
+    "other_borrowings":      ["OtherBorrowings"],
     "cash_and_equivalents":  ["CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
                               "CashAndCashEquivalentsAtCarryingValue",
                               "CashAndDueFromBanks"],
-    "long_term_debt":        ["LongTermDebt"],
+    # "LongTermDebt" is not what COF uses; it tags the combined caption.
+    "long_term_debt":        ["LongTermDebtAndCapitalLeaseObligations",
+                              "LongTermDebt"],
 }
 TAG_TO_CONCEPT = {t: c for c, ts in CONCEPTS.items() for t in ts}
 

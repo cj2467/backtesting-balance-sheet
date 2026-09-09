@@ -45,7 +45,9 @@ LAYOUT = [
     ("  Deposits -- interest bearing",         "deposits_interest_bearing", "memo"),
     ("  Deposits -- non-interest bearing",      "deposits_noninterest",     "memo"),
     ("  Deposits, total",                      "deposits",             "line"),
+    ("  Short-term borrowings",                "short_term_borrowings", "line"),
     ("  Long-term debt",                       "long_term_debt",       "line"),
+    ("  Other borrowings",                     "other_borrowings",     "line"),
     ("  Other liabilities (not separately tagged)", "__residual_liabs__", "residual"),
     ("TOTAL LIABILITIES",                      "total_liabilities",    "reported"),
 
@@ -58,7 +60,8 @@ LAYOUT = [
 
 ASSET_LINES = ["cash_and_equivalents", "securities_afs", "securities_htm",
                "loans_hfi_net"]
-LIAB_LINES  = ["deposits", "long_term_debt"]
+LIAB_LINES  = ["deposits", "short_term_borrowings", "long_term_debt",
+               "other_borrowings"]
 
 
 def main():

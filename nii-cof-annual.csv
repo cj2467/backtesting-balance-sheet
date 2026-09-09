@@ -1,0 +1,23 @@
+line,concept,kind,2022,2023,2024,2025
+INTEREST INCOME,,,,,,
+  Loans and leases,int_inc_loans,line,28910.0,37410.0,40894.0,53021.0
+  Investment securities,int_inc_securities,line,1884.0,2550.0,2873.0,3218.0
+  Other,int_inc_other,line,443.0,1978.0,2267.0,2457.0
+TOTAL INTEREST INCOME,int_inc_total,reported,31237.0,41938.0,46034.0,58696.0
+INTEREST EXPENSE,,,,,,
+  Deposits,int_exp_deposits,line,2535.0,9489.0,11493.0,12925.0
+  Securitized debt,int_exp_secured,line,384.0,959.0,958.0,660.0
+  Senior and subordinated notes,int_exp_unsecured,line,1074.0,2204.0,2333.0,2172.0
+  Other borrowings,int_exp_other,line,130.0,45.0,42.0,61.0
+TOTAL INTEREST EXPENSE,int_exp_total,reported,4123.0,12697.0,14826.0,15818.0
+,,,,,,
+NET INTEREST INCOME,net_interest_income,reported,27114.0,29241.0,31208.0,42878.0
+  NII after provision,nii_after_provision,memo,21267.0,18815.0,19492.0,22223.0
+  Implied provision for credit losses,__provision__,derived_line,5847.0,10426.0,11716.0,20655.0
+MEMO,,,,,,
+  Non-interest income,noninterest_income,memo,7136.0,7546.0,7904.0,10556.0
+  Non-interest expense,noninterest_expense,memo,19163.0,20316.0,21486.0,30498.0
+  Pre-tax income,pretax_income,memo,9240.0,6045.0,5910.0,2281.0
+  Net income,net_income,memo,7360.0,4887.0,4750.0,2453.0
+CHECK,,,,,,
+NET: (int income - int expense) - reported NII,__check__,net,0.0,0.0,0.0,0.0
