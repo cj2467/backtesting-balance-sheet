@@ -59,20 +59,40 @@ import csv, datetime as dt, json, os, re, sys, time, urllib.error, urllib.reques
 
 UA          = os.environ["SEC_UA"]
 MONTHS_BACK = int(os.environ["MONTHS_BACK"])
-CIK         = "927628"
 OUTDIR      = "filings/credit-metrics"
+
+# Capital One, plus Discover for the pre-close period. Discover's last monthly
+# exhibit covered April 2025 (merger closed 2025-05-18); after that the Discover
+# portfolio appears as its own line inside Capital One's exhibit.
+#
+# NOTE: Discover's monthly exhibit reported RATES ONLY (net principal charge-off
+# rate, 30+ day delinquency rate) on a rolling 24-month basis -- no period-end
+# dollar balances. Don't expect to splice dollars from these.
+FILERS = [
+    ("927628",  "cof",      r"creditmet"),
+    # Discover named theirs exhibit991<MM>-<DD>x<YY>.htm, e.g. exhibit99105-31x24.htm.
+    # Keep this tight or you'll pull every other 99.1 they ever furnished.
+    ("1393612", "discover", r"exhibit991\d{2}-\d{2}x\d{2}"),
+]
 
 MONTHS = {m.lower(): i for i, m in enumerate(
     ["January","February","March","April","May","June",
      "July","August","September","October","November","December"], start=1)}
 
 def get(url, tries=3):
-    req = urllib.request.Request(url, headers={
-        "User-Agent": UA, "Accept-Encoding": "gzip, deflate", "Host": url.split("/")[2]})
+    # Do NOT advertise gzip unless you decompress it. An earlier version sent
+    # "Accept-Encoding: gzip" and then fed raw bytes to json.loads, which threw
+    # UnicodeDecodeError, got swallowed, and produced an empty manifest with a
+    # zero exit code. Decompress defensively in case a proxy gzips anyway.
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
     for attempt in range(tries):
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
-                return r.read()
+                body = r.read()
+                if r.headers.get("Content-Encoding", "").lower() == "gzip" or body[:2] == b"\x1f\x8b":
+                    import gzip as _gz
+                    body = _gz.decompress(body)
+                return body
         except urllib.error.HTTPError as e:
             if e.code in (429, 503) and attempt < tries - 1:
                 time.sleep(2 ** attempt); continue
@@ -81,64 +101,115 @@ def get(url, tries=3):
             time.sleep(0.15)   # stay well under SEC's 10 req/sec
 
 def period_from_name(name):
-    """ex991february2026creditmet.htm -> (2026, 2)"""
+    """Both naming conventions -> (year, month), or None.
+
+    ex991february2026creditmet.htm -> (2026, 2)     [Capital One]
+    exhibit99105-31x24.htm         -> (2024, 5)     [Discover]
+    """
     m = re.search(r"(" + "|".join(MONTHS) + r")\s*(\d{4})", name, re.I)
     if m:
         return int(m.group(2)), MONTHS[m.group(1).lower()]
+    m = re.search(r"exhibit991(\d{2})-\d{2}x(\d{2})", name, re.I)
+    if m:
+        return 2000 + int(m.group(2)), int(m.group(1))
     return None
 
 os.makedirs(OUTDIR, exist_ok=True)
 cutoff = dt.date.today() - dt.timedelta(days=int(MONTHS_BACK * 30.5))
 
-print("   fetching submissions index...")
-subs = json.loads(get(f"https://data.sec.gov/submissions/CIK{int(CIK):010d}.json"))
-rec  = subs["filings"]["recent"]
-rows = list(zip(rec["form"], rec["accessionNumber"], rec["filingDate"]))
-eights = [(a, d) for f, a, d in rows
-          if f == "8-K" and dt.date.fromisoformat(d) >= cutoff]
+found, manifest, errors = 0, [], []
 
-print(f"   {len(eights)} 8-K filings since {cutoff}; scanning for credit metrics exhibits")
-
-found, manifest = 0, []
-for acc, filed in eights:
-    nod = acc.replace("-", "")
+for cik, tag, pattern in FILERS:
+    print(f"\n   [{tag}] CIK {cik} -- fetching submissions index...")
     try:
-        idx = json.loads(get(f"https://www.sec.gov/Archives/edgar/data/{CIK}/{nod}/index.json"))
+        subs = json.loads(get(f"https://data.sec.gov/submissions/CIK{int(cik):010d}.json"))
     except Exception as e:
-        print(f"   ! index failed {acc}: {e}", file=sys.stderr); continue
+        # Loud, not swallowed -- this is the failure that produced an empty
+        # manifest once already.
+        print(f"\n   !!! submissions index FAILED for {tag}: "
+              f"{type(e).__name__}: {e}", file=sys.stderr)
+        errors.append(f"{tag}: submissions index ({type(e).__name__})")
+        continue
 
-    for item in idx.get("directory", {}).get("item", []):
-        name = item.get("name", "")
-        if not re.search(r"creditmet", name, re.I):
-            continue
-        per = period_from_name(name)
-        label = f"{per[0]}-{per[1]:02d}" if per else f"filed{filed}"
-        out = os.path.join(OUTDIR, f"cof-credit-metrics-{label}.htm")
-        url = f"https://www.sec.gov/Archives/edgar/data/{CIK}/{nod}/{name}"
-        if os.path.exists(out):
-            print(f"   = {os.path.basename(out)} (cached)")
-        else:
-            try:
-                open(out, "wb").write(get(url))
-                print(f"   + {os.path.basename(out)}")
-            except Exception as e:
-                print(f"   ! download failed {name}: {e}", file=sys.stderr); continue
-        found += 1
-        manifest.append({"period": label, "filed": filed,
-                         "accession": acc, "file": out, "url": url})
+    rec  = subs["filings"]["recent"]
+    rows = list(zip(rec["form"], rec["accessionNumber"], rec["filingDate"]))
+    eights = [(a, d) for f, a, d in rows
+              if f == "8-K" and dt.date.fromisoformat(d) >= cutoff]
+    print(f"   [{tag}] {len(eights)} 8-Ks since {cutoff}; scanning exhibits")
 
-manifest.sort(key=lambda r: r["period"])
+    if not eights and tag == "discover":
+        print("   [discover] nothing in range -- their last monthly exhibit was "
+              "April 2025, so increase MONTHS_BACK to reach it.")
+
+    hits = 0
+    for acc, filed in eights:
+        nod = acc.replace("-", "")
+        try:
+            idx = json.loads(get(
+                f"https://www.sec.gov/Archives/edgar/data/{cik}/{nod}/index.json"))
+        except Exception as e:
+            print(f"   ! index failed {acc}: {e}", file=sys.stderr); continue
+
+        for item in idx.get("directory", {}).get("item", []):
+            name = item.get("name", "")
+            if not re.search(pattern, name, re.I):
+                continue
+            per   = period_from_name(name)
+            label = f"{per[0]}-{per[1]:02d}" if per else f"filed{filed}"
+            out   = os.path.join(OUTDIR, f"{tag}-credit-metrics-{label}.htm")
+            url   = f"https://www.sec.gov/Archives/edgar/data/{cik}/{nod}/{name}"
+            if os.path.exists(out):
+                print(f"   = {os.path.basename(out)} (cached)")
+            else:
+                try:
+                    open(out, "wb").write(get(url))
+                    print(f"   + {os.path.basename(out)}")
+                except Exception as e:
+                    print(f"   ! download failed {name}: {e}", file=sys.stderr); continue
+            found += 1; hits += 1
+            manifest.append({"filer": tag, "period": label, "filed": filed,
+                             "accession": acc, "file": out, "url": url})
+
+    print(f"   [{tag}] {hits} exhibits matched")
+
+manifest.sort(key=lambda r: (r["filer"], r["period"]))
 with open(os.path.join(OUTDIR, "manifest.csv"), "w", newline="") as fh:
-    w = csv.DictWriter(fh, fieldnames=["period", "filed", "accession", "file", "url"])
+    w = csv.DictWriter(fh, fieldnames=["filer", "period", "filed", "accession", "file", "url"])
     w.writeheader(); w.writerows(manifest)
 
 print(f"\n   {found} credit-metrics exhibits -> {OUTDIR}/")
 print(f"   manifest: {OUTDIR}/manifest.csv")
-if manifest:
-    print(f"   coverage: {manifest[0]['period']} .. {manifest[-1]['period']}")
-gaps = len({m["period"] for m in manifest})
-if gaps < MONTHS_BACK * 0.8:
-    print("   NOTE: fewer months than expected -- check for gaps before building a series.")
+
+# Coverage / gap report per filer -- worth reading before you build any series.
+for cik, tag, _ in FILERS:
+    periods = sorted({m["period"] for m in manifest
+                      if m["filer"] == tag and re.fullmatch(r"\d{4}-\d{2}", m["period"])})
+    if not periods:
+        print(f"   [{tag}] no dated exhibits found")
+        continue
+    print(f"   [{tag}] {len(periods)} months: {periods[0]} .. {periods[-1]}")
+    # enumerate calendar months in range and report any missing
+    y0, m0 = map(int, periods[0].split("-"))
+    y1, m1 = map(int, periods[-1].split("-"))
+    want, y, m = [], y0, m0
+    while (y, m) <= (y1, m1):
+        want.append(f"{y}-{m:02d}")
+        y, m = (y + 1, 1) if m == 12 else (y, m + 1)
+    missing = [p for p in want if p not in periods]
+    if missing:
+        print(f"   [{tag}] MISSING {len(missing)}: {', '.join(missing)}")
+
+# Zero exhibits is a failure, not a quiet success. Exit non-zero so it can't
+# slide past unnoticed the way it did before.
+if errors:
+    print("\n   ERRORS:", file=sys.stderr)
+    for e in errors:
+        print(f"     - {e}", file=sys.stderr)
+if found == 0:
+    print("\n   !!! NO credit-metrics exhibits retrieved. The manifest is empty. "
+          "Check the errors above; do not treat this run as successful.",
+          file=sys.stderr)
+    sys.exit(3)
 PYEOF
 
 echo
