@@ -1,0 +1,793 @@
+period,months,line_item,field,value,source
+2022FY,12,Cash equivalents and other interest-earning assets,avg_balance,22199.0,capitalone-10k-fy2024.htm
+2022FY,12,Cash equivalents and other interest-earning assets,interest,443.0,capitalone-10k-fy2024.htm
+2022FY,12,Cash equivalents and other interest-earning assets,yield_pct,2.0,capitalone-10k-fy2024.htm
+2022FY,12,Commercial banking,avg_balance,92273.0,capitalone-10k-fy2024.htm
+2022FY,12,Commercial banking,interest,3702.0,capitalone-10k-fy2024.htm
+2022FY,12,Commercial banking,yield_pct,4.01,capitalone-10k-fy2024.htm
+2022FY,12,Consumer banking,avg_balance,80511.0,capitalone-10k-fy2024.htm
+2022FY,12,Consumer banking,interest,5782.0,capitalone-10k-fy2024.htm
+2022FY,12,Consumer banking,yield_pct,7.18,capitalone-10k-fy2024.htm
+2022FY,12,Credit card,avg_balance,121055.0,capitalone-10k-fy2024.htm
+2022FY,12,Credit card,interest,19626.0,capitalone-10k-fy2024.htm
+2022FY,12,Credit card,yield_pct,16.21,capitalone-10k-fy2024.htm
+2022FY,12,Interest-bearing deposits,avg_balance,277208.0,capitalone-10k-fy2024.htm
+2022FY,12,Interest-bearing deposits,interest,2535.0,capitalone-10k-fy2024.htm
+2022FY,12,Interest-bearing deposits,yield_pct,0.91,capitalone-10k-fy2024.htm
+2022FY,12,Investment securities,avg_balance,90608.0,capitalone-10k-fy2024.htm
+2022FY,12,Investment securities,interest,1884.0,capitalone-10k-fy2024.htm
+2022FY,12,Investment securities,yield_pct,2.08,capitalone-10k-fy2024.htm
+2022FY,12,Other borrowings and interest-bearing liabilities,avg_balance,7800.0,capitalone-10k-fy2024.htm
+2022FY,12,Other borrowings and interest-bearing liabilities,interest,130.0,capitalone-10k-fy2024.htm
+2022FY,12,Other borrowings and interest-bearing liabilities,yield_pct,1.67,capitalone-10k-fy2024.htm
+2022FY,12,Securitized debt obligations,avg_balance,15603.0,capitalone-10k-fy2024.htm
+2022FY,12,Securitized debt obligations,interest,384.0,capitalone-10k-fy2024.htm
+2022FY,12,Securitized debt obligations,yield_pct,2.46,capitalone-10k-fy2024.htm
+2022FY,12,Senior and subordinated notes,avg_balance,29286.0,capitalone-10k-fy2024.htm
+2022FY,12,Senior and subordinated notes,interest,1074.0,capitalone-10k-fy2024.htm
+2022FY,12,Senior and subordinated notes,yield_pct,3.67,capitalone-10k-fy2024.htm
+2022FY,12,Total interest-bearing liabilities,avg_balance,329897.0,capitalone-10k-fy2024.htm
+2022FY,12,Total interest-bearing liabilities,interest,4123.0,capitalone-10k-fy2024.htm
+2022FY,12,Total interest-bearing liabilities,yield_pct,1.25,capitalone-10k-fy2024.htm
+2022FY,12,Total interest-earning assets,avg_balance,406646.0,capitalone-10k-fy2024.htm
+2022FY,12,Total interest-earning assets,interest,31237.0,capitalone-10k-fy2024.htm
+2022FY,12,Total interest-earning assets,yield_pct,7.68,capitalone-10k-fy2024.htm
+2022FY,12,"Total loans, including loans held for sale",avg_balance,293839.0,capitalone-10k-fy2024.htm
+2022FY,12,"Total loans, including loans held for sale",interest,28910.0,capitalone-10k-fy2024.htm
+2022FY,12,"Total loans, including loans held for sale",yield_pct,9.84,capitalone-10k-fy2024.htm
+2023FY,12,Cash equivalents and other interest-earning assets,avg_balance,39960.0,capitalone-10k-fy2025.htm
+2023FY,12,Cash equivalents and other interest-earning assets,interest,1978.0,capitalone-10k-fy2025.htm
+2023FY,12,Cash equivalents and other interest-earning assets,yield_pct,4.95,capitalone-10k-fy2025.htm
+2023FY,12,Commercial banking,avg_balance,92984.0,capitalone-10k-fy2025.htm
+2023FY,12,Commercial banking,interest,6363.0,capitalone-10k-fy2025.htm
+2023FY,12,Commercial banking,yield_pct,6.84,capitalone-10k-fy2025.htm
+2023FY,12,Consumer banking,avg_balance,77514.0,capitalone-10k-fy2025.htm
+2023FY,12,Consumer banking,interest,6041.0,capitalone-10k-fy2025.htm
+2023FY,12,Consumer banking,yield_pct,7.79,capitalone-10k-fy2025.htm
+2023FY,12,Credit card,avg_balance,141675.0,capitalone-10k-fy2025.htm
+2023FY,12,Credit card,interest,26267.0,capitalone-10k-fy2025.htm
+2023FY,12,Credit card,yield_pct,18.54,capitalone-10k-fy2025.htm
+2023FY,12,Interest-bearing deposits,avg_balance,313737.0,capitalone-10k-fy2025.htm
+2023FY,12,Interest-bearing deposits,interest,9489.0,capitalone-10k-fy2025.htm
+2023FY,12,Interest-bearing deposits,yield_pct,3.02,capitalone-10k-fy2025.htm
+2023FY,12,Investment securities,avg_balance,89105.0,capitalone-10k-fy2025.htm
+2023FY,12,Investment securities,interest,2550.0,capitalone-10k-fy2025.htm
+2023FY,12,Investment securities,yield_pct,2.86,capitalone-10k-fy2025.htm
+2023FY,12,Other borrowings and interest-bearing liabilities,avg_balance,2394.0,capitalone-10k-fy2025.htm
+2023FY,12,Other borrowings and interest-bearing liabilities,interest,45.0,capitalone-10k-fy2025.htm
+2023FY,12,Other borrowings and interest-bearing liabilities,yield_pct,1.89,capitalone-10k-fy2025.htm
+2023FY,12,Securitized debt obligations,avg_balance,17675.0,capitalone-10k-fy2025.htm
+2023FY,12,Securitized debt obligations,interest,959.0,capitalone-10k-fy2025.htm
+2023FY,12,Securitized debt obligations,yield_pct,5.42,capitalone-10k-fy2025.htm
+2023FY,12,Senior and subordinated notes,avg_balance,31109.0,capitalone-10k-fy2025.htm
+2023FY,12,Senior and subordinated notes,interest,2204.0,capitalone-10k-fy2025.htm
+2023FY,12,Senior and subordinated notes,yield_pct,7.08,capitalone-10k-fy2025.htm
+2023FY,12,Total interest-bearing liabilities,avg_balance,364915.0,capitalone-10k-fy2025.htm
+2023FY,12,Total interest-bearing liabilities,interest,12697.0,capitalone-10k-fy2025.htm
+2023FY,12,Total interest-bearing liabilities,yield_pct,3.48,capitalone-10k-fy2025.htm
+2023FY,12,Total interest-earning assets,avg_balance,441238.0,capitalone-10k-fy2025.htm
+2023FY,12,Total interest-earning assets,interest,41938.0,capitalone-10k-fy2025.htm
+2023FY,12,Total interest-earning assets,yield_pct,9.5,capitalone-10k-fy2025.htm
+2023FY,12,"Total loans, including loans held for sale",avg_balance,312173.0,capitalone-10k-fy2025.htm
+2023FY,12,"Total loans, including loans held for sale",interest,37410.0,capitalone-10k-fy2025.htm
+2023FY,12,"Total loans, including loans held for sale",yield_pct,11.98,capitalone-10k-fy2025.htm
+2023Q1,3,Cash equivalents and other interest-earning assets,avg_balance,37124.0,capitalone-10q-2024q1.htm
+2023Q1,3,Cash equivalents and other interest-earning assets,interest,416.0,capitalone-10q-2024q1.htm
+2023Q1,3,Cash equivalents and other interest-earning assets,yield_pct,4.49,capitalone-10q-2024q1.htm
+2023Q1,3,Commercial banking,avg_balance,94446.0,capitalone-10q-2024q1.htm
+2023Q1,3,Commercial banking,interest,1488.0,capitalone-10q-2024q1.htm
+2023Q1,3,Commercial banking,yield_pct,6.3,capitalone-10q-2024q1.htm
+2023Q1,3,Consumer banking,avg_balance,79000.0,capitalone-10q-2024q1.htm
+2023Q1,3,Consumer banking,interest,1461.0,capitalone-10q-2024q1.htm
+2023Q1,3,Consumer banking,yield_pct,7.4,capitalone-10q-2024q1.htm
+2023Q1,3,Credit card,avg_balance,134669.0,capitalone-10q-2024q1.htm
+2023Q1,3,Credit card,interest,6053.0,capitalone-10q-2024q1.htm
+2023Q1,3,Credit card,yield_pct,17.98,capitalone-10q-2024q1.htm
+2023Q1,3,Interest-bearing deposits,avg_balance,308788.0,capitalone-10q-2024q1.htm
+2023Q1,3,Interest-bearing deposits,interest,1856.0,capitalone-10q-2024q1.htm
+2023Q1,3,Interest-bearing deposits,yield_pct,2.4,capitalone-10q-2024q1.htm
+2023Q1,3,Investment securities,avg_balance,89960.0,capitalone-10q-2024q1.htm
+2023Q1,3,Investment securities,interest,615.0,capitalone-10q-2024q1.htm
+2023Q1,3,Investment securities,yield_pct,2.73,capitalone-10q-2024q1.htm
+2023Q1,3,Other borrowings and interest-bearing liabilities,avg_balance,2335.0,capitalone-10q-2024q1.htm
+2023Q1,3,Other borrowings and interest-bearing liabilities,interest,12.0,capitalone-10q-2024q1.htm
+2023Q1,3,Other borrowings and interest-bearing liabilities,yield_pct,2.08,capitalone-10q-2024q1.htm
+2023Q1,3,Securitized debt obligations,avg_balance,17251.0,capitalone-10q-2024q1.htm
+2023Q1,3,Securitized debt obligations,interest,211.0,capitalone-10q-2024q1.htm
+2023Q1,3,Securitized debt obligations,yield_pct,4.9,capitalone-10q-2024q1.htm
+2023Q1,3,Senior and subordinated notes,avg_balance,30136.0,capitalone-10q-2024q1.htm
+2023Q1,3,Senior and subordinated notes,interest,489.0,capitalone-10q-2024q1.htm
+2023Q1,3,Senior and subordinated notes,yield_pct,6.49,capitalone-10q-2024q1.htm
+2023Q1,3,Total interest-bearing liabilities,avg_balance,358510.0,capitalone-10q-2024q1.htm
+2023Q1,3,Total interest-bearing liabilities,interest,2568.0,capitalone-10q-2024q1.htm
+2023Q1,3,Total interest-bearing liabilities,yield_pct,2.87,capitalone-10q-2024q1.htm
+2023Q1,3,Total interest-earning assets,avg_balance,435199.0,capitalone-10q-2024q1.htm
+2023Q1,3,Total interest-earning assets,interest,9754.0,capitalone-10q-2024q1.htm
+2023Q1,3,Total interest-earning assets,yield_pct,8.96,capitalone-10q-2024q1.htm
+2023Q1,3,"Total loans, including loans held for sale",avg_balance,308115.0,capitalone-10q-2024q1.htm
+2023Q1,3,"Total loans, including loans held for sale",interest,8723.0,capitalone-10q-2024q1.htm
+2023Q1,3,"Total loans, including loans held for sale",yield_pct,11.32,capitalone-10q-2024q1.htm
+2023Q2,3,Cash equivalents and other interest-earning assets,avg_balance,38810.0,capitalone-10q-2024q2.htm
+2023Q2,3,Cash equivalents and other interest-earning assets,interest,470.0,capitalone-10q-2024q2.htm
+2023Q2,3,Cash equivalents and other interest-earning assets,yield_pct,4.84,capitalone-10q-2024q2.htm
+2023Q2,3,Commercial banking,avg_balance,93874.0,capitalone-10q-2024q2.htm
+2023Q2,3,Commercial banking,interest,1580.0,capitalone-10q-2024q2.htm
+2023Q2,3,Commercial banking,yield_pct,6.74,capitalone-10q-2024q2.htm
+2023Q2,3,Consumer banking,avg_balance,77699.0,capitalone-10q-2024q2.htm
+2023Q2,3,Consumer banking,interest,1486.0,capitalone-10q-2024q2.htm
+2023Q2,3,Consumer banking,yield_pct,7.65,capitalone-10q-2024q2.htm
+2023Q2,3,Credit card,avg_balance,138762.0,capitalone-10q-2024q2.htm
+2023Q2,3,Credit card,interest,6302.0,capitalone-10q-2024q2.htm
+2023Q2,3,Credit card,yield_pct,18.17,capitalone-10q-2024q2.htm
+2023Q2,3,Interest-bearing deposits,avg_balance,313207.0,capitalone-10q-2024q2.htm
+2023Q2,3,Interest-bearing deposits,interest,2277.0,capitalone-10q-2024q2.htm
+2023Q2,3,Interest-bearing deposits,yield_pct,2.91,capitalone-10q-2024q2.htm
+2023Q2,3,Investment securities,avg_balance,89994.0,capitalone-10q-2024q2.htm
+2023Q2,3,Investment securities,interest,639.0,capitalone-10q-2024q2.htm
+2023Q2,3,Investment securities,yield_pct,2.84,capitalone-10q-2024q2.htm
+2023Q2,3,Other borrowings and interest-bearing liabilities,avg_balance,2419.0,capitalone-10q-2024q2.htm
+2023Q2,3,Other borrowings and interest-bearing liabilities,interest,12.0,capitalone-10q-2024q2.htm
+2023Q2,3,Other borrowings and interest-bearing liabilities,yield_pct,1.95,capitalone-10q-2024q2.htm
+2023Q2,3,Securitized debt obligations,avg_balance,17771.0,capitalone-10q-2024q2.htm
+2023Q2,3,Securitized debt obligations,interest,236.0,capitalone-10q-2024q2.htm
+2023Q2,3,Securitized debt obligations,yield_pct,5.31,capitalone-10q-2024q2.htm
+2023Q2,3,Senior and subordinated notes,avg_balance,30161.0,capitalone-10q-2024q2.htm
+2023Q2,3,Senior and subordinated notes,interest,528.0,capitalone-10q-2024q2.htm
+2023Q2,3,Senior and subordinated notes,yield_pct,7.0,capitalone-10q-2024q2.htm
+2023Q2,3,Total interest-bearing liabilities,avg_balance,363558.0,capitalone-10q-2024q2.htm
+2023Q2,3,Total interest-bearing liabilities,interest,3053.0,capitalone-10q-2024q2.htm
+2023Q2,3,Total interest-bearing liabilities,yield_pct,3.36,capitalone-10q-2024q2.htm
+2023Q2,3,Total interest-earning assets,avg_balance,439139.0,capitalone-10q-2024q2.htm
+2023Q2,3,Total interest-earning assets,interest,10166.0,capitalone-10q-2024q2.htm
+2023Q2,3,Total interest-earning assets,yield_pct,9.26,capitalone-10q-2024q2.htm
+2023Q2,3,"Total loans, including loans held for sale",avg_balance,310335.0,capitalone-10q-2024q2.htm
+2023Q2,3,"Total loans, including loans held for sale",interest,9057.0,capitalone-10q-2024q2.htm
+2023Q2,3,"Total loans, including loans held for sale",yield_pct,11.67,capitalone-10q-2024q2.htm
+2023Q2,6,Cash equivalents and other interest-earning assets,avg_balance,37972.0,capitalone-10q-2024q2.htm
+2023Q2,6,Cash equivalents and other interest-earning assets,interest,886.0,capitalone-10q-2024q2.htm
+2023Q2,6,Cash equivalents and other interest-earning assets,yield_pct,4.67,capitalone-10q-2024q2.htm
+2023Q2,6,Commercial banking,avg_balance,94158.0,capitalone-10q-2024q2.htm
+2023Q2,6,Commercial banking,interest,3068.0,capitalone-10q-2024q2.htm
+2023Q2,6,Commercial banking,yield_pct,6.52,capitalone-10q-2024q2.htm
+2023Q2,6,Consumer banking,avg_balance,78346.0,capitalone-10q-2024q2.htm
+2023Q2,6,Consumer banking,interest,2947.0,capitalone-10q-2024q2.htm
+2023Q2,6,Consumer banking,yield_pct,7.52,capitalone-10q-2024q2.htm
+2023Q2,6,Credit card,avg_balance,136727.0,capitalone-10q-2024q2.htm
+2023Q2,6,Credit card,interest,12355.0,capitalone-10q-2024q2.htm
+2023Q2,6,Credit card,yield_pct,18.07,capitalone-10q-2024q2.htm
+2023Q2,6,Interest-bearing deposits,avg_balance,311010.0,capitalone-10q-2024q2.htm
+2023Q2,6,Interest-bearing deposits,interest,4133.0,capitalone-10q-2024q2.htm
+2023Q2,6,Interest-bearing deposits,yield_pct,2.66,capitalone-10q-2024q2.htm
+2023Q2,6,Investment securities,avg_balance,89977.0,capitalone-10q-2024q2.htm
+2023Q2,6,Investment securities,interest,1254.0,capitalone-10q-2024q2.htm
+2023Q2,6,Investment securities,yield_pct,2.79,capitalone-10q-2024q2.htm
+2023Q2,6,Other borrowings and interest-bearing liabilities,avg_balance,2377.0,capitalone-10q-2024q2.htm
+2023Q2,6,Other borrowings and interest-bearing liabilities,interest,24.0,capitalone-10q-2024q2.htm
+2023Q2,6,Other borrowings and interest-bearing liabilities,yield_pct,2.01,capitalone-10q-2024q2.htm
+2023Q2,6,Securitized debt obligations,avg_balance,17512.0,capitalone-10q-2024q2.htm
+2023Q2,6,Securitized debt obligations,interest,447.0,capitalone-10q-2024q2.htm
+2023Q2,6,Securitized debt obligations,yield_pct,5.1,capitalone-10q-2024q2.htm
+2023Q2,6,Senior and subordinated notes,avg_balance,30149.0,capitalone-10q-2024q2.htm
+2023Q2,6,Senior and subordinated notes,interest,1017.0,capitalone-10q-2024q2.htm
+2023Q2,6,Senior and subordinated notes,yield_pct,6.75,capitalone-10q-2024q2.htm
+2023Q2,6,Total interest-bearing liabilities,avg_balance,361048.0,capitalone-10q-2024q2.htm
+2023Q2,6,Total interest-bearing liabilities,interest,5621.0,capitalone-10q-2024q2.htm
+2023Q2,6,Total interest-bearing liabilities,yield_pct,3.11,capitalone-10q-2024q2.htm
+2023Q2,6,Total interest-earning assets,avg_balance,437180.0,capitalone-10q-2024q2.htm
+2023Q2,6,Total interest-earning assets,interest,19920.0,capitalone-10q-2024q2.htm
+2023Q2,6,Total interest-earning assets,yield_pct,9.11,capitalone-10q-2024q2.htm
+2023Q2,6,"Total loans, including loans held for sale",avg_balance,309231.0,capitalone-10q-2024q2.htm
+2023Q2,6,"Total loans, including loans held for sale",interest,17780.0,capitalone-10q-2024q2.htm
+2023Q2,6,"Total loans, including loans held for sale",yield_pct,11.5,capitalone-10q-2024q2.htm
+2023Q3,3,Cash equivalents and other interest-earning assets,avg_balance,42226.0,capitalone-10q-2024q3.htm
+2023Q3,3,Cash equivalents and other interest-earning assets,interest,550.0,capitalone-10q-2024q3.htm
+2023Q3,3,Cash equivalents and other interest-earning assets,yield_pct,5.21,capitalone-10q-2024q3.htm
+2023Q3,3,Commercial banking,avg_balance,92254.0,capitalone-10q-2024q3.htm
+2023Q3,3,Commercial banking,interest,1642.0,capitalone-10q-2024q3.htm
+2023Q3,3,Commercial banking,yield_pct,7.12,capitalone-10q-2024q3.htm
+2023Q3,3,Consumer banking,avg_balance,77154.0,capitalone-10q-2024q3.htm
+2023Q3,3,Consumer banking,interest,1537.0,capitalone-10q-2024q3.htm
+2023Q3,3,Consumer banking,yield_pct,7.97,capitalone-10q-2024q3.htm
+2023Q3,3,Credit card,avg_balance,144053.0,capitalone-10q-2024q3.htm
+2023Q3,3,Credit card,interest,6850.0,capitalone-10q-2024q3.htm
+2023Q3,3,Credit card,yield_pct,19.02,capitalone-10q-2024q3.htm
+2023Q3,3,Interest-bearing deposits,avg_balance,316032.0,capitalone-10q-2024q3.htm
+2023Q3,3,Interest-bearing deposits,interest,2611.0,capitalone-10q-2024q3.htm
+2023Q3,3,Interest-bearing deposits,yield_pct,3.3,capitalone-10q-2024q3.htm
+2023Q3,3,Investment securities,avg_balance,87845.0,capitalone-10q-2024q3.htm
+2023Q3,3,Investment securities,interest,627.0,capitalone-10q-2024q3.htm
+2023Q3,3,Investment securities,yield_pct,2.86,capitalone-10q-2024q3.htm
+2023Q3,3,Other borrowings and interest-bearing liabilities,avg_balance,2473.0,capitalone-10q-2024q3.htm
+2023Q3,3,Other borrowings and interest-bearing liabilities,interest,11.0,capitalone-10q-2024q3.htm
+2023Q3,3,Other borrowings and interest-bearing liabilities,yield_pct,1.79,capitalone-10q-2024q3.htm
+2023Q3,3,Securitized debt obligations,avg_balance,17649.0,capitalone-10q-2024q3.htm
+2023Q3,3,Securitized debt obligations,interest,249.0,capitalone-10q-2024q3.htm
+2023Q3,3,Securitized debt obligations,yield_pct,5.63,capitalone-10q-2024q3.htm
+2023Q3,3,Senior and subordinated notes,avg_balance,31522.0,capitalone-10q-2024q3.htm
+2023Q3,3,Senior and subordinated notes,interest,579.0,capitalone-10q-2024q3.htm
+2023Q3,3,Senior and subordinated notes,yield_pct,7.36,capitalone-10q-2024q3.htm
+2023Q3,3,Total interest-bearing liabilities,avg_balance,367676.0,capitalone-10q-2024q3.htm
+2023Q3,3,Total interest-bearing liabilities,interest,3450.0,capitalone-10q-2024q3.htm
+2023Q3,3,Total interest-bearing liabilities,yield_pct,3.75,capitalone-10q-2024q3.htm
+2023Q3,3,Total interest-earning assets,avg_balance,443532.0,capitalone-10q-2024q3.htm
+2023Q3,3,Total interest-earning assets,interest,10873.0,capitalone-10q-2024q3.htm
+2023Q3,3,Total interest-earning assets,yield_pct,9.81,capitalone-10q-2024q3.htm
+2023Q3,3,"Total loans, including loans held for sale",avg_balance,313461.0,capitalone-10q-2024q3.htm
+2023Q3,3,"Total loans, including loans held for sale",interest,9696.0,capitalone-10q-2024q3.htm
+2023Q3,3,"Total loans, including loans held for sale",yield_pct,12.37,capitalone-10q-2024q3.htm
+2023Q3,9,Cash equivalents and other interest-earning assets,avg_balance,39405.0,capitalone-10q-2024q3.htm
+2023Q3,9,Cash equivalents and other interest-earning assets,interest,1436.0,capitalone-10q-2024q3.htm
+2023Q3,9,Cash equivalents and other interest-earning assets,yield_pct,4.86,capitalone-10q-2024q3.htm
+2023Q3,9,Commercial banking,avg_balance,93517.0,capitalone-10q-2024q3.htm
+2023Q3,9,Commercial banking,interest,4710.0,capitalone-10q-2024q3.htm
+2023Q3,9,Commercial banking,yield_pct,6.72,capitalone-10q-2024q3.htm
+2023Q3,9,Consumer banking,avg_balance,77944.0,capitalone-10q-2024q3.htm
+2023Q3,9,Consumer banking,interest,4484.0,capitalone-10q-2024q3.htm
+2023Q3,9,Consumer banking,yield_pct,7.67,capitalone-10q-2024q3.htm
+2023Q3,9,Credit card,avg_balance,139196.0,capitalone-10q-2024q3.htm
+2023Q3,9,Credit card,interest,19205.0,capitalone-10q-2024q3.htm
+2023Q3,9,Credit card,yield_pct,18.4,capitalone-10q-2024q3.htm
+2023Q3,9,Interest-bearing deposits,avg_balance,312702.0,capitalone-10q-2024q3.htm
+2023Q3,9,Interest-bearing deposits,interest,6744.0,capitalone-10q-2024q3.htm
+2023Q3,9,Interest-bearing deposits,yield_pct,2.88,capitalone-10q-2024q3.htm
+2023Q3,9,Investment securities,avg_balance,89259.0,capitalone-10q-2024q3.htm
+2023Q3,9,Investment securities,interest,1881.0,capitalone-10q-2024q3.htm
+2023Q3,9,Investment securities,yield_pct,2.81,capitalone-10q-2024q3.htm
+2023Q3,9,Other borrowings and interest-bearing liabilities,avg_balance,2410.0,capitalone-10q-2024q3.htm
+2023Q3,9,Other borrowings and interest-bearing liabilities,interest,35.0,capitalone-10q-2024q3.htm
+2023Q3,9,Other borrowings and interest-bearing liabilities,yield_pct,1.94,capitalone-10q-2024q3.htm
+2023Q3,9,Securitized debt obligations,avg_balance,17558.0,capitalone-10q-2024q3.htm
+2023Q3,9,Securitized debt obligations,interest,696.0,capitalone-10q-2024q3.htm
+2023Q3,9,Securitized debt obligations,yield_pct,5.28,capitalone-10q-2024q3.htm
+2023Q3,9,Senior and subordinated notes,avg_balance,30611.0,capitalone-10q-2024q3.htm
+2023Q3,9,Senior and subordinated notes,interest,1596.0,capitalone-10q-2024q3.htm
+2023Q3,9,Senior and subordinated notes,yield_pct,6.95,capitalone-10q-2024q3.htm
+2023Q3,9,Total interest-bearing liabilities,avg_balance,363281.0,capitalone-10q-2024q3.htm
+2023Q3,9,Total interest-bearing liabilities,interest,9071.0,capitalone-10q-2024q3.htm
+2023Q3,9,Total interest-bearing liabilities,yield_pct,3.33,capitalone-10q-2024q3.htm
+2023Q3,9,Total interest-earning assets,avg_balance,439321.0,capitalone-10q-2024q3.htm
+2023Q3,9,Total interest-earning assets,interest,30793.0,capitalone-10q-2024q3.htm
+2023Q3,9,Total interest-earning assets,yield_pct,9.35,capitalone-10q-2024q3.htm
+2023Q3,9,"Total loans, including loans held for sale",avg_balance,310657.0,capitalone-10q-2024q3.htm
+2023Q3,9,"Total loans, including loans held for sale",interest,27476.0,capitalone-10q-2024q3.htm
+2023Q3,9,"Total loans, including loans held for sale",yield_pct,11.79,capitalone-10q-2024q3.htm
+2024FY,12,Cash equivalents and other interest-earning assets,avg_balance,45135.0,capitalone-10k-fy2025.htm
+2024FY,12,Cash equivalents and other interest-earning assets,interest,2267.0,capitalone-10k-fy2025.htm
+2024FY,12,Cash equivalents and other interest-earning assets,yield_pct,5.02,capitalone-10k-fy2025.htm
+2024FY,12,Commercial banking,avg_balance,89007.0,capitalone-10k-fy2025.htm
+2024FY,12,Commercial banking,interest,6301.0,capitalone-10k-fy2025.htm
+2024FY,12,Commercial banking,yield_pct,7.08,capitalone-10k-fy2025.htm
+2024FY,12,Consumer banking,avg_balance,75974.0,capitalone-10k-fy2025.htm
+2024FY,12,Consumer banking,interest,6612.0,capitalone-10k-fy2025.htm
+2024FY,12,Consumer banking,yield_pct,8.7,capitalone-10k-fy2025.htm
+2024FY,12,Credit card,avg_balance,153115.0,capitalone-10k-fy2025.htm
+2024FY,12,Credit card,interest,29226.0,capitalone-10k-fy2025.htm
+2024FY,12,Credit card,yield_pct,19.09,capitalone-10k-fy2025.htm
+2024FY,12,Interest-bearing deposits,avg_balance,324297.0,capitalone-10k-fy2025.htm
+2024FY,12,Interest-bearing deposits,interest,11493.0,capitalone-10k-fy2025.htm
+2024FY,12,Interest-bearing deposits,yield_pct,3.54,capitalone-10k-fy2025.htm
+2024FY,12,Investment securities,avg_balance,90250.0,capitalone-10k-fy2025.htm
+2024FY,12,Investment securities,interest,2873.0,capitalone-10k-fy2025.htm
+2024FY,12,Investment securities,yield_pct,3.18,capitalone-10k-fy2025.htm
+2024FY,12,Other borrowings and interest-bearing liabilities,avg_balance,2424.0,capitalone-10k-fy2025.htm
+2024FY,12,Other borrowings and interest-bearing liabilities,interest,42.0,capitalone-10k-fy2025.htm
+2024FY,12,Other borrowings and interest-bearing liabilities,yield_pct,1.71,capitalone-10k-fy2025.htm
+2024FY,12,Securitized debt obligations,avg_balance,16507.0,capitalone-10k-fy2025.htm
+2024FY,12,Securitized debt obligations,interest,958.0,capitalone-10k-fy2025.htm
+2024FY,12,Securitized debt obligations,yield_pct,5.8,capitalone-10k-fy2025.htm
+2024FY,12,Senior and subordinated notes,avg_balance,31529.0,capitalone-10k-fy2025.htm
+2024FY,12,Senior and subordinated notes,interest,2333.0,capitalone-10k-fy2025.htm
+2024FY,12,Senior and subordinated notes,yield_pct,7.4,capitalone-10k-fy2025.htm
+2024FY,12,Total interest-bearing liabilities,avg_balance,374757.0,capitalone-10k-fy2025.htm
+2024FY,12,Total interest-bearing liabilities,interest,14826.0,capitalone-10k-fy2025.htm
+2024FY,12,Total interest-bearing liabilities,yield_pct,3.96,capitalone-10k-fy2025.htm
+2024FY,12,Total interest-earning assets,avg_balance,453481.0,capitalone-10k-fy2025.htm
+2024FY,12,Total interest-earning assets,interest,46034.0,capitalone-10k-fy2025.htm
+2024FY,12,Total interest-earning assets,yield_pct,10.15,capitalone-10k-fy2025.htm
+2024FY,12,"Total loans, including loans held for sale",avg_balance,318096.0,capitalone-10k-fy2025.htm
+2024FY,12,"Total loans, including loans held for sale",interest,40894.0,capitalone-10k-fy2025.htm
+2024FY,12,"Total loans, including loans held for sale",yield_pct,12.86,capitalone-10k-fy2025.htm
+2024Q1,3,Cash equivalents and other interest-earning assets,avg_balance,43659.0,capitalone-10q-2025q1.htm
+2024Q1,3,Cash equivalents and other interest-earning assets,interest,570.0,capitalone-10q-2025q1.htm
+2024Q1,3,Cash equivalents and other interest-earning assets,yield_pct,5.21,capitalone-10q-2025q1.htm
+2024Q1,3,Commercial banking,avg_balance,90423.0,capitalone-10q-2025q1.htm
+2024Q1,3,Commercial banking,interest,1612.0,capitalone-10q-2025q1.htm
+2024Q1,3,Commercial banking,yield_pct,7.13,capitalone-10q-2025q1.htm
+2024Q1,3,Consumer banking,avg_balance,75091.0,capitalone-10q-2025q1.htm
+2024Q1,3,Consumer banking,interest,1564.0,capitalone-10q-2025q1.htm
+2024Q1,3,Consumer banking,yield_pct,8.33,capitalone-10q-2025q1.htm
+2024Q1,3,Credit card,avg_balance,150049.0,capitalone-10q-2025q1.htm
+2024Q1,3,Credit card,interest,7067.0,capitalone-10q-2025q1.htm
+2024Q1,3,Credit card,yield_pct,18.84,capitalone-10q-2025q1.htm
+2024Q1,3,Interest-bearing deposits,avg_balance,318450.0,capitalone-10q-2025q1.htm
+2024Q1,3,Interest-bearing deposits,interest,2812.0,capitalone-10q-2025q1.htm
+2024Q1,3,Interest-bearing deposits,yield_pct,3.53,capitalone-10q-2025q1.htm
+2024Q1,3,Investment securities,avg_balance,88581.0,capitalone-10q-2025q1.htm
+2024Q1,3,Investment securities,interest,687.0,capitalone-10q-2025q1.htm
+2024Q1,3,Investment securities,yield_pct,3.1,capitalone-10q-2025q1.htm
+2024Q1,3,Other borrowings and interest-bearing liabilities,avg_balance,2373.0,capitalone-10q-2025q1.htm
+2024Q1,3,Other borrowings and interest-bearing liabilities,interest,10.0,capitalone-10q-2025q1.htm
+2024Q1,3,Other borrowings and interest-bearing liabilities,yield_pct,1.78,capitalone-10q-2025q1.htm
+2024Q1,3,Securitized debt obligations,avg_balance,17836.0,capitalone-10q-2025q1.htm
+2024Q1,3,Securitized debt obligations,interest,261.0,capitalone-10q-2025q1.htm
+2024Q1,3,Securitized debt obligations,yield_pct,5.85,capitalone-10q-2025q1.htm
+2024Q1,3,Senior and subordinated notes,avg_balance,32211.0,capitalone-10q-2025q1.htm
+2024Q1,3,Senior and subordinated notes,interest,606.0,capitalone-10q-2025q1.htm
+2024Q1,3,Senior and subordinated notes,yield_pct,7.52,capitalone-10q-2025q1.htm
+2024Q1,3,Total interest-bearing liabilities,avg_balance,370870.0,capitalone-10q-2025q1.htm
+2024Q1,3,Total interest-bearing liabilities,interest,3689.0,capitalone-10q-2025q1.htm
+2024Q1,3,Total interest-bearing liabilities,yield_pct,3.98,capitalone-10q-2025q1.htm
+2024Q1,3,Total interest-earning assets,avg_balance,447803.0,capitalone-10q-2025q1.htm
+2024Q1,3,Total interest-earning assets,interest,11177.0,capitalone-10q-2025q1.htm
+2024Q1,3,Total interest-earning assets,yield_pct,9.98,capitalone-10q-2025q1.htm
+2024Q1,3,"Total loans, including loans held for sale",avg_balance,315563.0,capitalone-10q-2025q1.htm
+2024Q1,3,"Total loans, including loans held for sale",interest,9920.0,capitalone-10q-2025q1.htm
+2024Q1,3,"Total loans, including loans held for sale",yield_pct,12.57,capitalone-10q-2025q1.htm
+2024Q2,3,Cash equivalents and other interest-earning assets,avg_balance,45584.0,capitalone-10q-2025q2.htm
+2024Q2,3,Cash equivalents and other interest-earning assets,interest,587.0,capitalone-10q-2025q2.htm
+2024Q2,3,Cash equivalents and other interest-earning assets,yield_pct,5.16,capitalone-10q-2025q2.htm
+2024Q2,3,Commercial banking,avg_balance,89571.0,capitalone-10q-2025q2.htm
+2024Q2,3,Commercial banking,interest,1616.0,capitalone-10q-2025q2.htm
+2024Q2,3,Commercial banking,yield_pct,7.22,capitalone-10q-2025q2.htm
+2024Q2,3,Consumer banking,avg_balance,75386.0,capitalone-10q-2025q2.htm
+2024Q2,3,Consumer banking,interest,1611.0,capitalone-10q-2025q2.htm
+2024Q2,3,Consumer banking,yield_pct,8.54,capitalone-10q-2025q2.htm
+2024Q2,3,Credit card,avg_balance,150866.0,capitalone-10q-2025q2.htm
+2024Q2,3,Credit card,interest,7088.0,capitalone-10q-2025q2.htm
+2024Q2,3,Credit card,yield_pct,18.79,capitalone-10q-2025q2.htm
+2024Q2,3,Interest-bearing deposits,avg_balance,322581.0,capitalone-10q-2025q2.htm
+2024Q2,3,Interest-bearing deposits,interest,2874.0,capitalone-10q-2025q2.htm
+2024Q2,3,Interest-bearing deposits,yield_pct,3.56,capitalone-10q-2025q2.htm
+2024Q2,3,Investment securities,avg_balance,89501.0,capitalone-10q-2025q2.htm
+2024Q2,3,Investment securities,interest,700.0,capitalone-10q-2025q2.htm
+2024Q2,3,Investment securities,yield_pct,3.13,capitalone-10q-2025q2.htm
+2024Q2,3,Other borrowings and interest-bearing liabilities,avg_balance,2502.0,capitalone-10q-2025q2.htm
+2024Q2,3,Other borrowings and interest-bearing liabilities,interest,11.0,capitalone-10q-2025q2.htm
+2024Q2,3,Other borrowings and interest-bearing liabilities,yield_pct,1.73,capitalone-10q-2025q2.htm
+2024Q2,3,Securitized debt obligations,avg_balance,17452.0,capitalone-10q-2025q2.htm
+2024Q2,3,Securitized debt obligations,interest,258.0,capitalone-10q-2025q2.htm
+2024Q2,3,Securitized debt obligations,yield_pct,5.91,capitalone-10q-2025q2.htm
+2024Q2,3,Senior and subordinated notes,avg_balance,30978.0,capitalone-10q-2025q2.htm
+2024Q2,3,Senior and subordinated notes,interest,591.0,capitalone-10q-2025q2.htm
+2024Q2,3,Senior and subordinated notes,yield_pct,7.64,capitalone-10q-2025q2.htm
+2024Q2,3,Total interest-bearing liabilities,avg_balance,373513.0,capitalone-10q-2025q2.htm
+2024Q2,3,Total interest-bearing liabilities,interest,3734.0,capitalone-10q-2025q2.htm
+2024Q2,3,Total interest-bearing liabilities,yield_pct,4.0,capitalone-10q-2025q2.htm
+2024Q2,3,Total interest-earning assets,avg_balance,450908.0,capitalone-10q-2025q2.htm
+2024Q2,3,Total interest-earning assets,interest,11280.0,capitalone-10q-2025q2.htm
+2024Q2,3,Total interest-earning assets,yield_pct,10.01,capitalone-10q-2025q2.htm
+2024Q2,3,"Total loans, including loans held for sale",avg_balance,315823.0,capitalone-10q-2025q2.htm
+2024Q2,3,"Total loans, including loans held for sale",interest,9993.0,capitalone-10q-2025q2.htm
+2024Q2,3,"Total loans, including loans held for sale",yield_pct,12.66,capitalone-10q-2025q2.htm
+2024Q2,6,Cash equivalents and other interest-earning assets,avg_balance,44622.0,capitalone-10q-2025q2.htm
+2024Q2,6,Cash equivalents and other interest-earning assets,interest,1157.0,capitalone-10q-2025q2.htm
+2024Q2,6,Cash equivalents and other interest-earning assets,yield_pct,5.19,capitalone-10q-2025q2.htm
+2024Q2,6,Commercial banking,avg_balance,89997.0,capitalone-10q-2025q2.htm
+2024Q2,6,Commercial banking,interest,3228.0,capitalone-10q-2025q2.htm
+2024Q2,6,Commercial banking,yield_pct,7.17,capitalone-10q-2025q2.htm
+2024Q2,6,Consumer banking,avg_balance,75239.0,capitalone-10q-2025q2.htm
+2024Q2,6,Consumer banking,interest,3175.0,capitalone-10q-2025q2.htm
+2024Q2,6,Consumer banking,yield_pct,8.44,capitalone-10q-2025q2.htm
+2024Q2,6,Credit card,avg_balance,150457.0,capitalone-10q-2025q2.htm
+2024Q2,6,Credit card,interest,14155.0,capitalone-10q-2025q2.htm
+2024Q2,6,Credit card,yield_pct,18.82,capitalone-10q-2025q2.htm
+2024Q2,6,Interest-bearing deposits,avg_balance,320515.0,capitalone-10q-2025q2.htm
+2024Q2,6,Interest-bearing deposits,interest,5686.0,capitalone-10q-2025q2.htm
+2024Q2,6,Interest-bearing deposits,yield_pct,3.55,capitalone-10q-2025q2.htm
+2024Q2,6,Investment securities,avg_balance,89041.0,capitalone-10q-2025q2.htm
+2024Q2,6,Investment securities,interest,1387.0,capitalone-10q-2025q2.htm
+2024Q2,6,Investment securities,yield_pct,3.12,capitalone-10q-2025q2.htm
+2024Q2,6,Other borrowings and interest-bearing liabilities,avg_balance,2438.0,capitalone-10q-2025q2.htm
+2024Q2,6,Other borrowings and interest-bearing liabilities,interest,21.0,capitalone-10q-2025q2.htm
+2024Q2,6,Other borrowings and interest-bearing liabilities,yield_pct,1.75,capitalone-10q-2025q2.htm
+2024Q2,6,Securitized debt obligations,avg_balance,17644.0,capitalone-10q-2025q2.htm
+2024Q2,6,Securitized debt obligations,interest,519.0,capitalone-10q-2025q2.htm
+2024Q2,6,Securitized debt obligations,yield_pct,5.88,capitalone-10q-2025q2.htm
+2024Q2,6,Senior and subordinated notes,avg_balance,31594.0,capitalone-10q-2025q2.htm
+2024Q2,6,Senior and subordinated notes,interest,1197.0,capitalone-10q-2025q2.htm
+2024Q2,6,Senior and subordinated notes,yield_pct,7.58,capitalone-10q-2025q2.htm
+2024Q2,6,Total interest-bearing liabilities,avg_balance,372191.0,capitalone-10q-2025q2.htm
+2024Q2,6,Total interest-bearing liabilities,interest,7423.0,capitalone-10q-2025q2.htm
+2024Q2,6,Total interest-bearing liabilities,yield_pct,3.99,capitalone-10q-2025q2.htm
+2024Q2,6,Total interest-earning assets,avg_balance,449356.0,capitalone-10q-2025q2.htm
+2024Q2,6,Total interest-earning assets,interest,22457.0,capitalone-10q-2025q2.htm
+2024Q2,6,Total interest-earning assets,yield_pct,10.0,capitalone-10q-2025q2.htm
+2024Q2,6,"Total loans, including loans held for sale",avg_balance,315693.0,capitalone-10q-2025q2.htm
+2024Q2,6,"Total loans, including loans held for sale",interest,19913.0,capitalone-10q-2025q2.htm
+2024Q2,6,"Total loans, including loans held for sale",yield_pct,12.62,capitalone-10q-2025q2.htm
+2024Q3,3,Cash equivalents and other interest-earning assets,avg_balance,45125.0,capitalone-10q-2025q3.htm
+2024Q3,3,Cash equivalents and other interest-earning assets,interest,580.0,capitalone-10q-2025q3.htm
+2024Q3,3,Cash equivalents and other interest-earning assets,yield_pct,5.14,capitalone-10q-2025q3.htm
+2024Q3,3,Commercial banking,avg_balance,88373.0,capitalone-10q-2025q3.htm
+2024Q3,3,Commercial banking,interest,1601.0,capitalone-10q-2025q3.htm
+2024Q3,3,Commercial banking,yield_pct,7.24,capitalone-10q-2025q3.htm
+2024Q3,3,Consumer banking,avg_balance,76182.0,capitalone-10q-2025q3.htm
+2024Q3,3,Consumer banking,interest,1692.0,capitalone-10q-2025q3.htm
+2024Q3,3,Consumer banking,yield_pct,8.88,capitalone-10q-2025q3.htm
+2024Q3,3,Credit card,avg_balance,154160.0,capitalone-10q-2025q3.htm
+2024Q3,3,Credit card,interest,7578.0,capitalone-10q-2025q3.htm
+2024Q3,3,Credit card,yield_pct,19.66,capitalone-10q-2025q3.htm
+2024Q3,3,Interest-bearing deposits,avg_balance,324509.0,capitalone-10q-2025q3.htm
+2024Q3,3,Interest-bearing deposits,interest,2945.0,capitalone-10q-2025q3.htm
+2024Q3,3,Interest-bearing deposits,yield_pct,3.63,capitalone-10q-2025q3.htm
+2024Q3,3,Investment securities,avg_balance,90644.0,capitalone-10q-2025q3.htm
+2024Q3,3,Investment securities,interest,733.0,capitalone-10q-2025q3.htm
+2024Q3,3,Investment securities,yield_pct,3.24,capitalone-10q-2025q3.htm
+2024Q3,3,Other borrowings and interest-bearing liabilities,avg_balance,2389.0,capitalone-10q-2025q3.htm
+2024Q3,3,Other borrowings and interest-bearing liabilities,interest,9.0,capitalone-10q-2025q3.htm
+2024Q3,3,Other borrowings and interest-bearing liabilities,yield_pct,1.5,capitalone-10q-2025q3.htm
+2024Q3,3,Securitized debt obligations,avg_balance,15833.0,capitalone-10q-2025q3.htm
+2024Q3,3,Securitized debt obligations,interest,234.0,capitalone-10q-2025q3.htm
+2024Q3,3,Securitized debt obligations,yield_pct,5.93,capitalone-10q-2025q3.htm
+2024Q3,3,Senior and subordinated notes,avg_balance,32041.0,capitalone-10q-2025q3.htm
+2024Q3,3,Senior and subordinated notes,interest,596.0,capitalone-10q-2025q3.htm
+2024Q3,3,Senior and subordinated notes,yield_pct,7.43,capitalone-10q-2025q3.htm
+2024Q3,3,Total interest-bearing liabilities,avg_balance,374772.0,capitalone-10q-2025q3.htm
+2024Q3,3,Total interest-bearing liabilities,interest,3784.0,capitalone-10q-2025q3.htm
+2024Q3,3,Total interest-bearing liabilities,yield_pct,4.04,capitalone-10q-2025q3.htm
+2024Q3,3,Total interest-earning assets,avg_balance,454484.0,capitalone-10q-2025q3.htm
+2024Q3,3,Total interest-earning assets,interest,11860.0,capitalone-10q-2025q3.htm
+2024Q3,3,Total interest-earning assets,yield_pct,10.44,capitalone-10q-2025q3.htm
+2024Q3,3,"Total loans, including loans held for sale",avg_balance,318715.0,capitalone-10q-2025q3.htm
+2024Q3,3,"Total loans, including loans held for sale",interest,10547.0,capitalone-10q-2025q3.htm
+2024Q3,3,"Total loans, including loans held for sale",yield_pct,13.24,capitalone-10q-2025q3.htm
+2024Q3,9,Cash equivalents and other interest-earning assets,avg_balance,44791.0,capitalone-10q-2025q3.htm
+2024Q3,9,Cash equivalents and other interest-earning assets,interest,1737.0,capitalone-10q-2025q3.htm
+2024Q3,9,Cash equivalents and other interest-earning assets,yield_pct,5.17,capitalone-10q-2025q3.htm
+2024Q3,9,Commercial banking,avg_balance,89452.0,capitalone-10q-2025q3.htm
+2024Q3,9,Commercial banking,interest,4829.0,capitalone-10q-2025q3.htm
+2024Q3,9,Commercial banking,yield_pct,7.2,capitalone-10q-2025q3.htm
+2024Q3,9,Consumer banking,avg_balance,75555.0,capitalone-10q-2025q3.htm
+2024Q3,9,Consumer banking,interest,4867.0,capitalone-10q-2025q3.htm
+2024Q3,9,Consumer banking,yield_pct,8.59,capitalone-10q-2025q3.htm
+2024Q3,9,Credit card,avg_balance,151700.0,capitalone-10q-2025q3.htm
+2024Q3,9,Credit card,interest,21733.0,capitalone-10q-2025q3.htm
+2024Q3,9,Credit card,yield_pct,19.1,capitalone-10q-2025q3.htm
+2024Q3,9,Interest-bearing deposits,avg_balance,321856.0,capitalone-10q-2025q3.htm
+2024Q3,9,Interest-bearing deposits,interest,8631.0,capitalone-10q-2025q3.htm
+2024Q3,9,Interest-bearing deposits,yield_pct,3.58,capitalone-10q-2025q3.htm
+2024Q3,9,Investment securities,avg_balance,89580.0,capitalone-10q-2025q3.htm
+2024Q3,9,Investment securities,interest,2120.0,capitalone-10q-2025q3.htm
+2024Q3,9,Investment securities,yield_pct,3.16,capitalone-10q-2025q3.htm
+2024Q3,9,Other borrowings and interest-bearing liabilities,avg_balance,2422.0,capitalone-10q-2025q3.htm
+2024Q3,9,Other borrowings and interest-bearing liabilities,interest,30.0,capitalone-10q-2025q3.htm
+2024Q3,9,Other borrowings and interest-bearing liabilities,yield_pct,1.67,capitalone-10q-2025q3.htm
+2024Q3,9,Securitized debt obligations,avg_balance,17036.0,capitalone-10q-2025q3.htm
+2024Q3,9,Securitized debt obligations,interest,753.0,capitalone-10q-2025q3.htm
+2024Q3,9,Securitized debt obligations,yield_pct,5.9,capitalone-10q-2025q3.htm
+2024Q3,9,Senior and subordinated notes,avg_balance,31744.0,capitalone-10q-2025q3.htm
+2024Q3,9,Senior and subordinated notes,interest,1793.0,capitalone-10q-2025q3.htm
+2024Q3,9,Senior and subordinated notes,yield_pct,7.53,capitalone-10q-2025q3.htm
+2024Q3,9,Total interest-bearing liabilities,avg_balance,373058.0,capitalone-10q-2025q3.htm
+2024Q3,9,Total interest-bearing liabilities,interest,11207.0,capitalone-10q-2025q3.htm
+2024Q3,9,Total interest-bearing liabilities,yield_pct,4.01,capitalone-10q-2025q3.htm
+2024Q3,9,Total interest-earning assets,avg_balance,451078.0,capitalone-10q-2025q3.htm
+2024Q3,9,Total interest-earning assets,interest,34317.0,capitalone-10q-2025q3.htm
+2024Q3,9,Total interest-earning assets,yield_pct,10.14,capitalone-10q-2025q3.htm
+2024Q3,9,"Total loans, including loans held for sale",avg_balance,316707.0,capitalone-10q-2025q3.htm
+2024Q3,9,"Total loans, including loans held for sale",interest,30460.0,capitalone-10q-2025q3.htm
+2024Q3,9,"Total loans, including loans held for sale",yield_pct,12.82,capitalone-10q-2025q3.htm
+2025FY,12,Cash equivalents and other interest-earning assets,avg_balance,54656.0,capitalone-10k-fy2025.htm
+2025FY,12,Cash equivalents and other interest-earning assets,interest,2457.0,capitalone-10k-fy2025.htm
+2025FY,12,Cash equivalents and other interest-earning assets,yield_pct,4.5,capitalone-10k-fy2025.htm
+2025FY,12,Commercial banking,avg_balance,88685.0,capitalone-10k-fy2025.htm
+2025FY,12,Commercial banking,interest,5585.0,capitalone-10k-fy2025.htm
+2025FY,12,Commercial banking,yield_pct,6.3,capitalone-10k-fy2025.htm
+2025FY,12,Consumer banking,avg_balance,81225.0,capitalone-10k-fy2025.htm
+2025FY,12,Consumer banking,interest,7604.0,capitalone-10k-fy2025.htm
+2025FY,12,Consumer banking,yield_pct,9.36,capitalone-10k-fy2025.htm
+2025FY,12,Credit card,avg_balance,227309.0,capitalone-10k-fy2025.htm
+2025FY,12,Credit card,interest,40813.0,capitalone-10k-fy2025.htm
+2025FY,12,Credit card,yield_pct,17.95,capitalone-10k-fy2025.htm
+2025FY,12,Interest-bearing deposits,avg_balance,402209.0,capitalone-10k-fy2025.htm
+2025FY,12,Interest-bearing deposits,interest,12925.0,capitalone-10k-fy2025.htm
+2025FY,12,Interest-bearing deposits,yield_pct,3.21,capitalone-10k-fy2025.htm
+2025FY,12,Investment securities,avg_balance,94810.0,capitalone-10k-fy2025.htm
+2025FY,12,Investment securities,interest,3218.0,capitalone-10k-fy2025.htm
+2025FY,12,Investment securities,yield_pct,3.39,capitalone-10k-fy2025.htm
+2025FY,12,Other borrowings and interest-bearing liabilities,avg_balance,3016.0,capitalone-10k-fy2025.htm
+2025FY,12,Other borrowings and interest-bearing liabilities,interest,61.0,capitalone-10k-fy2025.htm
+2025FY,12,Other borrowings and interest-bearing liabilities,yield_pct,2.02,capitalone-10k-fy2025.htm
+2025FY,12,Securitized debt obligations,avg_balance,13088.0,capitalone-10k-fy2025.htm
+2025FY,12,Securitized debt obligations,interest,660.0,capitalone-10k-fy2025.htm
+2025FY,12,Securitized debt obligations,yield_pct,5.04,capitalone-10k-fy2025.htm
+2025FY,12,Senior and subordinated notes,avg_balance,34017.0,capitalone-10k-fy2025.htm
+2025FY,12,Senior and subordinated notes,interest,2172.0,capitalone-10k-fy2025.htm
+2025FY,12,Senior and subordinated notes,yield_pct,6.39,capitalone-10k-fy2025.htm
+2025FY,12,Total interest-bearing liabilities,avg_balance,452330.0,capitalone-10k-fy2025.htm
+2025FY,12,Total interest-bearing liabilities,interest,15818.0,capitalone-10k-fy2025.htm
+2025FY,12,Total interest-bearing liabilities,yield_pct,3.5,capitalone-10k-fy2025.htm
+2025FY,12,Total interest-earning assets,avg_balance,546685.0,capitalone-10k-fy2025.htm
+2025FY,12,Total interest-earning assets,interest,58696.0,capitalone-10k-fy2025.htm
+2025FY,12,Total interest-earning assets,yield_pct,10.74,capitalone-10k-fy2025.htm
+2025FY,12,"Total loans, including loans held for sale",avg_balance,397219.0,capitalone-10k-fy2025.htm
+2025FY,12,"Total loans, including loans held for sale",interest,53021.0,capitalone-10k-fy2025.htm
+2025FY,12,"Total loans, including loans held for sale",yield_pct,13.35,capitalone-10k-fy2025.htm
+2025Q1,3,Cash equivalents and other interest-earning assets,avg_balance,47340.0,capitalone-10q-2026q1.htm
+2025Q1,3,Cash equivalents and other interest-earning assets,interest,491.0,capitalone-10q-2026q1.htm
+2025Q1,3,Cash equivalents and other interest-earning assets,yield_pct,4.14,capitalone-10q-2026q1.htm
+2025Q1,3,Commercial banking,avg_balance,87884.0,capitalone-10q-2026q1.htm
+2025Q1,3,Commercial banking,interest,1382.0,capitalone-10q-2026q1.htm
+2025Q1,3,Commercial banking,yield_pct,6.29,capitalone-10q-2026q1.htm
+2025Q1,3,Consumer banking,avg_balance,78480.0,capitalone-10q-2026q1.htm
+2025Q1,3,Consumer banking,interest,1773.0,capitalone-10q-2026q1.htm
+2025Q1,3,Consumer banking,yield_pct,9.03,capitalone-10q-2026q1.htm
+2025Q1,3,Credit card,avg_balance,156408.0,capitalone-10q-2026q1.htm
+2025Q1,3,Credit card,interest,7248.0,capitalone-10q-2026q1.htm
+2025Q1,3,Credit card,yield_pct,18.54,capitalone-10q-2026q1.htm
+2025Q1,3,Interest-bearing deposits,avg_balance,337840.0,capitalone-10q-2026q1.htm
+2025Q1,3,Interest-bearing deposits,interest,2715.0,capitalone-10q-2026q1.htm
+2025Q1,3,Interest-bearing deposits,yield_pct,3.22,capitalone-10q-2026q1.htm
+2025Q1,3,Investment securities,avg_balance,92659.0,capitalone-10q-2026q1.htm
+2025Q1,3,Investment securities,interest,770.0,capitalone-10q-2026q1.htm
+2025Q1,3,Investment securities,yield_pct,3.32,capitalone-10q-2026q1.htm
+2025Q1,3,Other borrowings and interest-bearing liabilities,avg_balance,2312.0,capitalone-10q-2026q1.htm
+2025Q1,3,Other borrowings and interest-bearing liabilities,interest,9.0,capitalone-10q-2026q1.htm
+2025Q1,3,Other borrowings and interest-bearing liabilities,yield_pct,1.57,capitalone-10q-2026q1.htm
+2025Q1,3,Securitized debt obligations,avg_balance,13731.0,capitalone-10q-2026q1.htm
+2025Q1,3,Securitized debt obligations,interest,176.0,capitalone-10q-2026q1.htm
+2025Q1,3,Securitized debt obligations,yield_pct,5.11,capitalone-10q-2026q1.htm
+2025Q1,3,Senior and subordinated notes,avg_balance,30331.0,capitalone-10q-2026q1.htm
+2025Q1,3,Senior and subordinated notes,interest,505.0,capitalone-10q-2026q1.htm
+2025Q1,3,Senior and subordinated notes,yield_pct,6.66,capitalone-10q-2026q1.htm
+2025Q1,3,Total interest-bearing liabilities,avg_balance,384214.0,capitalone-10q-2026q1.htm
+2025Q1,3,Total interest-bearing liabilities,interest,3405.0,capitalone-10q-2026q1.htm
+2025Q1,3,Total interest-bearing liabilities,yield_pct,3.54,capitalone-10q-2026q1.htm
+2025Q1,3,Total interest-earning assets,avg_balance,462771.0,capitalone-10q-2026q1.htm
+2025Q1,3,Total interest-earning assets,interest,11418.0,capitalone-10q-2026q1.htm
+2025Q1,3,Total interest-earning assets,yield_pct,9.87,capitalone-10q-2026q1.htm
+2025Q1,3,"Total loans, including loans held for sale",avg_balance,322772.0,capitalone-10q-2026q1.htm
+2025Q1,3,"Total loans, including loans held for sale",interest,10157.0,capitalone-10q-2026q1.htm
+2025Q1,3,"Total loans, including loans held for sale",yield_pct,12.59,capitalone-10q-2026q1.htm
+2025Q2,3,Cash equivalents and other interest-earning assets,avg_balance,53368.0,capitalone-10q-2026q2.htm
+2025Q2,3,Cash equivalents and other interest-earning assets,interest,595.0,capitalone-10q-2026q2.htm
+2025Q2,3,Cash equivalents and other interest-earning assets,yield_pct,4.46,capitalone-10q-2026q2.htm
+2025Q2,3,Commercial banking,avg_balance,88749.0,capitalone-10q-2026q2.htm
+2025Q2,3,Commercial banking,interest,1421.0,capitalone-10q-2026q2.htm
+2025Q2,3,Commercial banking,yield_pct,6.4,capitalone-10q-2026q2.htm
+2025Q2,3,Consumer banking,avg_balance,80095.0,capitalone-10q-2026q2.htm
+2025Q2,3,Consumer banking,interest,1861.0,capitalone-10q-2026q2.htm
+2025Q2,3,Consumer banking,yield_pct,9.3,capitalone-10q-2026q2.htm
+2025Q2,3,Credit card,avg_balance,209693.0,capitalone-10q-2026q2.htm
+2025Q2,3,Credit card,interest,9407.0,capitalone-10q-2026q2.htm
+2025Q2,3,Credit card,yield_pct,17.94,capitalone-10q-2026q2.htm
+2025Q2,3,Interest-bearing deposits,avg_balance,387139.0,capitalone-10q-2026q2.htm
+2025Q2,3,Interest-bearing deposits,interest,3120.0,capitalone-10q-2026q2.htm
+2025Q2,3,Interest-bearing deposits,yield_pct,3.22,capitalone-10q-2026q2.htm
+2025Q2,3,Investment securities,avg_balance,93024.0,capitalone-10q-2026q2.htm
+2025Q2,3,Investment securities,interest,784.0,capitalone-10q-2026q2.htm
+2025Q2,3,Investment securities,yield_pct,3.37,capitalone-10q-2026q2.htm
+2025Q2,3,Other borrowings and interest-bearing liabilities,avg_balance,2872.0,capitalone-10q-2026q2.htm
+2025Q2,3,Other borrowings and interest-bearing liabilities,interest,14.0,capitalone-10q-2026q2.htm
+2025Q2,3,Other borrowings and interest-bearing liabilities,yield_pct,1.85,capitalone-10q-2026q2.htm
+2025Q2,3,Securitized debt obligations,avg_balance,13043.0,capitalone-10q-2026q2.htm
+2025Q2,3,Securitized debt obligations,interest,164.0,capitalone-10q-2026q2.htm
+2025Q2,3,Securitized debt obligations,yield_pct,5.06,capitalone-10q-2026q2.htm
+2025Q2,3,Senior and subordinated notes,avg_balance,32872.0,capitalone-10q-2026q2.htm
+2025Q2,3,Senior and subordinated notes,interest,535.0,capitalone-10q-2026q2.htm
+2025Q2,3,Senior and subordinated notes,yield_pct,6.51,capitalone-10q-2026q2.htm
+2025Q2,3,Total interest-bearing liabilities,avg_balance,435926.0,capitalone-10q-2026q2.htm
+2025Q2,3,Total interest-bearing liabilities,interest,3833.0,capitalone-10q-2026q2.htm
+2025Q2,3,Total interest-bearing liabilities,yield_pct,3.52,capitalone-10q-2026q2.htm
+2025Q2,3,Total interest-earning assets,avg_balance,524929.0,capitalone-10q-2026q2.htm
+2025Q2,3,Total interest-earning assets,interest,13828.0,capitalone-10q-2026q2.htm
+2025Q2,3,Total interest-earning assets,yield_pct,10.54,capitalone-10q-2026q2.htm
+2025Q2,3,"Total loans, including loans held for sale",avg_balance,378537.0,capitalone-10q-2026q2.htm
+2025Q2,3,"Total loans, including loans held for sale",interest,12449.0,capitalone-10q-2026q2.htm
+2025Q2,3,"Total loans, including loans held for sale",yield_pct,13.15,capitalone-10q-2026q2.htm
+2025Q2,6,Cash equivalents and other interest-earning assets,avg_balance,50371.0,capitalone-10q-2026q2.htm
+2025Q2,6,Cash equivalents and other interest-earning assets,interest,1086.0,capitalone-10q-2026q2.htm
+2025Q2,6,Cash equivalents and other interest-earning assets,yield_pct,4.31,capitalone-10q-2026q2.htm
+2025Q2,6,Commercial banking,avg_balance,88319.0,capitalone-10q-2026q2.htm
+2025Q2,6,Commercial banking,interest,2803.0,capitalone-10q-2026q2.htm
+2025Q2,6,Commercial banking,yield_pct,6.35,capitalone-10q-2026q2.htm
+2025Q2,6,Consumer banking,avg_balance,79292.0,capitalone-10q-2026q2.htm
+2025Q2,6,Consumer banking,interest,3634.0,capitalone-10q-2026q2.htm
+2025Q2,6,Consumer banking,yield_pct,9.17,capitalone-10q-2026q2.htm
+2025Q2,6,Credit card,avg_balance,183197.0,capitalone-10q-2026q2.htm
+2025Q2,6,Credit card,interest,16655.0,capitalone-10q-2026q2.htm
+2025Q2,6,Credit card,yield_pct,18.18,capitalone-10q-2026q2.htm
+2025Q2,6,Interest-bearing deposits,avg_balance,362626.0,capitalone-10q-2026q2.htm
+2025Q2,6,Interest-bearing deposits,interest,5835.0,capitalone-10q-2026q2.htm
+2025Q2,6,Interest-bearing deposits,yield_pct,3.22,capitalone-10q-2026q2.htm
+2025Q2,6,Investment securities,avg_balance,92843.0,capitalone-10q-2026q2.htm
+2025Q2,6,Investment securities,interest,1554.0,capitalone-10q-2026q2.htm
+2025Q2,6,Investment securities,yield_pct,3.35,capitalone-10q-2026q2.htm
+2025Q2,6,Other borrowings and interest-bearing liabilities,avg_balance,2593.0,capitalone-10q-2026q2.htm
+2025Q2,6,Other borrowings and interest-bearing liabilities,interest,23.0,capitalone-10q-2026q2.htm
+2025Q2,6,Other borrowings and interest-bearing liabilities,yield_pct,1.73,capitalone-10q-2026q2.htm
+2025Q2,6,Securitized debt obligations,avg_balance,13385.0,capitalone-10q-2026q2.htm
+2025Q2,6,Securitized debt obligations,interest,340.0,capitalone-10q-2026q2.htm
+2025Q2,6,Securitized debt obligations,yield_pct,5.09,capitalone-10q-2026q2.htm
+2025Q2,6,Senior and subordinated notes,avg_balance,31609.0,capitalone-10q-2026q2.htm
+2025Q2,6,Senior and subordinated notes,interest,1040.0,capitalone-10q-2026q2.htm
+2025Q2,6,Senior and subordinated notes,yield_pct,6.58,capitalone-10q-2026q2.htm
+2025Q2,6,Total interest-bearing liabilities,avg_balance,410213.0,capitalone-10q-2026q2.htm
+2025Q2,6,Total interest-bearing liabilities,interest,7238.0,capitalone-10q-2026q2.htm
+2025Q2,6,Total interest-bearing liabilities,yield_pct,3.53,capitalone-10q-2026q2.htm
+2025Q2,6,Total interest-earning assets,avg_balance,494022.0,capitalone-10q-2026q2.htm
+2025Q2,6,Total interest-earning assets,interest,25246.0,capitalone-10q-2026q2.htm
+2025Q2,6,Total interest-earning assets,yield_pct,10.22,capitalone-10q-2026q2.htm
+2025Q2,6,"Total loans, including loans held for sale",avg_balance,350808.0,capitalone-10q-2026q2.htm
+2025Q2,6,"Total loans, including loans held for sale",interest,22606.0,capitalone-10q-2026q2.htm
+2025Q2,6,"Total loans, including loans held for sale",yield_pct,12.89,capitalone-10q-2026q2.htm
+2025Q3,3,Cash equivalents and other interest-earning assets,avg_balance,56687.0,capitalone-10q-2025q3.htm
+2025Q3,3,Cash equivalents and other interest-earning assets,interest,711.0,capitalone-10q-2025q3.htm
+2025Q3,3,Cash equivalents and other interest-earning assets,yield_pct,5.02,capitalone-10q-2025q3.htm
+2025Q3,3,Commercial banking,avg_balance,88904.0,capitalone-10q-2025q3.htm
+2025Q3,3,Commercial banking,interest,1426.0,capitalone-10q-2025q3.htm
+2025Q3,3,Commercial banking,yield_pct,6.42,capitalone-10q-2025q3.htm
+2025Q3,3,Consumer banking,avg_balance,82295.0,capitalone-10q-2025q3.htm
+2025Q3,3,Consumer banking,interest,1958.0,capitalone-10q-2025q3.htm
+2025Q3,3,Consumer banking,yield_pct,9.52,capitalone-10q-2025q3.htm
+2025Q3,3,Credit card,avg_balance,269175.0,capitalone-10q-2025q3.htm
+2025Q3,3,Credit card,interest,12109.0,capitalone-10q-2025q3.htm
+2025Q3,3,Credit card,yield_pct,17.99,capitalone-10q-2025q3.htm
+2025Q3,3,Interest-bearing deposits,avg_balance,439527.0,capitalone-10q-2025q3.htm
+2025Q3,3,Interest-bearing deposits,interest,3597.0,capitalone-10q-2025q3.htm
+2025Q3,3,Interest-bearing deposits,yield_pct,3.27,capitalone-10q-2025q3.htm
+2025Q3,3,Investment securities,avg_balance,96186.0,capitalone-10q-2025q3.htm
+2025Q3,3,Investment securities,interest,823.0,capitalone-10q-2025q3.htm
+2025Q3,3,Investment securities,yield_pct,3.42,capitalone-10q-2025q3.htm
+2025Q3,3,Other borrowings and interest-bearing liabilities,avg_balance,3120.0,capitalone-10q-2025q3.htm
+2025Q3,3,Other borrowings and interest-bearing liabilities,interest,15.0,capitalone-10q-2025q3.htm
+2025Q3,3,Other borrowings and interest-bearing liabilities,yield_pct,2.04,capitalone-10q-2025q3.htm
+2025Q3,3,Securitized debt obligations,avg_balance,12919.0,capitalone-10q-2025q3.htm
+2025Q3,3,Securitized debt obligations,interest,165.0,capitalone-10q-2025q3.htm
+2025Q3,3,Securitized debt obligations,yield_pct,5.11,capitalone-10q-2025q3.htm
+2025Q3,3,Senior and subordinated notes,avg_balance,36272.0,capitalone-10q-2025q3.htm
+2025Q3,3,Senior and subordinated notes,interest,582.0,capitalone-10q-2025q3.htm
+2025Q3,3,Senior and subordinated notes,yield_pct,6.41,capitalone-10q-2025q3.htm
+2025Q3,3,Total interest-bearing liabilities,avg_balance,491838.0,capitalone-10q-2025q3.htm
+2025Q3,3,Total interest-bearing liabilities,interest,4359.0,capitalone-10q-2025q3.htm
+2025Q3,3,Total interest-bearing liabilities,yield_pct,3.55,capitalone-10q-2025q3.htm
+2025Q3,3,Total interest-earning assets,avg_balance,593247.0,capitalone-10q-2025q3.htm
+2025Q3,3,Total interest-earning assets,interest,16763.0,capitalone-10q-2025q3.htm
+2025Q3,3,Total interest-earning assets,yield_pct,11.3,capitalone-10q-2025q3.htm
+2025Q3,3,"Total loans, including loans held for sale",avg_balance,440374.0,capitalone-10q-2025q3.htm
+2025Q3,3,"Total loans, including loans held for sale",interest,15229.0,capitalone-10q-2025q3.htm
+2025Q3,3,"Total loans, including loans held for sale",yield_pct,13.83,capitalone-10q-2025q3.htm
+2025Q3,9,Cash equivalents and other interest-earning assets,avg_balance,52499.0,capitalone-10q-2025q3.htm
+2025Q3,9,Cash equivalents and other interest-earning assets,interest,1797.0,capitalone-10q-2025q3.htm
+2025Q3,9,Cash equivalents and other interest-earning assets,yield_pct,4.56,capitalone-10q-2025q3.htm
+2025Q3,9,Commercial banking,avg_balance,88516.0,capitalone-10q-2025q3.htm
+2025Q3,9,Commercial banking,interest,4229.0,capitalone-10q-2025q3.htm
+2025Q3,9,Commercial banking,yield_pct,6.37,capitalone-10q-2025q3.htm
+2025Q3,9,Consumer banking,avg_balance,80304.0,capitalone-10q-2025q3.htm
+2025Q3,9,Consumer banking,interest,5592.0,capitalone-10q-2025q3.htm
+2025Q3,9,Consumer banking,yield_pct,9.28,capitalone-10q-2025q3.htm
+2025Q3,9,Credit card,avg_balance,212172.0,capitalone-10q-2025q3.htm
+2025Q3,9,Credit card,interest,28764.0,capitalone-10q-2025q3.htm
+2025Q3,9,Credit card,yield_pct,18.08,capitalone-10q-2025q3.htm
+2025Q3,9,Interest-bearing deposits,avg_balance,388541.0,capitalone-10q-2025q3.htm
+2025Q3,9,Interest-bearing deposits,interest,9432.0,capitalone-10q-2025q3.htm
+2025Q3,9,Interest-bearing deposits,yield_pct,3.24,capitalone-10q-2025q3.htm
+2025Q3,9,Investment securities,avg_balance,93970.0,capitalone-10q-2025q3.htm
+2025Q3,9,Investment securities,interest,2377.0,capitalone-10q-2025q3.htm
+2025Q3,9,Investment securities,yield_pct,3.37,capitalone-10q-2025q3.htm
+2025Q3,9,Other borrowings and interest-bearing liabilities,avg_balance,2771.0,capitalone-10q-2025q3.htm
+2025Q3,9,Other borrowings and interest-bearing liabilities,interest,38.0,capitalone-10q-2025q3.htm
+2025Q3,9,Other borrowings and interest-bearing liabilities,yield_pct,1.84,capitalone-10q-2025q3.htm
+2025Q3,9,Securitized debt obligations,avg_balance,13228.0,capitalone-10q-2025q3.htm
+2025Q3,9,Securitized debt obligations,interest,505.0,capitalone-10q-2025q3.htm
+2025Q3,9,Securitized debt obligations,yield_pct,5.1,capitalone-10q-2025q3.htm
+2025Q3,9,Senior and subordinated notes,avg_balance,33180.0,capitalone-10q-2025q3.htm
+2025Q3,9,Senior and subordinated notes,interest,1622.0,capitalone-10q-2025q3.htm
+2025Q3,9,Senior and subordinated notes,yield_pct,6.52,capitalone-10q-2025q3.htm
+2025Q3,9,Total interest-bearing liabilities,avg_balance,437720.0,capitalone-10q-2025q3.htm
+2025Q3,9,Total interest-bearing liabilities,interest,11597.0,capitalone-10q-2025q3.htm
+2025Q3,9,Total interest-bearing liabilities,yield_pct,3.53,capitalone-10q-2025q3.htm
+2025Q3,9,Total interest-earning assets,avg_balance,527461.0,capitalone-10q-2025q3.htm
+2025Q3,9,Total interest-earning assets,interest,42009.0,capitalone-10q-2025q3.htm
+2025Q3,9,Total interest-earning assets,yield_pct,10.62,capitalone-10q-2025q3.htm
+2025Q3,9,"Total loans, including loans held for sale",avg_balance,380992.0,capitalone-10q-2025q3.htm
+2025Q3,9,"Total loans, including loans held for sale",interest,37835.0,capitalone-10q-2025q3.htm
+2025Q3,9,"Total loans, including loans held for sale",yield_pct,13.24,capitalone-10q-2025q3.htm
+2026Q1,3,Cash equivalents and other interest-earning assets,avg_balance,72630.0,capitalone-10q-2026q1.htm
+2026Q1,3,Cash equivalents and other interest-earning assets,interest,664.0,capitalone-10q-2026q1.htm
+2026Q1,3,Cash equivalents and other interest-earning assets,yield_pct,3.66,capitalone-10q-2026q1.htm
+2026Q1,3,Commercial banking,avg_balance,90064.0,capitalone-10q-2026q1.htm
+2026Q1,3,Commercial banking,interest,1278.0,capitalone-10q-2026q1.htm
+2026Q1,3,Commercial banking,yield_pct,5.68,capitalone-10q-2026q1.htm
+2026Q1,3,Consumer banking,avg_balance,85701.0,capitalone-10q-2026q1.htm
+2026Q1,3,Consumer banking,interest,2020.0,capitalone-10q-2026q1.htm
+2026Q1,3,Consumer banking,yield_pct,9.43,capitalone-10q-2026q1.htm
+2026Q1,3,Credit card,avg_balance,270975.0,capitalone-10q-2026q1.htm
+2026Q1,3,Credit card,interest,11633.0,capitalone-10q-2026q1.htm
+2026Q1,3,Credit card,yield_pct,17.17,capitalone-10q-2026q1.htm
+2026Q1,3,Interest-bearing deposits,avg_balance,451957.0,capitalone-10q-2026q1.htm
+2026Q1,3,Interest-bearing deposits,interest,3387.0,capitalone-10q-2026q1.htm
+2026Q1,3,Interest-bearing deposits,yield_pct,3.0,capitalone-10q-2026q1.htm
+2026Q1,3,Investment securities,avg_balance,97803.0,capitalone-10q-2026q1.htm
+2026Q1,3,Investment securities,interest,832.0,capitalone-10q-2026q1.htm
+2026Q1,3,Investment securities,yield_pct,3.4,capitalone-10q-2026q1.htm
+2026Q1,3,Other borrowings and interest-bearing liabilities,avg_balance,4238.0,capitalone-10q-2026q1.htm
+2026Q1,3,Other borrowings and interest-bearing liabilities,interest,26.0,capitalone-10q-2026q1.htm
+2026Q1,3,Other borrowings and interest-bearing liabilities,yield_pct,2.44,capitalone-10q-2026q1.htm
+2026Q1,3,Securitized debt obligations,avg_balance,12476.0,capitalone-10q-2026q1.htm
+2026Q1,3,Securitized debt obligations,interest,141.0,capitalone-10q-2026q1.htm
+2026Q1,3,Securitized debt obligations,yield_pct,4.52,capitalone-10q-2026q1.htm
+2026Q1,3,Senior and subordinated notes,avg_balance,37846.0,capitalone-10q-2026q1.htm
+2026Q1,3,Senior and subordinated notes,interest,532.0,capitalone-10q-2026q1.htm
+2026Q1,3,Senior and subordinated notes,yield_pct,5.63,capitalone-10q-2026q1.htm
+2026Q1,3,Total interest-bearing liabilities,avg_balance,506517.0,capitalone-10q-2026q1.htm
+2026Q1,3,Total interest-bearing liabilities,interest,4086.0,capitalone-10q-2026q1.htm
+2026Q1,3,Total interest-bearing liabilities,yield_pct,3.23,capitalone-10q-2026q1.htm
+2026Q1,3,Total interest-earning assets,avg_balance,617173.0,capitalone-10q-2026q1.htm
+2026Q1,3,Total interest-earning assets,interest,16231.0,capitalone-10q-2026q1.htm
+2026Q1,3,Total interest-earning assets,yield_pct,10.52,capitalone-10q-2026q1.htm
+2026Q1,3,"Total loans, including loans held for sale",avg_balance,446740.0,capitalone-10q-2026q1.htm
+2026Q1,3,"Total loans, including loans held for sale",interest,14735.0,capitalone-10q-2026q1.htm
+2026Q1,3,"Total loans, including loans held for sale",yield_pct,13.19,capitalone-10q-2026q1.htm
+2026Q2,3,Cash equivalents and other interest-earning assets,avg_balance,67382.0,capitalone-10q-2026q2.htm
+2026Q2,3,Cash equivalents and other interest-earning assets,interest,624.0,capitalone-10q-2026q2.htm
+2026Q2,3,Cash equivalents and other interest-earning assets,yield_pct,3.7,capitalone-10q-2026q2.htm
+2026Q2,3,Commercial banking,avg_balance,91082.0,capitalone-10q-2026q2.htm
+2026Q2,3,Commercial banking,interest,1308.0,capitalone-10q-2026q2.htm
+2026Q2,3,Commercial banking,yield_pct,5.75,capitalone-10q-2026q2.htm
+2026Q2,3,Consumer banking,avg_balance,88583.0,capitalone-10q-2026q2.htm
+2026Q2,3,Consumer banking,interest,2121.0,capitalone-10q-2026q2.htm
+2026Q2,3,Consumer banking,yield_pct,9.57,capitalone-10q-2026q2.htm
+2026Q2,3,Credit card,avg_balance,271197.0,capitalone-10q-2026q2.htm
+2026Q2,3,Credit card,interest,11670.0,capitalone-10q-2026q2.htm
+2026Q2,3,Credit card,yield_pct,17.21,capitalone-10q-2026q2.htm
+2026Q2,3,Interest-bearing deposits,avg_balance,458130.0,capitalone-10q-2026q2.htm
+2026Q2,3,Interest-bearing deposits,interest,3338.0,capitalone-10q-2026q2.htm
+2026Q2,3,Interest-bearing deposits,yield_pct,2.91,capitalone-10q-2026q2.htm
+2026Q2,3,Investment securities,avg_balance,99339.0,capitalone-10q-2026q2.htm
+2026Q2,3,Investment securities,interest,850.0,capitalone-10q-2026q2.htm
+2026Q2,3,Investment securities,yield_pct,3.42,capitalone-10q-2026q2.htm
+2026Q2,3,Other borrowings and interest-bearing liabilities,avg_balance,3838.0,capitalone-10q-2026q2.htm
+2026Q2,3,Other borrowings and interest-bearing liabilities,interest,21.0,capitalone-10q-2026q2.htm
+2026Q2,3,Other borrowings and interest-bearing liabilities,yield_pct,2.3,capitalone-10q-2026q2.htm
+2026Q2,3,Securitized debt obligations,avg_balance,10190.0,capitalone-10q-2026q2.htm
+2026Q2,3,Securitized debt obligations,interest,117.0,capitalone-10q-2026q2.htm
+2026Q2,3,Securitized debt obligations,yield_pct,4.59,capitalone-10q-2026q2.htm
+2026Q2,3,Senior and subordinated notes,avg_balance,37498.0,capitalone-10q-2026q2.htm
+2026Q2,3,Senior and subordinated notes,interest,535.0,capitalone-10q-2026q2.htm
+2026Q2,3,Senior and subordinated notes,yield_pct,5.7,capitalone-10q-2026q2.htm
+2026Q2,3,Total interest-bearing liabilities,avg_balance,509656.0,capitalone-10q-2026q2.htm
+2026Q2,3,Total interest-bearing liabilities,interest,4011.0,capitalone-10q-2026q2.htm
+2026Q2,3,Total interest-bearing liabilities,yield_pct,3.15,capitalone-10q-2026q2.htm
+2026Q2,3,Total interest-earning assets,avg_balance,617583.0,capitalone-10q-2026q2.htm
+2026Q2,3,Total interest-earning assets,interest,16385.0,capitalone-10q-2026q2.htm
+2026Q2,3,Total interest-earning assets,yield_pct,10.61,capitalone-10q-2026q2.htm
+2026Q2,3,"Total loans, including loans held for sale",avg_balance,450862.0,capitalone-10q-2026q2.htm
+2026Q2,3,"Total loans, including loans held for sale",interest,14911.0,capitalone-10q-2026q2.htm
+2026Q2,3,"Total loans, including loans held for sale",yield_pct,13.23,capitalone-10q-2026q2.htm
+2026Q2,6,Cash equivalents and other interest-earning assets,avg_balance,69991.0,capitalone-10q-2026q2.htm
+2026Q2,6,Cash equivalents and other interest-earning assets,interest,1288.0,capitalone-10q-2026q2.htm
+2026Q2,6,Cash equivalents and other interest-earning assets,yield_pct,3.68,capitalone-10q-2026q2.htm
+2026Q2,6,Commercial banking,avg_balance,90576.0,capitalone-10q-2026q2.htm
+2026Q2,6,Commercial banking,interest,2586.0,capitalone-10q-2026q2.htm
+2026Q2,6,Commercial banking,yield_pct,5.71,capitalone-10q-2026q2.htm
+2026Q2,6,Consumer banking,avg_balance,87150.0,capitalone-10q-2026q2.htm
+2026Q2,6,Consumer banking,interest,4141.0,capitalone-10q-2026q2.htm
+2026Q2,6,Consumer banking,yield_pct,9.5,capitalone-10q-2026q2.htm
+2026Q2,6,Credit card,avg_balance,271086.0,capitalone-10q-2026q2.htm
+2026Q2,6,Credit card,interest,23303.0,capitalone-10q-2026q2.htm
+2026Q2,6,Credit card,yield_pct,17.19,capitalone-10q-2026q2.htm
+2026Q2,6,Interest-bearing deposits,avg_balance,455060.0,capitalone-10q-2026q2.htm
+2026Q2,6,Interest-bearing deposits,interest,6725.0,capitalone-10q-2026q2.htm
+2026Q2,6,Interest-bearing deposits,yield_pct,2.96,capitalone-10q-2026q2.htm
+2026Q2,6,Investment securities,avg_balance,98575.0,capitalone-10q-2026q2.htm
+2026Q2,6,Investment securities,interest,1682.0,capitalone-10q-2026q2.htm
+2026Q2,6,Investment securities,yield_pct,3.41,capitalone-10q-2026q2.htm
+2026Q2,6,Other borrowings and interest-bearing liabilities,avg_balance,4037.0,capitalone-10q-2026q2.htm
+2026Q2,6,Other borrowings and interest-bearing liabilities,interest,47.0,capitalone-10q-2026q2.htm
+2026Q2,6,Other borrowings and interest-bearing liabilities,yield_pct,2.37,capitalone-10q-2026q2.htm
+2026Q2,6,Securitized debt obligations,avg_balance,11326.0,capitalone-10q-2026q2.htm
+2026Q2,6,Securitized debt obligations,interest,258.0,capitalone-10q-2026q2.htm
+2026Q2,6,Securitized debt obligations,yield_pct,4.55,capitalone-10q-2026q2.htm
+2026Q2,6,Senior and subordinated notes,avg_balance,37671.0,capitalone-10q-2026q2.htm
+2026Q2,6,Senior and subordinated notes,interest,1067.0,capitalone-10q-2026q2.htm
+2026Q2,6,Senior and subordinated notes,yield_pct,5.66,capitalone-10q-2026q2.htm
+2026Q2,6,Total interest-bearing liabilities,avg_balance,508094.0,capitalone-10q-2026q2.htm
+2026Q2,6,Total interest-bearing liabilities,interest,8097.0,capitalone-10q-2026q2.htm
+2026Q2,6,Total interest-bearing liabilities,yield_pct,3.19,capitalone-10q-2026q2.htm
+2026Q2,6,Total interest-earning assets,avg_balance,617378.0,capitalone-10q-2026q2.htm
+2026Q2,6,Total interest-earning assets,interest,32616.0,capitalone-10q-2026q2.htm
+2026Q2,6,Total interest-earning assets,yield_pct,10.57,capitalone-10q-2026q2.htm
+2026Q2,6,"Total loans, including loans held for sale",avg_balance,448812.0,capitalone-10q-2026q2.htm
+2026Q2,6,"Total loans, including loans held for sale",interest,29646.0,capitalone-10q-2026q2.htm
+2026Q2,6,"Total loans, including loans held for sale",yield_pct,13.21,capitalone-10q-2026q2.htm

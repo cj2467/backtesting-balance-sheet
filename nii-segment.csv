@@ -1,0 +1,1051 @@
+period,months,concept,segment,value_mm,source
+2022FY,12,deposits,Commercial Banking,40808.0,capitalone-10k-fy2024.htm
+2022FY,12,deposits,Consolidated Total,332992.0,capitalone-10k-fy2024.htm
+2022FY,12,deposits,Consumer Banking,270592.0,capitalone-10k-fy2024.htm
+2022FY,12,deposits,Credit Card,0.0,capitalone-10k-fy2024.htm
+2022FY,12,deposits,Other,21592.0,capitalone-10k-fy2024.htm
+2022FY,12,income_tax,Commercial Banking,262.0,capitalone-10k-fy2024.htm
+2022FY,12,income_tax,Consolidated Total,1880.0,capitalone-10k-fy2024.htm
+2022FY,12,income_tax,Consumer Banking,699.0,capitalone-10k-fy2024.htm
+2022FY,12,income_tax,Credit Card,1536.0,capitalone-10k-fy2024.htm
+2022FY,12,income_tax,Other,-617.0,capitalone-10k-fy2024.htm
+2022FY,12,loans_hfi,Commercial Banking,94676.0,capitalone-10k-fy2024.htm
+2022FY,12,loans_hfi,Consolidated Total,312331.0,capitalone-10k-fy2024.htm
+2022FY,12,loans_hfi,Consumer Banking,79925.0,capitalone-10k-fy2024.htm
+2022FY,12,loans_hfi,Credit Card,137730.0,capitalone-10k-fy2024.htm
+2022FY,12,loans_hfi,Other,0.0,capitalone-10k-fy2024.htm
+2022FY,12,net_interest_income,Commercial Banking,2461.0,capitalone-10k-fy2024.htm
+2022FY,12,net_interest_income,Consolidated Total,27114.0,capitalone-10k-fy2024.htm
+2022FY,12,net_interest_income,Consumer Banking,8965.0,capitalone-10k-fy2024.htm
+2022FY,12,net_interest_income,Credit Card,16584.0,capitalone-10k-fy2024.htm
+2022FY,12,net_interest_income,Other,-896.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_expense,Commercial Banking,2070.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_expense,Consolidated Total,19163.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_expense,Consumer Banking,5312.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_expense,Credit Card,11627.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_expense,Other,154.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_income,Commercial Banking,1129.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_income,Consolidated Total,7136.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_income,Consumer Banking,469.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_income,Credit Card,5771.0,capitalone-10k-fy2024.htm
+2022FY,12,noninterest_income,Other,-233.0,capitalone-10k-fy2024.htm
+2022FY,12,pretax_income,Commercial Banking,843.0,capitalone-10k-fy2024.htm
+2022FY,12,pretax_income,Consolidated Total,7360.0,capitalone-10k-fy2024.htm
+2022FY,12,pretax_income,Consumer Banking,2250.0,capitalone-10k-fy2024.htm
+2022FY,12,pretax_income,Credit Card,4927.0,capitalone-10k-fy2024.htm
+2022FY,12,pretax_income,Other,-660.0,capitalone-10k-fy2024.htm
+2022FY,12,total_net_revenue,Commercial Banking,3590.0,capitalone-10k-fy2024.htm
+2022FY,12,total_net_revenue,Consolidated Total,34250.0,capitalone-10k-fy2024.htm
+2022FY,12,total_net_revenue,Consumer Banking,9434.0,capitalone-10k-fy2024.htm
+2022FY,12,total_net_revenue,Credit Card,22355.0,capitalone-10k-fy2024.htm
+2022FY,12,total_net_revenue,Other,-1129.0,capitalone-10k-fy2024.htm
+2023FY,12,deposits,Commercial Banking,32712.0,capitalone-10k-fy2025.htm
+2023FY,12,deposits,Consolidated Total,348413.0,capitalone-10k-fy2025.htm
+2023FY,12,deposits,Consumer Banking,296171.0,capitalone-10k-fy2025.htm
+2023FY,12,deposits,Credit Card,0.0,capitalone-10k-fy2025.htm
+2023FY,12,deposits,Other,19530.0,capitalone-10k-fy2025.htm
+2023FY,12,income_tax,Commercial Banking,213.0,capitalone-10k-fy2025.htm
+2023FY,12,income_tax,Consolidated Total,1158.0,capitalone-10k-fy2025.htm
+2023FY,12,income_tax,Consumer Banking,697.0,capitalone-10k-fy2025.htm
+2023FY,12,income_tax,Credit Card,1071.0,capitalone-10k-fy2025.htm
+2023FY,12,income_tax,Other,-823.0,capitalone-10k-fy2025.htm
+2023FY,12,loans_hfi,Commercial Banking,90488.0,capitalone-10k-fy2025.htm
+2023FY,12,loans_hfi,Consolidated Total,320472.0,capitalone-10k-fy2025.htm
+2023FY,12,loans_hfi,Consumer Banking,75437.0,capitalone-10k-fy2025.htm
+2023FY,12,loans_hfi,Credit Card,154547.0,capitalone-10k-fy2025.htm
+2023FY,12,loans_hfi,Other,0.0,capitalone-10k-fy2025.htm
+2023FY,12,net_interest_income,Commercial Banking,2518.0,capitalone-10k-fy2025.htm
+2023FY,12,net_interest_income,Consolidated Total,29241.0,capitalone-10k-fy2025.htm
+2023FY,12,net_interest_income,Consumer Banking,8713.0,capitalone-10k-fy2025.htm
+2023FY,12,net_interest_income,Credit Card,19729.0,capitalone-10k-fy2025.htm
+2023FY,12,net_interest_income,Other,-1719.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_expense,Commercial Banking,2011.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_expense,Consolidated Total,20316.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_expense,Consumer Banking,5178.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_expense,Credit Card,12490.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_expense,Other,637.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_income,Commercial Banking,1002.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_income,Consolidated Total,7546.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_income,Consumer Banking,589.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_income,Credit Card,5940.0,capitalone-10k-fy2025.htm
+2023FY,12,noninterest_income,Other,15.0,capitalone-10k-fy2025.htm
+2023FY,12,pretax_income,Commercial Banking,691.0,capitalone-10k-fy2025.htm
+2023FY,12,pretax_income,Consolidated Total,4887.0,capitalone-10k-fy2025.htm
+2023FY,12,pretax_income,Consumer Banking,2258.0,capitalone-10k-fy2025.htm
+2023FY,12,pretax_income,Credit Card,3457.0,capitalone-10k-fy2025.htm
+2023FY,12,pretax_income,Other,-1519.0,capitalone-10k-fy2025.htm
+2023FY,12,provision,Commercial Banking,605.0,capitalone-10k-fy2025.htm
+2023FY,12,provision,Consolidated Total,10426.0,capitalone-10k-fy2025.htm
+2023FY,12,provision,Consumer Banking,1169.0,capitalone-10k-fy2025.htm
+2023FY,12,provision,Credit Card,8651.0,capitalone-10k-fy2025.htm
+2023FY,12,provision,Other,1.0,capitalone-10k-fy2025.htm
+2023FY,12,total_net_revenue,Commercial Banking,3520.0,capitalone-10k-fy2025.htm
+2023FY,12,total_net_revenue,Consolidated Total,36787.0,capitalone-10k-fy2025.htm
+2023FY,12,total_net_revenue,Consumer Banking,9302.0,capitalone-10k-fy2025.htm
+2023FY,12,total_net_revenue,Credit Card,25669.0,capitalone-10k-fy2025.htm
+2023FY,12,total_net_revenue,Other,-1704.0,capitalone-10k-fy2025.htm
+2023Q1,3,deposits,Commercial Banking,38380.0,capitalone-10q-2024q1.htm
+2023Q1,3,deposits,Consolidated Total,349827.0,capitalone-10q-2024q1.htm
+2023Q1,3,deposits,Consumer Banking,291163.0,capitalone-10q-2024q1.htm
+2023Q1,3,deposits,Credit Card,0.0,capitalone-10q-2024q1.htm
+2023Q1,3,deposits,Other,20284.0,capitalone-10q-2024q1.htm
+2023Q1,3,income_tax,Commercial Banking,17.0,capitalone-10q-2024q1.htm
+2023Q1,3,income_tax,Consolidated Total,203.0,capitalone-10q-2024q1.htm
+2023Q1,3,income_tax,Consumer Banking,221.0,capitalone-10q-2024q1.htm
+2023Q1,3,income_tax,Credit Card,172.0,capitalone-10q-2024q1.htm
+2023Q1,3,income_tax,Other,-207.0,capitalone-10q-2024q1.htm
+2023Q1,3,loans_hfi,Commercial Banking,93543.0,capitalone-10q-2024q1.htm
+2023Q1,3,loans_hfi,Consolidated Total,308836.0,capitalone-10q-2024q1.htm
+2023Q1,3,loans_hfi,Consumer Banking,78151.0,capitalone-10q-2024q1.htm
+2023Q1,3,loans_hfi,Credit Card,137142.0,capitalone-10q-2024q1.htm
+2023Q1,3,loans_hfi,Other,0.0,capitalone-10q-2024q1.htm
+2023Q1,3,net_interest_income,Commercial Banking,648.0,capitalone-10q-2024q1.htm
+2023Q1,3,net_interest_income,Consolidated Total,7186.0,capitalone-10q-2024q1.htm
+2023Q1,3,net_interest_income,Consumer Banking,2360.0,capitalone-10q-2024q1.htm
+2023Q1,3,net_interest_income,Credit Card,4657.0,capitalone-10q-2024q1.htm
+2023Q1,3,net_interest_income,Other,-479.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_expense,Commercial Banking,530.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_expense,Consolidated Total,4945.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_expense,Consumer Banking,1283.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_expense,Credit Card,3038.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_expense,Other,94.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_income,Commercial Banking,212.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_income,Consolidated Total,1717.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_income,Consumer Banking,135.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_income,Credit Card,1363.0,capitalone-10q-2024q1.htm
+2023Q1,3,noninterest_income,Other,7.0,capitalone-10q-2024q1.htm
+2023Q1,3,pretax_income,Commercial Banking,54.0,capitalone-10q-2024q1.htm
+2023Q1,3,pretax_income,Consolidated Total,960.0,capitalone-10q-2024q1.htm
+2023Q1,3,pretax_income,Consumer Banking,716.0,capitalone-10q-2024q1.htm
+2023Q1,3,pretax_income,Credit Card,549.0,capitalone-10q-2024q1.htm
+2023Q1,3,pretax_income,Other,-359.0,capitalone-10q-2024q1.htm
+2023Q1,3,provision,Commercial Banking,259.0,capitalone-10q-2024q1.htm
+2023Q1,3,provision,Consolidated Total,2795.0,capitalone-10q-2024q1.htm
+2023Q1,3,provision,Consumer Banking,275.0,capitalone-10q-2024q1.htm
+2023Q1,3,provision,Credit Card,2261.0,capitalone-10q-2024q1.htm
+2023Q1,3,provision,Other,0.0,capitalone-10q-2024q1.htm
+2023Q1,3,total_net_revenue,Commercial Banking,860.0,capitalone-10q-2024q1.htm
+2023Q1,3,total_net_revenue,Consolidated Total,8903.0,capitalone-10q-2024q1.htm
+2023Q1,3,total_net_revenue,Consumer Banking,2495.0,capitalone-10q-2024q1.htm
+2023Q1,3,total_net_revenue,Credit Card,6020.0,capitalone-10q-2024q1.htm
+2023Q1,3,total_net_revenue,Other,-472.0,capitalone-10q-2024q1.htm
+2023Q2,3,deposits,Commercial Banking,36793.0,capitalone-10q-2024q2.htm
+2023Q2,3,deposits,Consolidated Total,343705.0,capitalone-10q-2024q2.htm
+2023Q2,3,deposits,Consumer Banking,286174.0,capitalone-10q-2024q2.htm
+2023Q2,3,deposits,Credit Card,0.0,capitalone-10q-2024q2.htm
+2023Q2,3,deposits,Other,20738.0,capitalone-10q-2024q2.htm
+2023Q2,3,income_tax,Commercial Banking,61.0,capitalone-10q-2024q2.htm
+2023Q2,3,income_tax,Consolidated Total,297.0,capitalone-10q-2024q2.htm
+2023Q2,3,income_tax,Consumer Banking,219.0,capitalone-10q-2024q2.htm
+2023Q2,3,income_tax,Credit Card,265.0,capitalone-10q-2024q2.htm
+2023Q2,3,income_tax,Other,-248.0,capitalone-10q-2024q2.htm
+2023Q2,3,loans_hfi,Commercial Banking,91552.0,capitalone-10q-2024q2.htm
+2023Q2,3,loans_hfi,Consolidated Total,311323.0,capitalone-10q-2024q2.htm
+2023Q2,3,loans_hfi,Consumer Banking,77280.0,capitalone-10q-2024q2.htm
+2023Q2,3,loans_hfi,Credit Card,142491.0,capitalone-10q-2024q2.htm
+2023Q2,3,loans_hfi,Other,0.0,capitalone-10q-2024q2.htm
+2023Q2,3,net_interest_income,Commercial Banking,632.0,capitalone-10q-2024q2.htm
+2023Q2,3,net_interest_income,Consolidated Total,7113.0,capitalone-10q-2024q2.htm
+2023Q2,3,net_interest_income,Consumer Banking,2269.0,capitalone-10q-2024q2.htm
+2023Q2,3,net_interest_income,Credit Card,4727.0,capitalone-10q-2024q2.htm
+2023Q2,3,net_interest_income,Other,-515.0,capitalone-10q-2024q2.htm
+2023Q2,3,noninterest_expense,Commercial Banking,482.0,capitalone-10q-2024q2.htm
+2023Q2,3,noninterest_expense,Consolidated Total,4794.0,capitalone-10q-2024q2.htm
+2023Q2,3,noninterest_expense,Consumer Banking,1231.0,capitalone-10q-2024q2.htm
+2023Q2,3,noninterest_expense,Credit Card,3020.0,capitalone-10q-2024q2.htm
+2023Q2,3,noninterest_expense,Other,61.0,capitalone-10q-2024q2.htm
+2023Q2,3,pretax_income,Commercial Banking,200.0,capitalone-10q-2024q2.htm
+2023Q2,3,pretax_income,Consolidated Total,1431.0,capitalone-10q-2024q2.htm
+2023Q2,3,pretax_income,Consumer Banking,709.0,capitalone-10q-2024q2.htm
+2023Q2,3,pretax_income,Credit Card,857.0,capitalone-10q-2024q2.htm
+2023Q2,3,pretax_income,Other,-335.0,capitalone-10q-2024q2.htm
+2023Q2,3,provision,Commercial Banking,146.0,capitalone-10q-2024q2.htm
+2023Q2,3,provision,Consolidated Total,2490.0,capitalone-10q-2024q2.htm
+2023Q2,3,provision,Consumer Banking,259.0,capitalone-10q-2024q2.htm
+2023Q2,3,provision,Credit Card,2084.0,capitalone-10q-2024q2.htm
+2023Q2,3,provision,Other,1.0,capitalone-10q-2024q2.htm
+2023Q2,3,total_net_revenue,Commercial Banking,889.0,capitalone-10q-2024q2.htm
+2023Q2,3,total_net_revenue,Consolidated Total,9012.0,capitalone-10q-2024q2.htm
+2023Q2,3,total_net_revenue,Consumer Banking,2418.0,capitalone-10q-2024q2.htm
+2023Q2,3,total_net_revenue,Credit Card,6226.0,capitalone-10q-2024q2.htm
+2023Q2,3,total_net_revenue,Other,-521.0,capitalone-10q-2024q2.htm
+2023Q2,6,deposits,Commercial Banking,36793.0,capitalone-10q-2024q2.htm
+2023Q2,6,deposits,Consolidated Total,343705.0,capitalone-10q-2024q2.htm
+2023Q2,6,deposits,Consumer Banking,286174.0,capitalone-10q-2024q2.htm
+2023Q2,6,deposits,Credit Card,0.0,capitalone-10q-2024q2.htm
+2023Q2,6,deposits,Other,20738.0,capitalone-10q-2024q2.htm
+2023Q2,6,income_tax,Commercial Banking,78.0,capitalone-10q-2024q2.htm
+2023Q2,6,income_tax,Consolidated Total,500.0,capitalone-10q-2024q2.htm
+2023Q2,6,income_tax,Consumer Banking,440.0,capitalone-10q-2024q2.htm
+2023Q2,6,income_tax,Credit Card,437.0,capitalone-10q-2024q2.htm
+2023Q2,6,income_tax,Other,-455.0,capitalone-10q-2024q2.htm
+2023Q2,6,loans_hfi,Commercial Banking,91552.0,capitalone-10q-2024q2.htm
+2023Q2,6,loans_hfi,Consolidated Total,311323.0,capitalone-10q-2024q2.htm
+2023Q2,6,loans_hfi,Consumer Banking,77280.0,capitalone-10q-2024q2.htm
+2023Q2,6,loans_hfi,Credit Card,142491.0,capitalone-10q-2024q2.htm
+2023Q2,6,loans_hfi,Other,0.0,capitalone-10q-2024q2.htm
+2023Q2,6,net_interest_income,Commercial Banking,1280.0,capitalone-10q-2024q2.htm
+2023Q2,6,net_interest_income,Consolidated Total,14299.0,capitalone-10q-2024q2.htm
+2023Q2,6,net_interest_income,Consumer Banking,4629.0,capitalone-10q-2024q2.htm
+2023Q2,6,net_interest_income,Credit Card,9384.0,capitalone-10q-2024q2.htm
+2023Q2,6,net_interest_income,Other,-994.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_expense,Commercial Banking,1012.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_expense,Consolidated Total,9739.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_expense,Consumer Banking,2514.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_expense,Credit Card,6058.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_expense,Other,155.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_income,Commercial Banking,469.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_income,Consolidated Total,3616.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_income,Consumer Banking,284.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_income,Credit Card,2862.0,capitalone-10q-2024q2.htm
+2023Q2,6,noninterest_income,Other,1.0,capitalone-10q-2024q2.htm
+2023Q2,6,pretax_income,Commercial Banking,254.0,capitalone-10q-2024q2.htm
+2023Q2,6,pretax_income,Consolidated Total,2391.0,capitalone-10q-2024q2.htm
+2023Q2,6,pretax_income,Consumer Banking,1425.0,capitalone-10q-2024q2.htm
+2023Q2,6,pretax_income,Credit Card,1406.0,capitalone-10q-2024q2.htm
+2023Q2,6,pretax_income,Other,-694.0,capitalone-10q-2024q2.htm
+2023Q2,6,provision,Commercial Banking,405.0,capitalone-10q-2024q2.htm
+2023Q2,6,provision,Consolidated Total,5285.0,capitalone-10q-2024q2.htm
+2023Q2,6,provision,Consumer Banking,534.0,capitalone-10q-2024q2.htm
+2023Q2,6,provision,Credit Card,4345.0,capitalone-10q-2024q2.htm
+2023Q2,6,provision,Other,1.0,capitalone-10q-2024q2.htm
+2023Q2,6,total_net_revenue,Commercial Banking,1749.0,capitalone-10q-2024q2.htm
+2023Q2,6,total_net_revenue,Consolidated Total,17915.0,capitalone-10q-2024q2.htm
+2023Q2,6,total_net_revenue,Consumer Banking,4913.0,capitalone-10q-2024q2.htm
+2023Q2,6,total_net_revenue,Credit Card,12246.0,capitalone-10q-2024q2.htm
+2023Q2,6,total_net_revenue,Other,-993.0,capitalone-10q-2024q2.htm
+2023Q3,3,deposits,Commercial Banking,36035.0,capitalone-10q-2024q3.htm
+2023Q3,3,deposits,Consolidated Total,346011.0,capitalone-10q-2024q3.htm
+2023Q3,3,deposits,Consumer Banking,290789.0,capitalone-10q-2024q3.htm
+2023Q3,3,deposits,Credit Card,0.0,capitalone-10q-2024q3.htm
+2023Q3,3,deposits,Other,19187.0,capitalone-10q-2024q3.htm
+2023Q3,3,income_tax,Commercial Banking,67.0,capitalone-10q-2024q3.htm
+2023Q3,3,income_tax,Consolidated Total,432.0,capitalone-10q-2024q3.htm
+2023Q3,3,income_tax,Consumer Banking,189.0,capitalone-10q-2024q3.htm
+2023Q3,3,income_tax,Credit Card,393.0,capitalone-10q-2024q3.htm
+2023Q3,3,income_tax,Other,-217.0,capitalone-10q-2024q3.htm
+2023Q3,3,loans_hfi,Commercial Banking,91153.0,capitalone-10q-2024q3.htm
+2023Q3,3,loans_hfi,Consolidated Total,314780.0,capitalone-10q-2024q3.htm
+2023Q3,3,loans_hfi,Consumer Banking,76844.0,capitalone-10q-2024q3.htm
+2023Q3,3,loans_hfi,Credit Card,146783.0,capitalone-10q-2024q3.htm
+2023Q3,3,loans_hfi,Other,0.0,capitalone-10q-2024q3.htm
+2023Q3,3,net_interest_income,Commercial Banking,621.0,capitalone-10q-2024q3.htm
+2023Q3,3,net_interest_income,Consolidated Total,7423.0,capitalone-10q-2024q3.htm
+2023Q3,3,net_interest_income,Consumer Banking,2133.0,capitalone-10q-2024q3.htm
+2023Q3,3,net_interest_income,Credit Card,5114.0,capitalone-10q-2024q3.htm
+2023Q3,3,net_interest_income,Other,-445.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_expense,Commercial Banking,512.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_expense,Consolidated Total,4860.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_expense,Consumer Banking,1262.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_expense,Credit Card,3015.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_expense,Other,71.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_income,Commercial Banking,288.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_income,Consolidated Total,1943.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_income,Consumer Banking,142.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_income,Credit Card,1513.0,capitalone-10q-2024q3.htm
+2023Q3,3,noninterest_income,Other,0.0,capitalone-10q-2024q3.htm
+2023Q3,3,pretax_income,Commercial Banking,214.0,capitalone-10q-2024q3.htm
+2023Q3,3,pretax_income,Consolidated Total,1790.0,capitalone-10q-2024q3.htm
+2023Q3,3,pretax_income,Consumer Banking,611.0,capitalone-10q-2024q3.htm
+2023Q3,3,pretax_income,Credit Card,1266.0,capitalone-10q-2024q3.htm
+2023Q3,3,pretax_income,Other,-301.0,capitalone-10q-2024q3.htm
+2023Q3,3,provision,Commercial Banking,116.0,capitalone-10q-2024q3.htm
+2023Q3,3,provision,Consolidated Total,2284.0,capitalone-10q-2024q3.htm
+2023Q3,3,provision,Consumer Banking,213.0,capitalone-10q-2024q3.htm
+2023Q3,3,provision,Credit Card,1953.0,capitalone-10q-2024q3.htm
+2023Q3,3,provision,Other,2.0,capitalone-10q-2024q3.htm
+2023Q3,3,total_net_revenue,Commercial Banking,909.0,capitalone-10q-2024q3.htm
+2023Q3,3,total_net_revenue,Consolidated Total,9366.0,capitalone-10q-2024q3.htm
+2023Q3,3,total_net_revenue,Consumer Banking,2275.0,capitalone-10q-2024q3.htm
+2023Q3,3,total_net_revenue,Credit Card,6627.0,capitalone-10q-2024q3.htm
+2023Q3,3,total_net_revenue,Other,-445.0,capitalone-10q-2024q3.htm
+2023Q3,9,deposits,Commercial Banking,36035.0,capitalone-10q-2024q3.htm
+2023Q3,9,deposits,Consolidated Total,346011.0,capitalone-10q-2024q3.htm
+2023Q3,9,deposits,Consumer Banking,290789.0,capitalone-10q-2024q3.htm
+2023Q3,9,deposits,Credit Card,0.0,capitalone-10q-2024q3.htm
+2023Q3,9,deposits,Other,19187.0,capitalone-10q-2024q3.htm
+2023Q3,9,income_tax,Commercial Banking,145.0,capitalone-10q-2024q3.htm
+2023Q3,9,income_tax,Consolidated Total,932.0,capitalone-10q-2024q3.htm
+2023Q3,9,income_tax,Consumer Banking,629.0,capitalone-10q-2024q3.htm
+2023Q3,9,income_tax,Credit Card,830.0,capitalone-10q-2024q3.htm
+2023Q3,9,income_tax,Other,-672.0,capitalone-10q-2024q3.htm
+2023Q3,9,loans_hfi,Commercial Banking,91153.0,capitalone-10q-2024q3.htm
+2023Q3,9,loans_hfi,Consolidated Total,314780.0,capitalone-10q-2024q3.htm
+2023Q3,9,loans_hfi,Consumer Banking,76844.0,capitalone-10q-2024q3.htm
+2023Q3,9,loans_hfi,Credit Card,146783.0,capitalone-10q-2024q3.htm
+2023Q3,9,loans_hfi,Other,0.0,capitalone-10q-2024q3.htm
+2023Q3,9,net_interest_income,Commercial Banking,1901.0,capitalone-10q-2024q3.htm
+2023Q3,9,net_interest_income,Consolidated Total,21722.0,capitalone-10q-2024q3.htm
+2023Q3,9,net_interest_income,Consumer Banking,6762.0,capitalone-10q-2024q3.htm
+2023Q3,9,net_interest_income,Credit Card,14498.0,capitalone-10q-2024q3.htm
+2023Q3,9,net_interest_income,Other,-1439.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_expense,Commercial Banking,1524.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_expense,Consolidated Total,14599.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_expense,Consumer Banking,3776.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_expense,Credit Card,9073.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_expense,Other,226.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_income,Commercial Banking,757.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_income,Consolidated Total,5559.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_income,Consumer Banking,426.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_income,Credit Card,4375.0,capitalone-10q-2024q3.htm
+2023Q3,9,noninterest_income,Other,1.0,capitalone-10q-2024q3.htm
+2023Q3,9,pretax_income,Commercial Banking,468.0,capitalone-10q-2024q3.htm
+2023Q3,9,pretax_income,Consolidated Total,4181.0,capitalone-10q-2024q3.htm
+2023Q3,9,pretax_income,Consumer Banking,2036.0,capitalone-10q-2024q3.htm
+2023Q3,9,pretax_income,Credit Card,2672.0,capitalone-10q-2024q3.htm
+2023Q3,9,pretax_income,Other,-995.0,capitalone-10q-2024q3.htm
+2023Q3,9,provision,Commercial Banking,521.0,capitalone-10q-2024q3.htm
+2023Q3,9,provision,Consolidated Total,7569.0,capitalone-10q-2024q3.htm
+2023Q3,9,provision,Consumer Banking,747.0,capitalone-10q-2024q3.htm
+2023Q3,9,provision,Credit Card,6298.0,capitalone-10q-2024q3.htm
+2023Q3,9,provision,Other,3.0,capitalone-10q-2024q3.htm
+2023Q3,9,total_net_revenue,Commercial Banking,2658.0,capitalone-10q-2024q3.htm
+2023Q3,9,total_net_revenue,Consolidated Total,27281.0,capitalone-10q-2024q3.htm
+2023Q3,9,total_net_revenue,Consumer Banking,7188.0,capitalone-10q-2024q3.htm
+2023Q3,9,total_net_revenue,Credit Card,18873.0,capitalone-10q-2024q3.htm
+2023Q3,9,total_net_revenue,Other,-1438.0,capitalone-10q-2024q3.htm
+2023Q4,3,deposits,Commercial Banking,-3323.0,derived Q4=FY-9M
+2023Q4,3,deposits,Consolidated Total,2402.0,derived Q4=FY-9M
+2023Q4,3,deposits,Consumer Banking,5382.0,derived Q4=FY-9M
+2023Q4,3,deposits,Credit Card,0.0,derived Q4=FY-9M
+2023Q4,3,deposits,Other,343.0,derived Q4=FY-9M
+2023Q4,3,income_tax,Commercial Banking,68.0,derived Q4=FY-9M
+2023Q4,3,income_tax,Consolidated Total,226.0,derived Q4=FY-9M
+2023Q4,3,income_tax,Consumer Banking,68.0,derived Q4=FY-9M
+2023Q4,3,income_tax,Credit Card,241.0,derived Q4=FY-9M
+2023Q4,3,income_tax,Other,-151.0,derived Q4=FY-9M
+2023Q4,3,loans_hfi,Commercial Banking,-665.0,derived Q4=FY-9M
+2023Q4,3,loans_hfi,Consolidated Total,5692.0,derived Q4=FY-9M
+2023Q4,3,loans_hfi,Consumer Banking,-1407.0,derived Q4=FY-9M
+2023Q4,3,loans_hfi,Credit Card,7764.0,derived Q4=FY-9M
+2023Q4,3,loans_hfi,Other,0.0,derived Q4=FY-9M
+2023Q4,3,net_interest_income,Commercial Banking,617.0,derived Q4=FY-9M
+2023Q4,3,net_interest_income,Consolidated Total,7519.0,derived Q4=FY-9M
+2023Q4,3,net_interest_income,Consumer Banking,1951.0,derived Q4=FY-9M
+2023Q4,3,net_interest_income,Credit Card,5231.0,derived Q4=FY-9M
+2023Q4,3,net_interest_income,Other,-280.0,derived Q4=FY-9M
+2023Q4,3,noninterest_expense,Commercial Banking,487.0,derived Q4=FY-9M
+2023Q4,3,noninterest_expense,Consolidated Total,5717.0,derived Q4=FY-9M
+2023Q4,3,noninterest_expense,Consumer Banking,1402.0,derived Q4=FY-9M
+2023Q4,3,noninterest_expense,Credit Card,3417.0,derived Q4=FY-9M
+2023Q4,3,noninterest_expense,Other,411.0,derived Q4=FY-9M
+2023Q4,3,noninterest_income,Commercial Banking,245.0,derived Q4=FY-9M
+2023Q4,3,noninterest_income,Consolidated Total,1987.0,derived Q4=FY-9M
+2023Q4,3,noninterest_income,Consumer Banking,163.0,derived Q4=FY-9M
+2023Q4,3,noninterest_income,Credit Card,1565.0,derived Q4=FY-9M
+2023Q4,3,noninterest_income,Other,14.0,derived Q4=FY-9M
+2023Q4,3,pretax_income,Commercial Banking,223.0,derived Q4=FY-9M
+2023Q4,3,pretax_income,Consolidated Total,706.0,derived Q4=FY-9M
+2023Q4,3,pretax_income,Consumer Banking,222.0,derived Q4=FY-9M
+2023Q4,3,pretax_income,Credit Card,785.0,derived Q4=FY-9M
+2023Q4,3,pretax_income,Other,-524.0,derived Q4=FY-9M
+2023Q4,3,provision,Commercial Banking,84.0,derived Q4=FY-9M
+2023Q4,3,provision,Consolidated Total,2857.0,derived Q4=FY-9M
+2023Q4,3,provision,Consumer Banking,422.0,derived Q4=FY-9M
+2023Q4,3,provision,Credit Card,2353.0,derived Q4=FY-9M
+2023Q4,3,provision,Other,-2.0,derived Q4=FY-9M
+2023Q4,3,total_net_revenue,Commercial Banking,862.0,derived Q4=FY-9M
+2023Q4,3,total_net_revenue,Consolidated Total,9506.0,derived Q4=FY-9M
+2023Q4,3,total_net_revenue,Consumer Banking,2114.0,derived Q4=FY-9M
+2023Q4,3,total_net_revenue,Credit Card,6796.0,derived Q4=FY-9M
+2023Q4,3,total_net_revenue,Other,-266.0,derived Q4=FY-9M
+2024FY,12,deposits,Commercial Banking,31691.0,capitalone-10k-fy2025.htm
+2024FY,12,deposits,Consolidated Total,362707.0,capitalone-10k-fy2025.htm
+2024FY,12,deposits,Consumer Banking,318329.0,capitalone-10k-fy2025.htm
+2024FY,12,deposits,Credit Card,0.0,capitalone-10k-fy2025.htm
+2024FY,12,deposits,Other,12687.0,capitalone-10k-fy2025.htm
+2024FY,12,income_tax,Commercial Banking,373.0,capitalone-10k-fy2025.htm
+2024FY,12,income_tax,Consolidated Total,1163.0,capitalone-10k-fy2025.htm
+2024FY,12,income_tax,Consumer Banking,451.0,capitalone-10k-fy2025.htm
+2024FY,12,income_tax,Credit Card,1024.0,capitalone-10k-fy2025.htm
+2024FY,12,income_tax,Other,-685.0,capitalone-10k-fy2025.htm
+2024FY,12,loans_hfi,Commercial Banking,87175.0,capitalone-10k-fy2025.htm
+2024FY,12,loans_hfi,Consolidated Total,327775.0,capitalone-10k-fy2025.htm
+2024FY,12,loans_hfi,Consumer Banking,78092.0,capitalone-10k-fy2025.htm
+2024FY,12,loans_hfi,Credit Card,162508.0,capitalone-10k-fy2025.htm
+2024FY,12,loans_hfi,Other,0.0,capitalone-10k-fy2025.htm
+2024FY,12,net_interest_income,Commercial Banking,2391.0,capitalone-10k-fy2025.htm
+2024FY,12,net_interest_income,Consolidated Total,31208.0,capitalone-10k-fy2025.htm
+2024FY,12,net_interest_income,Consumer Banking,8023.0,capitalone-10k-fy2025.htm
+2024FY,12,net_interest_income,Credit Card,22088.0,capitalone-10k-fy2025.htm
+2024FY,12,net_interest_income,Other,-1294.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_expense,Commercial Banking,2011.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_expense,Consolidated Total,21486.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_expense,Consumer Banking,5372.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_expense,Credit Card,13576.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_expense,Other,527.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_income,Commercial Banking,1210.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_income,Consolidated Total,7904.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_income,Consumer Banking,695.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_income,Credit Card,6076.0,capitalone-10k-fy2025.htm
+2024FY,12,noninterest_income,Other,-77.0,capitalone-10k-fy2025.htm
+2024FY,12,pretax_income,Commercial Banking,1209.0,capitalone-10k-fy2025.htm
+2024FY,12,pretax_income,Consolidated Total,4747.0,capitalone-10k-fy2025.htm
+2024FY,12,pretax_income,Consumer Banking,1460.0,capitalone-10k-fy2025.htm
+2024FY,12,pretax_income,Credit Card,3292.0,capitalone-10k-fy2025.htm
+2024FY,12,pretax_income,Other,-1214.0,capitalone-10k-fy2025.htm
+2024FY,12,provision,Commercial Banking,8.0,capitalone-10k-fy2025.htm
+2024FY,12,provision,Consolidated Total,11716.0,capitalone-10k-fy2025.htm
+2024FY,12,provision,Consumer Banking,1435.0,capitalone-10k-fy2025.htm
+2024FY,12,provision,Credit Card,10272.0,capitalone-10k-fy2025.htm
+2024FY,12,provision,Other,1.0,capitalone-10k-fy2025.htm
+2024FY,12,total_net_revenue,Commercial Banking,3601.0,capitalone-10k-fy2025.htm
+2024FY,12,total_net_revenue,Consolidated Total,39112.0,capitalone-10k-fy2025.htm
+2024FY,12,total_net_revenue,Consumer Banking,8718.0,capitalone-10k-fy2025.htm
+2024FY,12,total_net_revenue,Credit Card,28164.0,capitalone-10k-fy2025.htm
+2024FY,12,total_net_revenue,Other,-1371.0,capitalone-10k-fy2025.htm
+2024Q1,3,deposits,Commercial Banking,31082.0,capitalone-10q-2025q1.htm
+2024Q1,3,deposits,Consolidated Total,350969.0,capitalone-10q-2025q1.htm
+2024Q1,3,deposits,Consumer Banking,300806.0,capitalone-10q-2025q1.htm
+2024Q1,3,deposits,Credit Card,0.0,capitalone-10q-2025q1.htm
+2024Q1,3,deposits,Other,19081.0,capitalone-10q-2025q1.htm
+2024Q1,3,income_tax,Commercial Banking,87.0,capitalone-10q-2025q1.htm
+2024Q1,3,income_tax,Consolidated Total,302.0,capitalone-10q-2025q1.htm
+2024Q1,3,income_tax,Consumer Banking,117.0,capitalone-10q-2025q1.htm
+2024Q1,3,income_tax,Credit Card,299.0,capitalone-10q-2025q1.htm
+2024Q1,3,income_tax,Other,-201.0,capitalone-10q-2025q1.htm
+2024Q1,3,loans_hfi,Commercial Banking,89461.0,capitalone-10q-2025q1.htm
+2024Q1,3,loans_hfi,Consolidated Total,315154.0,capitalone-10q-2025q1.htm
+2024Q1,3,loans_hfi,Consumer Banking,75099.0,capitalone-10q-2025q1.htm
+2024Q1,3,loans_hfi,Credit Card,150594.0,capitalone-10q-2025q1.htm
+2024Q1,3,loans_hfi,Other,0.0,capitalone-10q-2025q1.htm
+2024Q1,3,net_interest_income,Commercial Banking,599.0,capitalone-10q-2025q1.htm
+2024Q1,3,net_interest_income,Consolidated Total,7488.0,capitalone-10q-2025q1.htm
+2024Q1,3,net_interest_income,Consumer Banking,2011.0,capitalone-10q-2025q1.htm
+2024Q1,3,net_interest_income,Credit Card,5272.0,capitalone-10q-2025q1.htm
+2024Q1,3,net_interest_income,Other,-394.0,capitalone-10q-2025q1.htm
+2024Q1,3,noninterest_expense,Commercial Banking,515.0,capitalone-10q-2025q1.htm
+2024Q1,3,noninterest_expense,Consolidated Total,5137.0,capitalone-10q-2025q1.htm
+2024Q1,3,noninterest_expense,Consumer Banking,1246.0,capitalone-10q-2025q1.htm
+2024Q1,3,noninterest_expense,Credit Card,3229.0,capitalone-10q-2025q1.htm
+2024Q1,3,noninterest_expense,Other,147.0,capitalone-10q-2025q1.htm
+2024Q1,3,pretax_income,Commercial Banking,280.0,capitalone-10q-2025q1.htm
+2024Q1,3,pretax_income,Consolidated Total,1280.0,capitalone-10q-2025q1.htm
+2024Q1,3,pretax_income,Consumer Banking,381.0,capitalone-10q-2025q1.htm
+2024Q1,3,pretax_income,Credit Card,961.0,capitalone-10q-2025q1.htm
+2024Q1,3,pretax_income,Other,-342.0,capitalone-10q-2025q1.htm
+2024Q1,3,total_net_revenue,Commercial Banking,880.0,capitalone-10q-2025q1.htm
+2024Q1,3,total_net_revenue,Consolidated Total,9402.0,capitalone-10q-2025q1.htm
+2024Q1,3,total_net_revenue,Consumer Banking,2170.0,capitalone-10q-2025q1.htm
+2024Q1,3,total_net_revenue,Credit Card,6748.0,capitalone-10q-2025q1.htm
+2024Q1,3,total_net_revenue,Other,-396.0,capitalone-10q-2025q1.htm
+2024Q2,3,deposits,Commercial Banking,29210.0,capitalone-10q-2025q2.htm
+2024Q2,3,deposits,Consolidated Total,351442.0,capitalone-10q-2025q2.htm
+2024Q2,3,deposits,Consumer Banking,305422.0,capitalone-10q-2025q2.htm
+2024Q2,3,deposits,Credit Card,0.0,capitalone-10q-2025q2.htm
+2024Q2,3,deposits,Other,16810.0,capitalone-10q-2025q2.htm
+2024Q2,3,income_tax,Commercial Banking,85.0,capitalone-10q-2025q2.htm
+2024Q2,3,income_tax,Consolidated Total,54.0,capitalone-10q-2025q2.htm
+2024Q2,3,income_tax,Consumer Banking,146.0,capitalone-10q-2025q2.htm
+2024Q2,3,income_tax,Credit Card,30.0,capitalone-10q-2025q2.htm
+2024Q2,3,income_tax,Other,-207.0,capitalone-10q-2025q2.htm
+2024Q2,3,loans_hfi,Commercial Banking,88628.0,capitalone-10q-2025q2.htm
+2024Q2,3,loans_hfi,Consolidated Total,318186.0,capitalone-10q-2025q2.htm
+2024Q2,3,loans_hfi,Consumer Banking,75663.0,capitalone-10q-2025q2.htm
+2024Q2,3,loans_hfi,Credit Card,153895.0,capitalone-10q-2025q2.htm
+2024Q2,3,loans_hfi,Other,0.0,capitalone-10q-2025q2.htm
+2024Q2,3,net_interest_income,Commercial Banking,609.0,capitalone-10q-2025q2.htm
+2024Q2,3,net_interest_income,Consolidated Total,7546.0,capitalone-10q-2025q2.htm
+2024Q2,3,net_interest_income,Consumer Banking,2025.0,capitalone-10q-2025q2.htm
+2024Q2,3,net_interest_income,Credit Card,5294.0,capitalone-10q-2025q2.htm
+2024Q2,3,net_interest_income,Other,-382.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_expense,Commercial Banking,483.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_expense,Consolidated Total,4946.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_expense,Consumer Banking,1250.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_expense,Credit Card,3134.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_expense,Other,79.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_income,Commercial Banking,271.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_income,Consolidated Total,1960.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_income,Consumer Banking,172.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_income,Credit Card,1506.0,capitalone-10q-2025q2.htm
+2024Q2,3,noninterest_income,Other,11.0,capitalone-10q-2025q2.htm
+2024Q2,3,pretax_income,Commercial Banking,278.0,capitalone-10q-2025q2.htm
+2024Q2,3,pretax_income,Consolidated Total,597.0,capitalone-10q-2025q2.htm
+2024Q2,3,pretax_income,Consumer Banking,471.0,capitalone-10q-2025q2.htm
+2024Q2,3,pretax_income,Credit Card,91.0,capitalone-10q-2025q2.htm
+2024Q2,3,pretax_income,Other,-243.0,capitalone-10q-2025q2.htm
+2024Q2,3,provision,Commercial Banking,34.0,capitalone-10q-2025q2.htm
+2024Q2,3,provision,Consolidated Total,3909.0,capitalone-10q-2025q2.htm
+2024Q2,3,provision,Consumer Banking,330.0,capitalone-10q-2025q2.htm
+2024Q2,3,provision,Credit Card,3545.0,capitalone-10q-2025q2.htm
+2024Q2,3,provision,Other,0.0,capitalone-10q-2025q2.htm
+2024Q2,3,total_net_revenue,Commercial Banking,880.0,capitalone-10q-2025q2.htm
+2024Q2,3,total_net_revenue,Consolidated Total,9506.0,capitalone-10q-2025q2.htm
+2024Q2,3,total_net_revenue,Consumer Banking,2197.0,capitalone-10q-2025q2.htm
+2024Q2,3,total_net_revenue,Credit Card,6800.0,capitalone-10q-2025q2.htm
+2024Q2,3,total_net_revenue,Other,-371.0,capitalone-10q-2025q2.htm
+2024Q2,6,deposits,Commercial Banking,29210.0,capitalone-10q-2025q2.htm
+2024Q2,6,deposits,Consolidated Total,351442.0,capitalone-10q-2025q2.htm
+2024Q2,6,deposits,Consumer Banking,305422.0,capitalone-10q-2025q2.htm
+2024Q2,6,deposits,Credit Card,0.0,capitalone-10q-2025q2.htm
+2024Q2,6,deposits,Other,16810.0,capitalone-10q-2025q2.htm
+2024Q2,6,income_tax,Commercial Banking,172.0,capitalone-10q-2025q2.htm
+2024Q2,6,income_tax,Consolidated Total,356.0,capitalone-10q-2025q2.htm
+2024Q2,6,income_tax,Consumer Banking,263.0,capitalone-10q-2025q2.htm
+2024Q2,6,income_tax,Credit Card,329.0,capitalone-10q-2025q2.htm
+2024Q2,6,income_tax,Other,-408.0,capitalone-10q-2025q2.htm
+2024Q2,6,loans_hfi,Commercial Banking,88628.0,capitalone-10q-2025q2.htm
+2024Q2,6,loans_hfi,Consolidated Total,318186.0,capitalone-10q-2025q2.htm
+2024Q2,6,loans_hfi,Consumer Banking,75663.0,capitalone-10q-2025q2.htm
+2024Q2,6,loans_hfi,Credit Card,153895.0,capitalone-10q-2025q2.htm
+2024Q2,6,loans_hfi,Other,0.0,capitalone-10q-2025q2.htm
+2024Q2,6,net_interest_income,Commercial Banking,1208.0,capitalone-10q-2025q2.htm
+2024Q2,6,net_interest_income,Consolidated Total,15034.0,capitalone-10q-2025q2.htm
+2024Q2,6,net_interest_income,Consumer Banking,4036.0,capitalone-10q-2025q2.htm
+2024Q2,6,net_interest_income,Credit Card,10566.0,capitalone-10q-2025q2.htm
+2024Q2,6,net_interest_income,Other,-776.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_expense,Commercial Banking,998.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_expense,Consolidated Total,10083.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_expense,Consumer Banking,2496.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_expense,Credit Card,6363.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_expense,Other,226.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_income,Commercial Banking,552.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_income,Consolidated Total,3874.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_income,Consumer Banking,331.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_income,Credit Card,2982.0,capitalone-10q-2025q2.htm
+2024Q2,6,noninterest_income,Other,9.0,capitalone-10q-2025q2.htm
+2024Q2,6,pretax_income,Commercial Banking,558.0,capitalone-10q-2025q2.htm
+2024Q2,6,pretax_income,Consolidated Total,1877.0,capitalone-10q-2025q2.htm
+2024Q2,6,pretax_income,Consumer Banking,852.0,capitalone-10q-2025q2.htm
+2024Q2,6,pretax_income,Credit Card,1052.0,capitalone-10q-2025q2.htm
+2024Q2,6,pretax_income,Other,-585.0,capitalone-10q-2025q2.htm
+2024Q2,6,provision,Commercial Banking,32.0,capitalone-10q-2025q2.htm
+2024Q2,6,provision,Consolidated Total,6592.0,capitalone-10q-2025q2.htm
+2024Q2,6,provision,Consumer Banking,756.0,capitalone-10q-2025q2.htm
+2024Q2,6,provision,Credit Card,5804.0,capitalone-10q-2025q2.htm
+2024Q2,6,provision,Other,0.0,capitalone-10q-2025q2.htm
+2024Q2,6,total_net_revenue,Commercial Banking,1760.0,capitalone-10q-2025q2.htm
+2024Q2,6,total_net_revenue,Consolidated Total,18908.0,capitalone-10q-2025q2.htm
+2024Q2,6,total_net_revenue,Consumer Banking,4367.0,capitalone-10q-2025q2.htm
+2024Q2,6,total_net_revenue,Credit Card,13548.0,capitalone-10q-2025q2.htm
+2024Q2,6,total_net_revenue,Other,-767.0,capitalone-10q-2025q2.htm
+2024Q3,3,deposits,Commercial Banking,30598.0,capitalone-10q-2025q3.htm
+2024Q3,3,deposits,Consolidated Total,353631.0,capitalone-10q-2025q3.htm
+2024Q3,3,deposits,Consumer Banking,309569.0,capitalone-10q-2025q3.htm
+2024Q3,3,deposits,Credit Card,0.0,capitalone-10q-2025q3.htm
+2024Q3,3,deposits,Other,13464.0,capitalone-10q-2025q3.htm
+2024Q3,3,income_tax,Commercial Banking,82.0,capitalone-10q-2025q3.htm
+2024Q3,3,income_tax,Consolidated Total,441.0,capitalone-10q-2025q3.htm
+2024Q3,3,income_tax,Consumer Banking,125.0,capitalone-10q-2025q3.htm
+2024Q3,3,income_tax,Credit Card,427.0,capitalone-10q-2025q3.htm
+2024Q3,3,income_tax,Other,-193.0,capitalone-10q-2025q3.htm
+2024Q3,3,loans_hfi,Commercial Banking,86834.0,capitalone-10q-2025q3.htm
+2024Q3,3,loans_hfi,Consolidated Total,320243.0,capitalone-10q-2025q3.htm
+2024Q3,3,loans_hfi,Consumer Banking,76758.0,capitalone-10q-2025q3.htm
+2024Q3,3,loans_hfi,Credit Card,156651.0,capitalone-10q-2025q3.htm
+2024Q3,3,loans_hfi,Other,0.0,capitalone-10q-2025q3.htm
+2024Q3,3,net_interest_income,Commercial Banking,596.0,capitalone-10q-2025q3.htm
+2024Q3,3,net_interest_income,Consolidated Total,8076.0,capitalone-10q-2025q3.htm
+2024Q3,3,net_interest_income,Consumer Banking,2028.0,capitalone-10q-2025q3.htm
+2024Q3,3,net_interest_income,Credit Card,5743.0,capitalone-10q-2025q3.htm
+2024Q3,3,net_interest_income,Other,-291.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_expense,Commercial Banking,495.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_expense,Consolidated Total,5314.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_expense,Consumer Banking,1331.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_expense,Credit Card,3367.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_expense,Other,121.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_income,Commercial Banking,292.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_income,Consolidated Total,1938.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_income,Consumer Banking,182.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_income,Credit Card,1509.0,capitalone-10q-2025q3.htm
+2024Q3,3,noninterest_income,Other,-45.0,capitalone-10q-2025q3.htm
+2024Q3,3,pretax_income,Commercial Banking,263.0,capitalone-10q-2025q3.htm
+2024Q3,3,pretax_income,Consolidated Total,1777.0,capitalone-10q-2025q3.htm
+2024Q3,3,pretax_income,Consumer Banking,403.0,capitalone-10q-2025q3.htm
+2024Q3,3,pretax_income,Credit Card,1374.0,capitalone-10q-2025q3.htm
+2024Q3,3,pretax_income,Other,-263.0,capitalone-10q-2025q3.htm
+2024Q3,3,total_net_revenue,Commercial Banking,888.0,capitalone-10q-2025q3.htm
+2024Q3,3,total_net_revenue,Consolidated Total,10014.0,capitalone-10q-2025q3.htm
+2024Q3,3,total_net_revenue,Consumer Banking,2210.0,capitalone-10q-2025q3.htm
+2024Q3,3,total_net_revenue,Credit Card,7252.0,capitalone-10q-2025q3.htm
+2024Q3,3,total_net_revenue,Other,-336.0,capitalone-10q-2025q3.htm
+2024Q3,9,deposits,Commercial Banking,30598.0,capitalone-10q-2025q3.htm
+2024Q3,9,deposits,Consolidated Total,353631.0,capitalone-10q-2025q3.htm
+2024Q3,9,deposits,Consumer Banking,309569.0,capitalone-10q-2025q3.htm
+2024Q3,9,deposits,Credit Card,0.0,capitalone-10q-2025q3.htm
+2024Q3,9,deposits,Other,13464.0,capitalone-10q-2025q3.htm
+2024Q3,9,income_tax,Commercial Banking,254.0,capitalone-10q-2025q3.htm
+2024Q3,9,income_tax,Consolidated Total,797.0,capitalone-10q-2025q3.htm
+2024Q3,9,income_tax,Consumer Banking,388.0,capitalone-10q-2025q3.htm
+2024Q3,9,income_tax,Credit Card,756.0,capitalone-10q-2025q3.htm
+2024Q3,9,income_tax,Other,-601.0,capitalone-10q-2025q3.htm
+2024Q3,9,loans_hfi,Commercial Banking,86834.0,capitalone-10q-2025q3.htm
+2024Q3,9,loans_hfi,Consolidated Total,320243.0,capitalone-10q-2025q3.htm
+2024Q3,9,loans_hfi,Consumer Banking,76758.0,capitalone-10q-2025q3.htm
+2024Q3,9,loans_hfi,Credit Card,156651.0,capitalone-10q-2025q3.htm
+2024Q3,9,loans_hfi,Other,0.0,capitalone-10q-2025q3.htm
+2024Q3,9,net_interest_income,Commercial Banking,1804.0,capitalone-10q-2025q3.htm
+2024Q3,9,net_interest_income,Consolidated Total,23110.0,capitalone-10q-2025q3.htm
+2024Q3,9,net_interest_income,Consumer Banking,6064.0,capitalone-10q-2025q3.htm
+2024Q3,9,net_interest_income,Credit Card,16309.0,capitalone-10q-2025q3.htm
+2024Q3,9,net_interest_income,Other,-1067.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_expense,Commercial Banking,1493.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_expense,Consolidated Total,15397.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_expense,Consumer Banking,3827.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_expense,Credit Card,9730.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_expense,Other,347.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_income,Commercial Banking,844.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_income,Consolidated Total,5812.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_income,Consumer Banking,513.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_income,Credit Card,4491.0,capitalone-10q-2025q3.htm
+2024Q3,9,noninterest_income,Other,-36.0,capitalone-10q-2025q3.htm
+2024Q3,9,pretax_income,Commercial Banking,821.0,capitalone-10q-2025q3.htm
+2024Q3,9,pretax_income,Consolidated Total,3654.0,capitalone-10q-2025q3.htm
+2024Q3,9,pretax_income,Consumer Banking,1255.0,capitalone-10q-2025q3.htm
+2024Q3,9,pretax_income,Credit Card,2426.0,capitalone-10q-2025q3.htm
+2024Q3,9,pretax_income,Other,-848.0,capitalone-10q-2025q3.htm
+2024Q3,9,total_net_revenue,Commercial Banking,2648.0,capitalone-10q-2025q3.htm
+2024Q3,9,total_net_revenue,Consolidated Total,28922.0,capitalone-10q-2025q3.htm
+2024Q3,9,total_net_revenue,Consumer Banking,6577.0,capitalone-10q-2025q3.htm
+2024Q3,9,total_net_revenue,Credit Card,20800.0,capitalone-10q-2025q3.htm
+2024Q3,9,total_net_revenue,Other,-1103.0,capitalone-10q-2025q3.htm
+2024Q4,3,deposits,Commercial Banking,1093.0,derived Q4=FY-9M
+2024Q4,3,deposits,Consolidated Total,9076.0,derived Q4=FY-9M
+2024Q4,3,deposits,Consumer Banking,8760.0,derived Q4=FY-9M
+2024Q4,3,deposits,Credit Card,0.0,derived Q4=FY-9M
+2024Q4,3,deposits,Other,-777.0,derived Q4=FY-9M
+2024Q4,3,income_tax,Commercial Banking,119.0,derived Q4=FY-9M
+2024Q4,3,income_tax,Consolidated Total,366.0,derived Q4=FY-9M
+2024Q4,3,income_tax,Consumer Banking,63.0,derived Q4=FY-9M
+2024Q4,3,income_tax,Credit Card,268.0,derived Q4=FY-9M
+2024Q4,3,income_tax,Other,-84.0,derived Q4=FY-9M
+2024Q4,3,loans_hfi,Commercial Banking,341.0,derived Q4=FY-9M
+2024Q4,3,loans_hfi,Consolidated Total,7532.0,derived Q4=FY-9M
+2024Q4,3,loans_hfi,Consumer Banking,1334.0,derived Q4=FY-9M
+2024Q4,3,loans_hfi,Credit Card,5857.0,derived Q4=FY-9M
+2024Q4,3,loans_hfi,Other,0.0,derived Q4=FY-9M
+2024Q4,3,net_interest_income,Commercial Banking,587.0,derived Q4=FY-9M
+2024Q4,3,net_interest_income,Consolidated Total,8098.0,derived Q4=FY-9M
+2024Q4,3,net_interest_income,Consumer Banking,1959.0,derived Q4=FY-9M
+2024Q4,3,net_interest_income,Credit Card,5779.0,derived Q4=FY-9M
+2024Q4,3,net_interest_income,Other,-227.0,derived Q4=FY-9M
+2024Q4,3,noninterest_expense,Commercial Banking,518.0,derived Q4=FY-9M
+2024Q4,3,noninterest_expense,Consolidated Total,6089.0,derived Q4=FY-9M
+2024Q4,3,noninterest_expense,Consumer Banking,1545.0,derived Q4=FY-9M
+2024Q4,3,noninterest_expense,Credit Card,3846.0,derived Q4=FY-9M
+2024Q4,3,noninterest_expense,Other,180.0,derived Q4=FY-9M
+2024Q4,3,noninterest_income,Commercial Banking,366.0,derived Q4=FY-9M
+2024Q4,3,noninterest_income,Consolidated Total,2092.0,derived Q4=FY-9M
+2024Q4,3,noninterest_income,Consumer Banking,182.0,derived Q4=FY-9M
+2024Q4,3,noninterest_income,Credit Card,1585.0,derived Q4=FY-9M
+2024Q4,3,noninterest_income,Other,-41.0,derived Q4=FY-9M
+2024Q4,3,pretax_income,Commercial Banking,388.0,derived Q4=FY-9M
+2024Q4,3,pretax_income,Consolidated Total,1093.0,derived Q4=FY-9M
+2024Q4,3,pretax_income,Consumer Banking,205.0,derived Q4=FY-9M
+2024Q4,3,pretax_income,Credit Card,866.0,derived Q4=FY-9M
+2024Q4,3,pretax_income,Other,-366.0,derived Q4=FY-9M
+2024Q4,3,total_net_revenue,Commercial Banking,953.0,derived Q4=FY-9M
+2024Q4,3,total_net_revenue,Consolidated Total,10190.0,derived Q4=FY-9M
+2024Q4,3,total_net_revenue,Consumer Banking,2141.0,derived Q4=FY-9M
+2024Q4,3,total_net_revenue,Credit Card,7364.0,derived Q4=FY-9M
+2024Q4,3,total_net_revenue,Other,-268.0,derived Q4=FY-9M
+2025FY,12,deposits,Commercial Banking,31250.0,capitalone-10k-fy2025.htm
+2025FY,12,deposits,Consolidated Total,475771.0,capitalone-10k-fy2025.htm
+2025FY,12,deposits,Consumer Banking,423932.0,capitalone-10k-fy2025.htm
+2025FY,12,deposits,Credit Card,0.0,capitalone-10k-fy2025.htm
+2025FY,12,deposits,Other,20589.0,capitalone-10k-fy2025.htm
+2025FY,12,income_tax,Commercial Banking,326.0,capitalone-10k-fy2025.htm
+2025FY,12,income_tax,Consolidated Total,193.0,capitalone-10k-fy2025.htm
+2025FY,12,income_tax,Consumer Banking,382.0,capitalone-10k-fy2025.htm
+2025FY,12,income_tax,Credit Card,208.0,capitalone-10k-fy2025.htm
+2025FY,12,income_tax,Other,-723.0,capitalone-10k-fy2025.htm
+2025FY,12,loans_hfi,Commercial Banking,89262.0,capitalone-10k-fy2025.htm
+2025FY,12,loans_hfi,Consolidated Total,453622.0,capitalone-10k-fy2025.htm
+2025FY,12,loans_hfi,Consumer Banking,84790.0,capitalone-10k-fy2025.htm
+2025FY,12,loans_hfi,Credit Card,279570.0,capitalone-10k-fy2025.htm
+2025FY,12,loans_hfi,Other,0.0,capitalone-10k-fy2025.htm
+2025FY,12,net_interest_income,Commercial Banking,2334.0,capitalone-10k-fy2025.htm
+2025FY,12,net_interest_income,Consolidated Total,42878.0,capitalone-10k-fy2025.htm
+2025FY,12,net_interest_income,Consumer Banking,8758.0,capitalone-10k-fy2025.htm
+2025FY,12,net_interest_income,Credit Card,31822.0,capitalone-10k-fy2025.htm
+2025FY,12,net_interest_income,Other,-36.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_expense,Commercial Banking,1999.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_expense,Consolidated Total,30498.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_expense,Consumer Banking,7524.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_expense,Credit Card,19641.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_expense,Other,1334.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_income,Commercial Banking,1321.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_income,Consolidated Total,10556.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_income,Consumer Banking,1675.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_income,Credit Card,7738.0,capitalone-10k-fy2025.htm
+2025FY,12,noninterest_income,Other,-178.0,capitalone-10k-fy2025.htm
+2025FY,12,pretax_income,Commercial Banking,1043.0,capitalone-10k-fy2025.htm
+2025FY,12,pretax_income,Consolidated Total,2088.0,capitalone-10k-fy2025.htm
+2025FY,12,pretax_income,Consumer Banking,1225.0,capitalone-10k-fy2025.htm
+2025FY,12,pretax_income,Credit Card,645.0,capitalone-10k-fy2025.htm
+2025FY,12,pretax_income,Other,-825.0,capitalone-10k-fy2025.htm
+2025FY,12,provision,Commercial Banking,287.0,capitalone-10k-fy2025.htm
+2025FY,12,provision,Consolidated Total,20655.0,capitalone-10k-fy2025.htm
+2025FY,12,provision,Consumer Banking,1302.0,capitalone-10k-fy2025.htm
+2025FY,12,provision,Credit Card,19066.0,capitalone-10k-fy2025.htm
+2025FY,12,provision,Other,0.0,capitalone-10k-fy2025.htm
+2025FY,12,total_net_revenue,Commercial Banking,3655.0,capitalone-10k-fy2025.htm
+2025FY,12,total_net_revenue,Consolidated Total,53434.0,capitalone-10k-fy2025.htm
+2025FY,12,total_net_revenue,Consumer Banking,10433.0,capitalone-10k-fy2025.htm
+2025FY,12,total_net_revenue,Credit Card,39560.0,capitalone-10k-fy2025.htm
+2025FY,12,total_net_revenue,Other,-214.0,capitalone-10k-fy2025.htm
+2025Q1,3,deposits,Commercial Banking,29984.0,capitalone-10q-2026q1.htm
+2025Q1,3,deposits,Consolidated Total,367464.0,capitalone-10q-2026q1.htm
+2025Q1,3,deposits,Consumer Banking,324920.0,capitalone-10q-2026q1.htm
+2025Q1,3,deposits,Credit Card,0.0,capitalone-10q-2026q1.htm
+2025Q1,3,deposits,Other,12560.0,capitalone-10q-2026q1.htm
+2025Q1,3,income_tax,Commercial Banking,61.0,capitalone-10q-2026q1.htm
+2025Q1,3,income_tax,Consolidated Total,325.0,capitalone-10q-2026q1.htm
+2025Q1,3,income_tax,Consumer Banking,58.0,capitalone-10q-2026q1.htm
+2025Q1,3,income_tax,Credit Card,382.0,capitalone-10q-2026q1.htm
+2025Q1,3,income_tax,Other,-176.0,capitalone-10q-2026q1.htm
+2025Q1,3,loans_hfi,Commercial Banking,87513.0,capitalone-10q-2026q1.htm
+2025Q1,3,loans_hfi,Consolidated Total,323598.0,capitalone-10q-2026q1.htm
+2025Q1,3,loans_hfi,Consumer Banking,78896.0,capitalone-10q-2026q1.htm
+2025Q1,3,loans_hfi,Credit Card,157189.0,capitalone-10q-2026q1.htm
+2025Q1,3,loans_hfi,Other,0.0,capitalone-10q-2026q1.htm
+2025Q1,3,net_interest_income,Commercial Banking,572.0,capitalone-10q-2026q1.htm
+2025Q1,3,net_interest_income,Consolidated Total,8013.0,capitalone-10q-2026q1.htm
+2025Q1,3,net_interest_income,Consumer Banking,1943.0,capitalone-10q-2026q1.htm
+2025Q1,3,net_interest_income,Credit Card,5654.0,capitalone-10q-2026q1.htm
+2025Q1,3,net_interest_income,Other,-156.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_expense,Commercial Banking,486.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_expense,Consolidated Total,5902.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_expense,Consumer Banking,1581.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_expense,Credit Card,3638.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_expense,Other,197.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_income,Commercial Banking,312.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_income,Consolidated Total,1987.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_income,Consumer Banking,183.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_income,Credit Card,1511.0,capitalone-10q-2026q1.htm
+2025Q1,3,noninterest_income,Other,-19.0,capitalone-10q-2026q1.htm
+2025Q1,3,pretax_income,Commercial Banking,195.0,capitalone-10q-2026q1.htm
+2025Q1,3,pretax_income,Consolidated Total,1404.0,capitalone-10q-2026q1.htm
+2025Q1,3,pretax_income,Consumer Banking,186.0,capitalone-10q-2026q1.htm
+2025Q1,3,pretax_income,Credit Card,1219.0,capitalone-10q-2026q1.htm
+2025Q1,3,pretax_income,Other,-196.0,capitalone-10q-2026q1.htm
+2025Q1,3,provision,Commercial Banking,142.0,capitalone-10q-2026q1.htm
+2025Q1,3,provision,Consolidated Total,2369.0,capitalone-10q-2026q1.htm
+2025Q1,3,provision,Consumer Banking,301.0,capitalone-10q-2026q1.htm
+2025Q1,3,provision,Credit Card,1926.0,capitalone-10q-2026q1.htm
+2025Q1,3,provision,Other,0.0,capitalone-10q-2026q1.htm
+2025Q1,3,total_net_revenue,Commercial Banking,884.0,capitalone-10q-2026q1.htm
+2025Q1,3,total_net_revenue,Consolidated Total,10000.0,capitalone-10q-2026q1.htm
+2025Q1,3,total_net_revenue,Consumer Banking,2126.0,capitalone-10q-2026q1.htm
+2025Q1,3,total_net_revenue,Credit Card,7165.0,capitalone-10q-2026q1.htm
+2025Q1,3,total_net_revenue,Other,-175.0,capitalone-10q-2026q1.htm
+2025Q2,3,deposits,Commercial Banking,29245.0,capitalone-10q-2025q2.htm
+2025Q2,3,deposits,Consolidated Total,468110.0,capitalone-10q-2025q2.htm
+2025Q2,3,deposits,Consumer Banking,414044.0,capitalone-10q-2025q2.htm
+2025Q2,3,deposits,Credit Card,0.0,capitalone-10q-2025q2.htm
+2025Q2,3,deposits,Other,24821.0,capitalone-10q-2025q2.htm
+2025Q2,3,income_tax,Commercial Banking,87.0,capitalone-10q-2026q2.htm
+2025Q2,3,income_tax,Consolidated Total,-1666.0,capitalone-10q-2026q2.htm
+2025Q2,3,income_tax,Consumer Banking,141.0,capitalone-10q-2026q2.htm
+2025Q2,3,income_tax,Credit Card,-1533.0,capitalone-10q-2026q2.htm
+2025Q2,3,income_tax,Other,-361.0,capitalone-10q-2026q2.htm
+2025Q2,3,loans_hfi,Commercial Banking,88355.0,capitalone-10q-2025q2.htm
+2025Q2,3,loans_hfi,Consolidated Total,439297.0,capitalone-10q-2025q2.htm
+2025Q2,3,loans_hfi,Consumer Banking,81233.0,capitalone-10q-2025q2.htm
+2025Q2,3,loans_hfi,Credit Card,269709.0,capitalone-10q-2025q2.htm
+2025Q2,3,loans_hfi,Other,0.0,capitalone-10q-2025q2.htm
+2025Q2,3,net_interest_income,Commercial Banking,602.0,capitalone-10q-2026q2.htm
+2025Q2,3,net_interest_income,Consolidated Total,9995.0,capitalone-10q-2026q2.htm
+2025Q2,3,net_interest_income,Consumer Banking,2162.0,capitalone-10q-2026q2.htm
+2025Q2,3,net_interest_income,Credit Card,7293.0,capitalone-10q-2026q2.htm
+2025Q2,3,net_interest_income,Other,-62.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_expense,Commercial Banking,489.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_expense,Consolidated Total,6991.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_expense,Consumer Banking,1713.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_expense,Credit Card,4447.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_expense,Other,342.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_income,Commercial Banking,335.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_income,Consolidated Total,2497.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_income,Consumer Banking,394.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_income,Credit Card,1802.0,capitalone-10q-2026q2.htm
+2025Q2,3,noninterest_income,Other,-34.0,capitalone-10q-2026q2.htm
+2025Q2,3,pretax_income,Commercial Banking,280.0,capitalone-10q-2026q2.htm
+2025Q2,3,pretax_income,Consolidated Total,-4263.0,capitalone-10q-2026q2.htm
+2025Q2,3,pretax_income,Consumer Banking,450.0,capitalone-10q-2026q2.htm
+2025Q2,3,pretax_income,Credit Card,-4917.0,capitalone-10q-2026q2.htm
+2025Q2,3,pretax_income,Other,-76.0,capitalone-10q-2026q2.htm
+2025Q2,3,total_net_revenue,Commercial Banking,937.0,capitalone-10q-2026q2.htm
+2025Q2,3,total_net_revenue,Consolidated Total,12492.0,capitalone-10q-2026q2.htm
+2025Q2,3,total_net_revenue,Consumer Banking,2556.0,capitalone-10q-2026q2.htm
+2025Q2,3,total_net_revenue,Credit Card,9095.0,capitalone-10q-2026q2.htm
+2025Q2,3,total_net_revenue,Other,-96.0,capitalone-10q-2026q2.htm
+2025Q2,6,deposits,Commercial Banking,29245.0,capitalone-10q-2025q2.htm
+2025Q2,6,deposits,Consolidated Total,468110.0,capitalone-10q-2025q2.htm
+2025Q2,6,deposits,Consumer Banking,414044.0,capitalone-10q-2025q2.htm
+2025Q2,6,deposits,Credit Card,0.0,capitalone-10q-2025q2.htm
+2025Q2,6,deposits,Other,24821.0,capitalone-10q-2025q2.htm
+2025Q2,6,income_tax,Commercial Banking,148.0,capitalone-10q-2026q2.htm
+2025Q2,6,income_tax,Consolidated Total,-1341.0,capitalone-10q-2026q2.htm
+2025Q2,6,income_tax,Consumer Banking,199.0,capitalone-10q-2026q2.htm
+2025Q2,6,income_tax,Credit Card,-1151.0,capitalone-10q-2026q2.htm
+2025Q2,6,income_tax,Other,-537.0,capitalone-10q-2026q2.htm
+2025Q2,6,loans_hfi,Commercial Banking,88355.0,capitalone-10q-2025q2.htm
+2025Q2,6,loans_hfi,Consolidated Total,439297.0,capitalone-10q-2025q2.htm
+2025Q2,6,loans_hfi,Consumer Banking,81233.0,capitalone-10q-2025q2.htm
+2025Q2,6,loans_hfi,Credit Card,269709.0,capitalone-10q-2025q2.htm
+2025Q2,6,loans_hfi,Other,0.0,capitalone-10q-2025q2.htm
+2025Q2,6,net_interest_income,Commercial Banking,1174.0,capitalone-10q-2026q2.htm
+2025Q2,6,net_interest_income,Consolidated Total,18008.0,capitalone-10q-2026q2.htm
+2025Q2,6,net_interest_income,Consumer Banking,4105.0,capitalone-10q-2026q2.htm
+2025Q2,6,net_interest_income,Credit Card,12947.0,capitalone-10q-2026q2.htm
+2025Q2,6,net_interest_income,Other,-218.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_expense,Commercial Banking,975.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_expense,Consolidated Total,12893.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_expense,Consumer Banking,3294.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_expense,Credit Card,8085.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_expense,Other,539.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_income,Commercial Banking,647.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_income,Consolidated Total,4484.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_income,Consumer Banking,577.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_income,Credit Card,3313.0,capitalone-10q-2026q2.htm
+2025Q2,6,noninterest_income,Other,-53.0,capitalone-10q-2026q2.htm
+2025Q2,6,pretax_income,Commercial Banking,475.0,capitalone-10q-2026q2.htm
+2025Q2,6,pretax_income,Consolidated Total,-2859.0,capitalone-10q-2026q2.htm
+2025Q2,6,pretax_income,Consumer Banking,636.0,capitalone-10q-2026q2.htm
+2025Q2,6,pretax_income,Credit Card,-3698.0,capitalone-10q-2026q2.htm
+2025Q2,6,pretax_income,Other,-272.0,capitalone-10q-2026q2.htm
+2025Q2,6,total_net_revenue,Commercial Banking,1821.0,capitalone-10q-2026q2.htm
+2025Q2,6,total_net_revenue,Consolidated Total,22492.0,capitalone-10q-2026q2.htm
+2025Q2,6,total_net_revenue,Consumer Banking,4682.0,capitalone-10q-2026q2.htm
+2025Q2,6,total_net_revenue,Credit Card,16260.0,capitalone-10q-2026q2.htm
+2025Q2,6,total_net_revenue,Other,-271.0,capitalone-10q-2026q2.htm
+2025Q3,3,deposits,Commercial Banking,29920.0,capitalone-10q-2025q3.htm
+2025Q3,3,deposits,Consolidated Total,468785.0,capitalone-10q-2025q3.htm
+2025Q3,3,deposits,Consumer Banking,416765.0,capitalone-10q-2025q3.htm
+2025Q3,3,deposits,Credit Card,0.0,capitalone-10q-2025q3.htm
+2025Q3,3,deposits,Other,22100.0,capitalone-10q-2025q3.htm
+2025Q3,3,income_tax,Commercial Banking,89.0,capitalone-10q-2025q3.htm
+2025Q3,3,income_tax,Consolidated Total,1189.0,capitalone-10q-2025q3.htm
+2025Q3,3,income_tax,Consumer Banking,131.0,capitalone-10q-2025q3.htm
+2025Q3,3,income_tax,Credit Card,914.0,capitalone-10q-2025q3.htm
+2025Q3,3,income_tax,Other,55.0,capitalone-10q-2025q3.htm
+2025Q3,3,loans_hfi,Commercial Banking,88892.0,capitalone-10q-2025q3.htm
+2025Q3,3,loans_hfi,Consolidated Total,443159.0,capitalone-10q-2025q3.htm
+2025Q3,3,loans_hfi,Consumer Banking,83230.0,capitalone-10q-2025q3.htm
+2025Q3,3,loans_hfi,Credit Card,271037.0,capitalone-10q-2025q3.htm
+2025Q3,3,loans_hfi,Other,0.0,capitalone-10q-2025q3.htm
+2025Q3,3,net_interest_income,Commercial Banking,586.0,capitalone-10q-2025q3.htm
+2025Q3,3,net_interest_income,Consolidated Total,12404.0,capitalone-10q-2025q3.htm
+2025Q3,3,net_interest_income,Consumer Banking,2357.0,capitalone-10q-2025q3.htm
+2025Q3,3,net_interest_income,Credit Card,9396.0,capitalone-10q-2025q3.htm
+2025Q3,3,net_interest_income,Other,65.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_expense,Commercial Banking,520.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_expense,Consolidated Total,8263.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_expense,Consumer Banking,1941.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_expense,Credit Card,5409.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_expense,Other,393.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_income,Commercial Banking,318.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_income,Consolidated Total,2955.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_income,Consumer Banking,475.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_income,Credit Card,2211.0,capitalone-10q-2025q3.htm
+2025Q3,3,noninterest_income,Other,-49.0,capitalone-10q-2025q3.htm
+2025Q3,3,pretax_income,Commercial Banking,286.0,capitalone-10q-2025q3.htm
+2025Q3,3,pretax_income,Consolidated Total,3193.0,capitalone-10q-2025q3.htm
+2025Q3,3,pretax_income,Consumer Banking,420.0,capitalone-10q-2025q3.htm
+2025Q3,3,pretax_income,Credit Card,2920.0,capitalone-10q-2025q3.htm
+2025Q3,3,pretax_income,Other,-433.0,capitalone-10q-2025q3.htm
+2025Q3,3,provision,Commercial Banking,9.0,capitalone-10q-2025q3.htm
+2025Q3,3,provision,Consolidated Total,2714.0,capitalone-10q-2025q3.htm
+2025Q3,3,provision,Consumer Banking,340.0,capitalone-10q-2025q3.htm
+2025Q3,3,provision,Credit Card,2364.0,capitalone-10q-2025q3.htm
+2025Q3,3,provision,Other,1.0,capitalone-10q-2025q3.htm
+2025Q3,3,total_net_revenue,Commercial Banking,904.0,capitalone-10q-2025q3.htm
+2025Q3,3,total_net_revenue,Consolidated Total,15359.0,capitalone-10q-2025q3.htm
+2025Q3,3,total_net_revenue,Consumer Banking,2832.0,capitalone-10q-2025q3.htm
+2025Q3,3,total_net_revenue,Credit Card,11607.0,capitalone-10q-2025q3.htm
+2025Q3,3,total_net_revenue,Other,16.0,capitalone-10q-2025q3.htm
+2025Q3,9,deposits,Commercial Banking,29920.0,capitalone-10q-2025q3.htm
+2025Q3,9,deposits,Consolidated Total,468785.0,capitalone-10q-2025q3.htm
+2025Q3,9,deposits,Consumer Banking,416765.0,capitalone-10q-2025q3.htm
+2025Q3,9,deposits,Credit Card,0.0,capitalone-10q-2025q3.htm
+2025Q3,9,deposits,Other,22100.0,capitalone-10q-2025q3.htm
+2025Q3,9,income_tax,Commercial Banking,237.0,capitalone-10q-2025q3.htm
+2025Q3,9,income_tax,Consolidated Total,-152.0,capitalone-10q-2025q3.htm
+2025Q3,9,income_tax,Consumer Banking,330.0,capitalone-10q-2025q3.htm
+2025Q3,9,income_tax,Credit Card,-237.0,capitalone-10q-2025q3.htm
+2025Q3,9,income_tax,Other,-482.0,capitalone-10q-2025q3.htm
+2025Q3,9,loans_hfi,Commercial Banking,88892.0,capitalone-10q-2025q3.htm
+2025Q3,9,loans_hfi,Consolidated Total,443159.0,capitalone-10q-2025q3.htm
+2025Q3,9,loans_hfi,Consumer Banking,83230.0,capitalone-10q-2025q3.htm
+2025Q3,9,loans_hfi,Credit Card,271037.0,capitalone-10q-2025q3.htm
+2025Q3,9,loans_hfi,Other,0.0,capitalone-10q-2025q3.htm
+2025Q3,9,net_interest_income,Commercial Banking,1760.0,capitalone-10q-2025q3.htm
+2025Q3,9,net_interest_income,Consolidated Total,30412.0,capitalone-10q-2025q3.htm
+2025Q3,9,net_interest_income,Consumer Banking,6462.0,capitalone-10q-2025q3.htm
+2025Q3,9,net_interest_income,Credit Card,22343.0,capitalone-10q-2025q3.htm
+2025Q3,9,net_interest_income,Other,-153.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_expense,Commercial Banking,1495.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_expense,Consolidated Total,21156.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_expense,Consumer Banking,5235.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_expense,Credit Card,13494.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_expense,Other,932.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_income,Commercial Banking,965.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_income,Consolidated Total,7439.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_income,Consumer Banking,1052.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_income,Credit Card,5524.0,capitalone-10q-2025q3.htm
+2025Q3,9,noninterest_income,Other,-102.0,capitalone-10q-2025q3.htm
+2025Q3,9,pretax_income,Commercial Banking,761.0,capitalone-10q-2025q3.htm
+2025Q3,9,pretax_income,Consolidated Total,334.0,capitalone-10q-2025q3.htm
+2025Q3,9,pretax_income,Consumer Banking,1056.0,capitalone-10q-2025q3.htm
+2025Q3,9,pretax_income,Credit Card,-778.0,capitalone-10q-2025q3.htm
+2025Q3,9,pretax_income,Other,-705.0,capitalone-10q-2025q3.htm
+2025Q3,9,provision,Commercial Banking,232.0,capitalone-10q-2025q3.htm
+2025Q3,9,provision,Consolidated Total,16513.0,capitalone-10q-2025q3.htm
+2025Q3,9,provision,Consumer Banking,893.0,capitalone-10q-2025q3.htm
+2025Q3,9,provision,Credit Card,15388.0,capitalone-10q-2025q3.htm
+2025Q3,9,provision,Other,0.0,capitalone-10q-2025q3.htm
+2025Q3,9,total_net_revenue,Commercial Banking,2725.0,capitalone-10q-2025q3.htm
+2025Q3,9,total_net_revenue,Consolidated Total,37851.0,capitalone-10q-2025q3.htm
+2025Q3,9,total_net_revenue,Consumer Banking,7514.0,capitalone-10q-2025q3.htm
+2025Q3,9,total_net_revenue,Credit Card,27867.0,capitalone-10q-2025q3.htm
+2025Q3,9,total_net_revenue,Other,-255.0,capitalone-10q-2025q3.htm
+2025Q4,3,deposits,Commercial Banking,1330.0,derived Q4=FY-9M
+2025Q4,3,deposits,Consolidated Total,6986.0,derived Q4=FY-9M
+2025Q4,3,deposits,Consumer Banking,7167.0,derived Q4=FY-9M
+2025Q4,3,deposits,Credit Card,0.0,derived Q4=FY-9M
+2025Q4,3,deposits,Other,-1511.0,derived Q4=FY-9M
+2025Q4,3,income_tax,Commercial Banking,89.0,derived Q4=FY-9M
+2025Q4,3,income_tax,Consolidated Total,345.0,derived Q4=FY-9M
+2025Q4,3,income_tax,Consumer Banking,52.0,derived Q4=FY-9M
+2025Q4,3,income_tax,Credit Card,445.0,derived Q4=FY-9M
+2025Q4,3,income_tax,Other,-241.0,derived Q4=FY-9M
+2025Q4,3,loans_hfi,Commercial Banking,370.0,derived Q4=FY-9M
+2025Q4,3,loans_hfi,Consolidated Total,10463.0,derived Q4=FY-9M
+2025Q4,3,loans_hfi,Consumer Banking,1560.0,derived Q4=FY-9M
+2025Q4,3,loans_hfi,Credit Card,8533.0,derived Q4=FY-9M
+2025Q4,3,loans_hfi,Other,0.0,derived Q4=FY-9M
+2025Q4,3,net_interest_income,Commercial Banking,574.0,derived Q4=FY-9M
+2025Q4,3,net_interest_income,Consolidated Total,12466.0,derived Q4=FY-9M
+2025Q4,3,net_interest_income,Consumer Banking,2296.0,derived Q4=FY-9M
+2025Q4,3,net_interest_income,Credit Card,9479.0,derived Q4=FY-9M
+2025Q4,3,net_interest_income,Other,117.0,derived Q4=FY-9M
+2025Q4,3,noninterest_expense,Commercial Banking,504.0,derived Q4=FY-9M
+2025Q4,3,noninterest_expense,Consolidated Total,9342.0,derived Q4=FY-9M
+2025Q4,3,noninterest_expense,Consumer Banking,2289.0,derived Q4=FY-9M
+2025Q4,3,noninterest_expense,Credit Card,6147.0,derived Q4=FY-9M
+2025Q4,3,noninterest_expense,Other,402.0,derived Q4=FY-9M
+2025Q4,3,noninterest_income,Commercial Banking,356.0,derived Q4=FY-9M
+2025Q4,3,noninterest_income,Consolidated Total,3117.0,derived Q4=FY-9M
+2025Q4,3,noninterest_income,Consumer Banking,623.0,derived Q4=FY-9M
+2025Q4,3,noninterest_income,Credit Card,2214.0,derived Q4=FY-9M
+2025Q4,3,noninterest_income,Other,-76.0,derived Q4=FY-9M
+2025Q4,3,pretax_income,Commercial Banking,282.0,derived Q4=FY-9M
+2025Q4,3,pretax_income,Consolidated Total,1754.0,derived Q4=FY-9M
+2025Q4,3,pretax_income,Consumer Banking,169.0,derived Q4=FY-9M
+2025Q4,3,pretax_income,Credit Card,1423.0,derived Q4=FY-9M
+2025Q4,3,pretax_income,Other,-120.0,derived Q4=FY-9M
+2025Q4,3,provision,Commercial Banking,55.0,derived Q4=FY-9M
+2025Q4,3,provision,Consolidated Total,4142.0,derived Q4=FY-9M
+2025Q4,3,provision,Consumer Banking,409.0,derived Q4=FY-9M
+2025Q4,3,provision,Credit Card,3678.0,derived Q4=FY-9M
+2025Q4,3,provision,Other,0.0,derived Q4=FY-9M
+2025Q4,3,total_net_revenue,Commercial Banking,930.0,derived Q4=FY-9M
+2025Q4,3,total_net_revenue,Consolidated Total,15583.0,derived Q4=FY-9M
+2025Q4,3,total_net_revenue,Consumer Banking,2919.0,derived Q4=FY-9M
+2025Q4,3,total_net_revenue,Credit Card,11693.0,derived Q4=FY-9M
+2025Q4,3,total_net_revenue,Other,41.0,derived Q4=FY-9M
+2026Q1,3,deposits,Commercial Banking,31007.0,capitalone-10q-2026q1.htm
+2026Q1,3,deposits,Consolidated Total,489053.0,capitalone-10q-2026q1.htm
+2026Q1,3,deposits,Consumer Banking,438034.0,capitalone-10q-2026q1.htm
+2026Q1,3,deposits,Credit Card,0.0,capitalone-10q-2026q1.htm
+2026Q1,3,deposits,Other,20012.0,capitalone-10q-2026q1.htm
+2026Q1,3,income_tax,Commercial Banking,67.0,capitalone-10q-2026q1.htm
+2026Q1,3,income_tax,Consolidated Total,518.0,capitalone-10q-2026q1.htm
+2026Q1,3,income_tax,Consumer Banking,97.0,capitalone-10q-2026q1.htm
+2026Q1,3,income_tax,Credit Card,608.0,capitalone-10q-2026q1.htm
+2026Q1,3,income_tax,Other,-254.0,capitalone-10q-2026q1.htm
+2026Q1,3,loans_hfi,Commercial Banking,90323.0,capitalone-10q-2026q1.htm
+2026Q1,3,loans_hfi,Consolidated Total,447754.0,capitalone-10q-2026q1.htm
+2026Q1,3,loans_hfi,Consumer Banking,86873.0,capitalone-10q-2026q1.htm
+2026Q1,3,loans_hfi,Credit Card,270558.0,capitalone-10q-2026q1.htm
+2026Q1,3,loans_hfi,Other,0.0,capitalone-10q-2026q1.htm
+2026Q1,3,net_interest_income,Commercial Banking,581.0,capitalone-10q-2026q1.htm
+2026Q1,3,net_interest_income,Consolidated Total,12145.0,capitalone-10q-2026q1.htm
+2026Q1,3,net_interest_income,Consumer Banking,2229.0,capitalone-10q-2026q1.htm
+2026Q1,3,net_interest_income,Credit Card,9236.0,capitalone-10q-2026q1.htm
+2026Q1,3,net_interest_income,Other,99.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_expense,Commercial Banking,498.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_expense,Consolidated Total,8464.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_expense,Consumer Banking,1998.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_expense,Credit Card,5501.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_expense,Other,467.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_income,Commercial Banking,328.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_income,Consolidated Total,3086.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_income,Consumer Banking,683.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_income,Credit Card,2153.0,capitalone-10q-2026q1.htm
+2026Q1,3,noninterest_income,Other,-78.0,capitalone-10q-2026q1.htm
+2026Q1,3,pretax_income,Commercial Banking,206.0,capitalone-10q-2026q1.htm
+2026Q1,3,pretax_income,Consolidated Total,2181.0,capitalone-10q-2026q1.htm
+2026Q1,3,pretax_income,Consumer Banking,298.0,capitalone-10q-2026q1.htm
+2026Q1,3,pretax_income,Credit Card,1869.0,capitalone-10q-2026q1.htm
+2026Q1,3,pretax_income,Other,-192.0,capitalone-10q-2026q1.htm
+2026Q1,3,provision,Commercial Banking,138.0,capitalone-10q-2026q1.htm
+2026Q1,3,provision,Consolidated Total,4068.0,capitalone-10q-2026q1.htm
+2026Q1,3,provision,Consumer Banking,519.0,capitalone-10q-2026q1.htm
+2026Q1,3,provision,Credit Card,3411.0,capitalone-10q-2026q1.htm
+2026Q1,3,provision,Other,0.0,capitalone-10q-2026q1.htm
+2026Q1,3,total_net_revenue,Commercial Banking,909.0,capitalone-10q-2026q1.htm
+2026Q1,3,total_net_revenue,Consolidated Total,15231.0,capitalone-10q-2026q1.htm
+2026Q1,3,total_net_revenue,Consumer Banking,2912.0,capitalone-10q-2026q1.htm
+2026Q1,3,total_net_revenue,Credit Card,11389.0,capitalone-10q-2026q1.htm
+2026Q1,3,total_net_revenue,Other,21.0,capitalone-10q-2026q1.htm
+2026Q2,3,income_tax,Commercial Banking,78.0,capitalone-10q-2026q2.htm
+2026Q2,3,income_tax,Consolidated Total,798.0,capitalone-10q-2026q2.htm
+2026Q2,3,income_tax,Consumer Banking,158.0,capitalone-10q-2026q2.htm
+2026Q2,3,income_tax,Credit Card,782.0,capitalone-10q-2026q2.htm
+2026Q2,3,income_tax,Other,-220.0,capitalone-10q-2026q2.htm
+2026Q2,3,net_interest_income,Commercial Banking,585.0,capitalone-10q-2026q2.htm
+2026Q2,3,net_interest_income,Consolidated Total,12374.0,capitalone-10q-2026q2.htm
+2026Q2,3,net_interest_income,Consumer Banking,2431.0,capitalone-10q-2026q2.htm
+2026Q2,3,net_interest_income,Credit Card,9252.0,capitalone-10q-2026q2.htm
+2026Q2,3,net_interest_income,Other,106.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_expense,Commercial Banking,462.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_expense,Consolidated Total,9043.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_expense,Consumer Banking,2121.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_expense,Credit Card,6098.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_expense,Other,362.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_income,Commercial Banking,265.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_income,Consolidated Total,3476.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_income,Consumer Banking,778.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_income,Credit Card,2513.0,capitalone-10q-2026q2.htm
+2026Q2,3,noninterest_income,Other,-80.0,capitalone-10q-2026q2.htm
+2026Q2,3,pretax_income,Commercial Banking,239.0,capitalone-10q-2026q2.htm
+2026Q2,3,pretax_income,Consolidated Total,3020.0,capitalone-10q-2026q2.htm
+2026Q2,3,pretax_income,Consumer Banking,486.0,capitalone-10q-2026q2.htm
+2026Q2,3,pretax_income,Credit Card,2411.0,capitalone-10q-2026q2.htm
+2026Q2,3,pretax_income,Other,-116.0,capitalone-10q-2026q2.htm
+2026Q2,3,total_net_revenue,Commercial Banking,850.0,capitalone-10q-2026q2.htm
+2026Q2,3,total_net_revenue,Consolidated Total,15850.0,capitalone-10q-2026q2.htm
+2026Q2,3,total_net_revenue,Consumer Banking,3209.0,capitalone-10q-2026q2.htm
+2026Q2,3,total_net_revenue,Credit Card,11765.0,capitalone-10q-2026q2.htm
+2026Q2,3,total_net_revenue,Other,26.0,capitalone-10q-2026q2.htm
+2026Q2,6,income_tax,Commercial Banking,145.0,capitalone-10q-2026q2.htm
+2026Q2,6,income_tax,Consolidated Total,1316.0,capitalone-10q-2026q2.htm
+2026Q2,6,income_tax,Consumer Banking,255.0,capitalone-10q-2026q2.htm
+2026Q2,6,income_tax,Credit Card,1390.0,capitalone-10q-2026q2.htm
+2026Q2,6,income_tax,Other,-474.0,capitalone-10q-2026q2.htm
+2026Q2,6,net_interest_income,Commercial Banking,1166.0,capitalone-10q-2026q2.htm
+2026Q2,6,net_interest_income,Consolidated Total,24519.0,capitalone-10q-2026q2.htm
+2026Q2,6,net_interest_income,Consumer Banking,4660.0,capitalone-10q-2026q2.htm
+2026Q2,6,net_interest_income,Credit Card,18488.0,capitalone-10q-2026q2.htm
+2026Q2,6,net_interest_income,Other,205.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_expense,Commercial Banking,960.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_expense,Consolidated Total,17507.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_expense,Consumer Banking,4119.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_expense,Credit Card,11599.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_expense,Other,829.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_income,Commercial Banking,593.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_income,Consolidated Total,6562.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_income,Consumer Banking,1461.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_income,Credit Card,4666.0,capitalone-10q-2026q2.htm
+2026Q2,6,noninterest_income,Other,-158.0,capitalone-10q-2026q2.htm
+2026Q2,6,pretax_income,Commercial Banking,445.0,capitalone-10q-2026q2.htm
+2026Q2,6,pretax_income,Consolidated Total,5201.0,capitalone-10q-2026q2.htm
+2026Q2,6,pretax_income,Consumer Banking,784.0,capitalone-10q-2026q2.htm
+2026Q2,6,pretax_income,Credit Card,4280.0,capitalone-10q-2026q2.htm
+2026Q2,6,pretax_income,Other,-308.0,capitalone-10q-2026q2.htm
+2026Q2,6,total_net_revenue,Commercial Banking,1759.0,capitalone-10q-2026q2.htm
+2026Q2,6,total_net_revenue,Consolidated Total,31081.0,capitalone-10q-2026q2.htm
+2026Q2,6,total_net_revenue,Consumer Banking,6121.0,capitalone-10q-2026q2.htm
+2026Q2,6,total_net_revenue,Credit Card,23154.0,capitalone-10q-2026q2.htm
+2026Q2,6,total_net_revenue,Other,47.0,capitalone-10q-2026q2.htm

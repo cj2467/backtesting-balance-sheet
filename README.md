@@ -17,6 +17,34 @@ Outstanding, two things:
    bug (below) and produced an empty manifest. Re-run `./download-filings.sh`.
 2. Three quarter-ends are missing — see below. Run `download-periodic.py`.
 
+## NII reconciliation workbook
+
+`parse-nii-tables.py` → `nii-segment.csv`, `nii-avgbal.csv`,
+`nii-ratevolume.csv` → `build-nii-workbook.py` →
+`capital-one-nii-reconciliation.xlsx` (4 sheets).
+
+Three tables, three jobs. **Segment Results and Reconciliation** (note 13.1) is
+the reconciliation proper — segment NII summing to the consolidated total.
+**Average Balances, NII and Net Interest Margin** decomposes NII by product into
+average balance, interest and yield. **Rate/Volume Analysis** splits the change
+in NII into volume and rate effects.
+
+None of the MD&A tables are XBRL-tagged — probing six values returned zero
+tagged hits, while figures that also appear on the face of the income statement
+are tagged. So these are parsed from rendered HTML. The parser maps the ordered
+numeric values in each row onto the ordered column headers (because `$` and `%`
+occupy their own cells, making column position unreliable) and rejects any row
+whose count doesn't match rather than guessing.
+
+Validation: segment NII ties to the consolidated total at zero difference across
+all 14 quarters 2023Q1–2026Q2, and every consolidated figure matches the income
+statement extracted independently from XBRL. Volume + rate ties to total
+variance throughout.
+
+Q4 segment figures are derived as FY − 9M (no 3-month Q4 segment table is
+reported). Average balances are NOT derived for Q4 — averages don't subtract
+that way — so annual rows are labelled `FY`, not `Q4`.
+
 ## There is no monthly income statement
 
 `make-monthly-pl.py` → `monthly-pl-cof.csv`. Read the header before using it.

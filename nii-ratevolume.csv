@@ -1,0 +1,463 @@
+period,months,comparison,line_item,field,value_mm,source
+2024Q1,3,2024 vs 2023,Cash equivalents and other interest-earning assets,rate,75.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Cash equivalents and other interest-earning assets,total_variance,154.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Cash equivalents and other interest-earning assets,volume,79.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Commercial banking,rate,187.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Commercial banking,total_variance,124.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Commercial banking,volume,-63.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Consumer banking,rate,175.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Consumer banking,total_variance,103.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Consumer banking,volume,-72.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Credit card,rate,301.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Credit card,total_variance,1014.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Credit card,volume,713.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Interest-bearing deposits,rate,896.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Interest-bearing deposits,total_variance,956.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Interest-bearing deposits,volume,60.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Net interest income,rate,-244.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Net interest income,total_variance,302.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Net interest income,volume,546.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Securitized debt obligations,rate,43.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Securitized debt obligations,total_variance,50.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Securitized debt obligations,volume,7.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Senior and subordinated notes,rate,82.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Senior and subordinated notes,total_variance,117.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Senior and subordinated notes,volume,35.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Total interest expense,rate,1019.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Total interest expense,total_variance,1121.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Total interest expense,volume,102.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Total interest income,rate,775.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Total interest income,total_variance,1423.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,Total interest income,volume,648.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,"Total loans, including loans held for sale",rate,619.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,"Total loans, including loans held for sale",total_variance,1197.0,capitalone-10q-2024q1.htm
+2024Q1,3,2024 vs 2023,"Total loans, including loans held for sale",volume,578.0,capitalone-10q-2024q1.htm
+2024Q2,3,2024 vs 2023,Cash equivalents and other interest-earning assets,rate,31.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Cash equivalents and other interest-earning assets,total_variance,117.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Cash equivalents and other interest-earning assets,volume,86.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Commercial banking,rate,108.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Commercial banking,total_variance,36.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Commercial banking,volume,-72.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Consumer banking,rate,169.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Consumer banking,total_variance,125.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Consumer banking,volume,-44.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Credit card,rate,223.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Credit card,total_variance,786.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Credit card,volume,563.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Interest-bearing deposits,rate,527.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Interest-bearing deposits,total_variance,597.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Interest-bearing deposits,volume,70.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Net interest income,rate,-15.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Net interest income,total_variance,433.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Net interest income,volume,448.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Senior and subordinated notes,rate,48.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Senior and subordinated notes,total_variance,63.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Senior and subordinated notes,volume,15.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Total interest expense,rate,600.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Total interest expense,total_variance,681.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Total interest expense,volume,81.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Total interest income,rate,585.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Total interest income,total_variance,1114.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,Total interest income,volume,529.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,"Total loans, including loans held for sale",rate,489.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,"Total loans, including loans held for sale",total_variance,936.0,capitalone-10q-2024q2.htm
+2024Q2,3,2024 vs 2023,"Total loans, including loans held for sale",volume,447.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Cash equivalents and other interest-earning assets,rate,106.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Cash equivalents and other interest-earning assets,total_variance,271.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Cash equivalents and other interest-earning assets,volume,165.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Commercial banking,rate,296.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Commercial banking,total_variance,160.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Commercial banking,volume,-136.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Consumer banking,rate,345.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Consumer banking,total_variance,228.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Consumer banking,volume,-117.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Credit card,rate,524.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Credit card,total_variance,1800.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Credit card,volume,1276.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Interest-bearing deposits,rate,1423.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Interest-bearing deposits,total_variance,1553.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Interest-bearing deposits,volume,130.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Net interest income,rate,-256.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Net interest income,total_variance,735.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Net interest income,volume,991.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Senior and subordinated notes,rate,130.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Senior and subordinated notes,total_variance,180.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Senior and subordinated notes,volume,50.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Total interest expense,rate,1618.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Total interest expense,total_variance,1802.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Total interest expense,volume,184.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Total interest income,rate,1362.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Total interest income,total_variance,2537.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,Total interest income,volume,1175.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,"Total loans, including loans held for sale",rate,1110.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,"Total loans, including loans held for sale",total_variance,2133.0,capitalone-10q-2024q2.htm
+2024Q2,6,2024 vs 2023,"Total loans, including loans held for sale",volume,1023.0,capitalone-10q-2024q2.htm
+2024Q3,3,2024 vs 2023,Commercial banking,rate,28.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Commercial banking,total_variance,-41.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Commercial banking,volume,-69.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Consumer banking,rate,174.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Consumer banking,total_variance,155.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Consumer banking,volume,-19.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Credit card,rate,237.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Credit card,total_variance,728.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Credit card,volume,491.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Interest-bearing deposits,rate,263.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Interest-bearing deposits,total_variance,334.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Interest-bearing deposits,volume,71.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Investment securities,rate,86.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Investment securities,total_variance,106.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Investment securities,volume,20.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Securitized debt obligations,rate,11.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Securitized debt obligations,total_variance,-15.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Securitized debt obligations,volume,-26.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Senior and subordinated notes,rate,7.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Senior and subordinated notes,total_variance,17.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Senior and subordinated notes,volume,10.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Total interest expense,rate,279.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Total interest expense,total_variance,334.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Total interest expense,volume,55.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Total interest income,rate,527.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Total interest income,total_variance,987.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,Total interest income,volume,460.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,"Total loans, including loans held for sale",rate,448.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,"Total loans, including loans held for sale",total_variance,851.0,capitalone-10q-2024q3.htm
+2024Q3,3,2024 vs 2023,"Total loans, including loans held for sale",volume,403.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Commercial banking,rate,324.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Commercial banking,total_variance,119.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Commercial banking,volume,-205.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Consumer banking,rate,520.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Consumer banking,total_variance,383.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Consumer banking,volume,-137.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Credit card,rate,758.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Credit card,total_variance,2528.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Credit card,volume,1770.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Interest-bearing deposits,rate,1685.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Interest-bearing deposits,total_variance,1887.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Interest-bearing deposits,volume,202.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Investment securities,rate,232.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Investment securities,total_variance,239.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Investment securities,volume,7.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Securitized debt obligations,rate,78.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Securitized debt obligations,total_variance,57.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Securitized debt obligations,volume,-21.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Senior and subordinated notes,rate,136.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Senior and subordinated notes,total_variance,197.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Senior and subordinated notes,volume,61.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Total interest expense,rate,1894.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Total interest expense,total_variance,2136.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Total interest expense,volume,242.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Total interest income,rate,1885.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Total interest income,total_variance,3524.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,Total interest income,volume,1639.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,"Total loans, including loans held for sale",rate,1556.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,"Total loans, including loans held for sale",total_variance,2984.0,capitalone-10q-2024q3.htm
+2024Q3,9,2024 vs 2023,"Total loans, including loans held for sale",volume,1428.0,capitalone-10q-2024q3.htm
+2025Q1,3,2025 vs 2024,Cash equivalents and other interest-earning assets,rate,-117.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Cash equivalents and other interest-earning assets,total_variance,-79.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Cash equivalents and other interest-earning assets,volume,38.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Commercial banking,rate,-186.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Commercial banking,total_variance,-230.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Commercial banking,volume,-44.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Consumer banking,rate,136.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Consumer banking,total_variance,209.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Consumer banking,volume,73.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Credit card,rate,-114.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Credit card,total_variance,181.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Credit card,volume,295.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Interest-bearing deposits,rate,-253.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Interest-bearing deposits,total_variance,-97.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Interest-bearing deposits,volume,156.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Investment securities,rate,51.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Investment securities,total_variance,83.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Investment securities,volume,32.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Net interest income,rate,198.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Net interest income,total_variance,525.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Net interest income,volume,327.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Securitized debt obligations,rate,-30.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Securitized debt obligations,total_variance,-85.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Securitized debt obligations,volume,-55.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Senior and subordinated notes,rate,-67.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Senior and subordinated notes,total_variance,-101.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Senior and subordinated notes,volume,-34.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Total interest expense,rate,-351.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Total interest expense,total_variance,-284.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Total interest expense,volume,67.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Total interest income,rate,-153.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Total interest income,total_variance,241.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,Total interest income,volume,394.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,"Total loans, including loans held for sale",rate,-87.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,"Total loans, including loans held for sale",total_variance,237.0,capitalone-10q-2025q1.htm
+2025Q1,3,2025 vs 2024,"Total loans, including loans held for sale",volume,324.0,capitalone-10q-2025q1.htm
+2025Q2,3,2025 vs 2024,Cash equivalents and other interest-earning assets,rate,-79.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Cash equivalents and other interest-earning assets,total_variance,8.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Cash equivalents and other interest-earning assets,volume,87.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Commercial banking,rate,-180.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Commercial banking,total_variance,-195.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Commercial banking,volume,-15.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Consumer banking,rate,146.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Consumer banking,total_variance,250.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Consumer banking,volume,104.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Credit card,rate,-320.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Credit card,total_variance,2319.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Credit card,volume,2639.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Interest-bearing deposits,rate,-273.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Interest-bearing deposits,total_variance,246.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Interest-bearing deposits,volume,519.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Investment securities,rate,56.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Investment securities,total_variance,84.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Investment securities,volume,28.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Net interest income,rate,64.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Net interest income,total_variance,2449.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Net interest income,volume,2385.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Other,rate,46.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Other,total_variance,82.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Other,volume,36.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Other borrowings and liabilities,rate,1.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Other borrowings and liabilities,total_variance,3.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Other borrowings and liabilities,volume,2.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Securitized debt obligations,rate,-36.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Securitized debt obligations,total_variance,-94.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Securitized debt obligations,volume,-58.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Total interest expense,rate,-395.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Total interest expense,total_variance,99.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Total interest expense,volume,494.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Total interest income,rate,-331.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Total interest income,total_variance,2548.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,Total interest income,volume,2879.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,"Total loans, including loans held for sale",rate,-308.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,"Total loans, including loans held for sale",total_variance,2456.0,capitalone-10q-2025q2.htm
+2025Q2,3,2025 vs 2024,"Total loans, including loans held for sale",volume,2764.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Cash equivalents and other interest-earning assets,rate,-195.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Cash equivalents and other interest-earning assets,total_variance,-71.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Cash equivalents and other interest-earning assets,volume,124.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Commercial banking,rate,-366.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Commercial banking,total_variance,-425.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Commercial banking,volume,-59.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Consumer banking,rate,282.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Consumer banking,total_variance,459.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Consumer banking,volume,177.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Credit card,rate,-476.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Credit card,total_variance,2500.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Credit card,volume,2976.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Interest-bearing deposits,rate,-529.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Interest-bearing deposits,total_variance,149.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Interest-bearing deposits,volume,678.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Investment securities,rate,106.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Investment securities,total_variance,167.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Investment securities,volume,61.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Net interest income,rate,225.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Net interest income,total_variance,2974.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Net interest income,volume,2749.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Other,rate,123.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Other,total_variance,159.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Other,volume,36.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Other borrowings and liabilities,rate,1.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Other borrowings and liabilities,total_variance,2.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Other borrowings and liabilities,volume,1.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Securitized debt obligations,rate,-66.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Securitized debt obligations,total_variance,-179.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Securitized debt obligations,volume,-113.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Total interest expense,rate,-751.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Total interest expense,total_variance,-185.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Total interest expense,volume,566.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Total interest income,rate,-526.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Total interest income,total_variance,2789.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,Total interest income,volume,3315.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,"Total loans, including loans held for sale",rate,-437.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,"Total loans, including loans held for sale",total_variance,2693.0,capitalone-10q-2025q2.htm
+2025Q2,6,2025 vs 2024,"Total loans, including loans held for sale",volume,3130.0,capitalone-10q-2025q2.htm
+2025Q3,3,2025 vs 2024,Cash equivalents and other interest-earning assets,rate,-14.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Cash equivalents and other interest-earning assets,total_variance,131.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Cash equivalents and other interest-earning assets,volume,145.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Commercial banking,rate,-184.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Commercial banking,total_variance,-175.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Commercial banking,volume,9.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Consumer banking,rate,126.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Consumer banking,total_variance,266.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Consumer banking,volume,140.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Credit card,rate,-643.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Credit card,total_variance,4531.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Credit card,volume,5174.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Interest-bearing deposits,rate,-289.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Interest-bearing deposits,total_variance,652.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Interest-bearing deposits,volume,941.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Investment securities,rate,44.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Investment securities,total_variance,90.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Investment securities,volume,46.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Net interest income,rate,-293.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Net interest income,total_variance,4328.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Net interest income,volume,4621.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Other,rate,-20.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Other,total_variance,60.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Other,volume,80.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Other borrowings and liabilities,rate,3.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Other borrowings and liabilities,total_variance,6.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Other borrowings and liabilities,volume,3.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Securitized debt obligations,rate,-30.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Securitized debt obligations,total_variance,-69.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Securitized debt obligations,volume,-39.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Senior and subordinated notes,rate,-82.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Senior and subordinated notes,total_variance,-14.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Senior and subordinated notes,volume,68.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Total interest expense,rate,-398.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Total interest expense,total_variance,575.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Total interest expense,volume,973.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Total interest income,rate,-691.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Total interest income,total_variance,4903.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,Total interest income,volume,5594.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,"Total loans, including loans held for sale",rate,-721.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,"Total loans, including loans held for sale",total_variance,4682.0,capitalone-10q-2025q3.htm
+2025Q3,3,2025 vs 2024,"Total loans, including loans held for sale",volume,5403.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Cash equivalents and other interest-earning assets,rate,-204.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Cash equivalents and other interest-earning assets,total_variance,60.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Cash equivalents and other interest-earning assets,volume,264.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Commercial banking,rate,-550.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Commercial banking,total_variance,-600.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Commercial banking,volume,-50.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Consumer banking,rate,409.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Consumer banking,total_variance,725.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Consumer banking,volume,316.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Credit card,rate,-1167.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Credit card,total_variance,7031.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Credit card,volume,8198.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Interest-bearing deposits,rate,-818.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Interest-bearing deposits,total_variance,801.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Interest-bearing deposits,volume,1619.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Investment securities,rate,150.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Investment securities,total_variance,257.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Investment securities,volume,107.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Net interest income,rate,-108.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Net interest income,total_variance,7302.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Net interest income,volume,7410.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Other,rate,103.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Other,total_variance,219.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Other,volume,116.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Other borrowings and liabilities,rate,3.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Other borrowings and liabilities,total_variance,8.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Other borrowings and liabilities,volume,5.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Securitized debt obligations,rate,-95.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Securitized debt obligations,total_variance,-248.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Securitized debt obligations,volume,-153.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Senior and subordinated notes,rate,-241.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Senior and subordinated notes,total_variance,-171.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Senior and subordinated notes,volume,70.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Total interest expense,rate,-1151.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Total interest expense,total_variance,390.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Total interest expense,volume,1541.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Total interest income,rate,-1259.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Total interest income,total_variance,7692.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,Total interest income,volume,8951.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,"Total loans, including loans held for sale",rate,-1205.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,"Total loans, including loans held for sale",total_variance,7375.0,capitalone-10q-2025q3.htm
+2025Q3,9,2025 vs 2024,"Total loans, including loans held for sale",volume,8580.0,capitalone-10q-2025q3.htm
+2026Q1,3,2026 vs 2025,Cash equivalents and other interest-earning assets,rate,-59.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Cash equivalents and other interest-earning assets,total_variance,173.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Cash equivalents and other interest-earning assets,volume,232.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Commercial banking,rate,-135.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Commercial banking,total_variance,-104.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Commercial banking,volume,31.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Consumer banking,rate,79.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Consumer banking,total_variance,247.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Consumer banking,volume,168.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Credit card,rate,-533.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Credit card,total_variance,4385.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Credit card,volume,4918.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Interest-bearing deposits,rate,-183.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Interest-bearing deposits,total_variance,672.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Interest-bearing deposits,volume,855.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Investment securities,rate,19.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Investment securities,total_variance,62.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Investment securities,volume,43.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Net interest income,rate,-305.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Net interest income,total_variance,4132.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Net interest income,volume,4437.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Other borrowings and liabilities,rate,8.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Other borrowings and liabilities,total_variance,17.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Other borrowings and liabilities,volume,9.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Securitized debt obligations,rate,-20.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Securitized debt obligations,total_variance,-35.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Securitized debt obligations,volume,-15.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Senior and subordinated notes,rate,-79.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Senior and subordinated notes,total_variance,27.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Senior and subordinated notes,volume,106.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Total interest expense,rate,-274.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Total interest expense,total_variance,681.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Total interest expense,volume,955.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Total interest income,rate,-579.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Total interest income,total_variance,4813.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,Total interest income,volume,5392.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,"Total loans, including loans held for sale",rate,-539.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,"Total loans, including loans held for sale",total_variance,4578.0,capitalone-10q-2026q1.htm
+2026Q1,3,2026 vs 2025,"Total loans, including loans held for sale",volume,5117.0,capitalone-10q-2026q1.htm
+2026Q2,3,2026 vs 2025,Cash equivalents and other interest-earning assets,rate,-101.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Cash equivalents and other interest-earning assets,total_variance,29.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Cash equivalents and other interest-earning assets,volume,130.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Commercial banking,rate,-147.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Commercial banking,total_variance,-113.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Commercial banking,volume,34.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Consumer banking,rate,58.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Consumer banking,total_variance,260.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Consumer banking,volume,202.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Credit card,rate,-383.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Credit card,total_variance,2263.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Credit card,volume,2646.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Interest-bearing deposits,rate,-299.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Interest-bearing deposits,total_variance,218.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Interest-bearing deposits,volume,517.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Investment securities,rate,12.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Investment securities,total_variance,66.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Investment securities,volume,54.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Net interest income,rate,-132.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Net interest income,total_variance,2379.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Net interest income,volume,2511.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Other borrowings and liabilities,rate,2.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Other borrowings and liabilities,total_variance,7.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Other borrowings and liabilities,volume,5.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Securitized debt obligations,rate,-14.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Securitized debt obligations,total_variance,-47.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Securitized debt obligations,volume,-33.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Total interest expense,rate,-377.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Total interest expense,total_variance,178.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Total interest expense,volume,555.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Total interest income,rate,-509.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Total interest income,total_variance,2557.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,Total interest income,volume,3066.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,"Total loans, including loans held for sale",rate,-420.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,"Total loans, including loans held for sale",total_variance,2462.0,capitalone-10q-2026q2.htm
+2026Q2,3,2026 vs 2025,"Total loans, including loans held for sale",volume,2882.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Cash equivalents and other interest-earning assets,rate,-159.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Cash equivalents and other interest-earning assets,total_variance,202.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Cash equivalents and other interest-earning assets,volume,361.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Commercial banking,rate,-281.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Commercial banking,total_variance,-217.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Commercial banking,volume,64.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Consumer banking,rate,137.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Consumer banking,total_variance,507.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Consumer banking,volume,370.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Credit card,rate,-907.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Credit card,total_variance,6648.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Credit card,volume,7555.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Interest-bearing deposits,rate,-476.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Interest-bearing deposits,total_variance,890.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Interest-bearing deposits,volume,1366.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Investment securities,rate,31.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Investment securities,total_variance,128.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Investment securities,volume,97.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Net interest income,rate,-432.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Net interest income,total_variance,6511.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Net interest income,volume,6943.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Other borrowings and liabilities,rate,9.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Other borrowings and liabilities,total_variance,24.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Other borrowings and liabilities,volume,15.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Securitized debt obligations,rate,-33.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Securitized debt obligations,total_variance,-82.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Securitized debt obligations,volume,-49.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Total interest expense,rate,-645.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Total interest expense,total_variance,859.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Total interest expense,volume,1504.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Total interest income,rate,-1077.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Total interest income,total_variance,7370.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,Total interest income,volume,8447.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,"Total loans, including loans held for sale",rate,-949.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,"Total loans, including loans held for sale",total_variance,7040.0,capitalone-10q-2026q2.htm
+2026Q2,6,2026 vs 2025,"Total loans, including loans held for sale",volume,7989.0,capitalone-10q-2026q2.htm
