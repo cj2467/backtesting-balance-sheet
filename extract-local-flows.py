@@ -42,11 +42,28 @@ CONCEPTS = {
     "int_exp_other":       ["InterestExpenseOtherBorrowings"],
     "int_exp_total":       ["InterestExpenseOperating"],
     "net_interest_income": ["InterestIncomeExpenseNet"],
+    "provision":           ["ProvisionForLoanLossesExpensed",
+                            "ProvisionForLoanLeaseAndOtherLosses"],
     "nii_after_provision": ["InterestIncomeExpenseAfterProvisionForLoanLoss"],
     "noninterest_income":  ["NoninterestIncome"],
+    "noninterest_income_other": ["NoninterestIncomeOther"],
+    "total_revenue":       ["Revenues"],
+    "nie_marketing":       ["MarketingExpense", "MarketingAndAdvertisingExpense"],
+    "nie_occupancy":       ["OccupancyNet"],
+    "nie_professional":    ["ProfessionalFees"],
+    "nie_salaries":        ["SalariesAndEmployeeBenefits", "LaborAndRelatedExpense"],
     "noninterest_expense": ["NoninterestExpense"],
     "pretax_income":       ["IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"],
+    "income_tax":          ["IncomeTaxExpenseBenefit"],
+    # Capital One reports discontinued operations. Omitting it made pre-tax
+    # less tax disagree with net income by $365mm in FY2025.
+    "discontinued_ops":    ["IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity",
+                            "IncomeLossFromDiscontinuedOperationsNetOfTax"],
     "net_income":          ["NetIncomeLoss"],
+    "preferred_dividends": ["PreferredStockDividendsIncomeStatementImpact",
+                            "DividendsPreferredStockCash"],
+    "eps_basic":           ["EarningsPerShareBasic"],
+    "eps_diluted":         ["EarningsPerShareDiluted"],
 }
 TAG_TO_CONCEPT = {t: c for c, ts in CONCEPTS.items() for t in ts}
 
@@ -246,6 +263,35 @@ def main():
         w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
         w.writeheader(); w.writerows(rows)
     print(f"\n{len(rows)} flow facts -> {args.out}  ({derived} derived Q4)")
+
+    # ---- Is the derived Q4 trustworthy? Q4 = FY - 9M is exact arithmetic, but
+    # it spans two filings. If the three as-reported quarters sum to the
+    # as-reported 9M figure, no restatement occurred between them and the
+    # subtraction is sound. This is the real test of the derived quarters.
+    print("\nrestatement check (Q1+Q2+Q3 vs as-reported 9M):")
+    idx2 = {}
+    for r in rows:
+        idx2[(r["concept"], r["months"], r["period_end"])] = r["value_usd"]
+    any_check = False
+    for concept in ("net_interest_income", "int_inc_total", "int_exp_total",
+                    "noninterest_expense", "net_income"):
+        for yr in sorted({r["period_end"][:4] for r in rows if r["months"] == 9}):
+            nine = idx2.get((concept, 9, f"{yr}-09-30"))
+            if nine is None:
+                continue
+            qs = [idx2.get((concept, 3, f"{yr}-03-31")),
+                  idx2.get((concept, 3, f"{yr}-06-30")),
+                  idx2.get((concept, 3, f"{yr}-09-30"))]
+            if any(q is None for q in qs):
+                continue
+            any_check = True
+            diff = sum(qs) - nine
+            ok = "ok" if abs(diff) < 1e6 else "MISMATCH"
+            print(f"   {ok:9s} {yr} {concept:22s} "
+                  f"sum {sum(qs)/1e6:>10,.0f}mm vs 9M {nine/1e6:>10,.0f}mm"
+                  f"  diff {diff/1e6:>7,.1f}mm")
+    if not any_check:
+        print("   (no year has both 3-month quarters and a 9-month figure)")
 
     # ---- what quarters do we actually have for NII?
     q3 = sorted({r["quarter"] for r in rows

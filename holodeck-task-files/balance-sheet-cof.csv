@@ -1,0 +1,23 @@
+line,concept,kind,2024-03-31,2024-06-30,2024-09-30,2024-12-31,2025-03-31,2025-06-30,2025-09-30,2025-12-31,2026-03-31,2026-06-30
+ASSETS,,,,,,,,,,,,
+  Cash and cash equivalents,cash_and_equivalents,line,51502.0,47829.0,49719.0,43671.0,48965.0,61578.0,58527.0,62093.0,79256.0,55881.0
+  Investment securities (AFS),securities_afs,line,78398.0,79250.0,83500.0,83013.0,84362.0,87196.0,89733.0,91051.0,90620.0,90041.0
+  Investment securities (HTM),securities_htm,line,,,,,,,,0.0,1694.0,2737.0
+"  Loans held for investment, gross",loans_hfi_gross,memo,315154.0,318186.0,320243.0,327775.0,323598.0,439297.0,443159.0,453622.0,447754.0,457168.0
+  Less: allowance for credit losses,allowance_credit_loss,contra,-15380.0,-16649.0,-16534.0,-16258.0,-15899.0,-23873.0,-23103.0,-23409.0,-23630.0,-22966.0
+"  Loans held for investment, net",loans_hfi_net,line,299774.0,301537.0,303709.0,311517.0,307699.0,415424.0,420056.0,430213.0,424124.0,434202.0
+  Other assets (not separately tagged),__residual_assets__,residual,52046.0,51402.0,49505.0,51943.0,52578.0,94770.0,93561.0,85652.0,87211.0,90974.0
+TOTAL ASSETS,total_assets,reported,481720.0,480018.0,486433.0,490144.0,493604.0,658968.0,661877.0,669009.0,682905.0,673835.0
+LIABILITIES,,,,,,,,,,,,
+  Deposits -- interest bearing,deposits_interest_bearing,memo,323352.0,324437.0,327253.0,336585.0,340964.0,440231.0,441136.0,448386.0,461117.0,456464.0
+  Deposits -- non-interest bearing,deposits_noninterest,memo,27617.0,27005.0,26378.0,26122.0,26500.0,27879.0,27649.0,27385.0,27936.0,27793.0
+"  Deposits, total",deposits,line,350969.0,351442.0,353631.0,362707.0,367464.0,468110.0,468785.0,475771.0,489053.0,484257.0
+  Short-term borrowings,short_term_borrowings,line,568.0,715.0,520.0,562.0,573.0,742.0,616.0,1087.0,1626.0,694.0
+  Long-term debt,long_term_debt,line,49793.0,47241.0,48816.0,44989.0,41200.0,51924.0,50866.0,49913.0,50262.0,44677.0
+  Other borrowings,other_borrowings,line,24.0,25.0,24.0,29.0,25.0,560.0,562.0,1559.0,1558.0,555.0
+  Other liabilities (not separately tagged),__residual_liabs__,residual,22565.0,22614.0,20517.0,21073.0,20800.0,26676.0,27235.0,27063.0,28145.0,29859.0
+TOTAL LIABILITIES,total_liabilities,reported,423919.0,422037.0,423508.0,429360.0,430062.0,548012.0,548064.0,555393.0,570644.0,560042.0
+EQUITY,,,,,,,,,,,,
+  Total stockholders' equity,total_equity,reported,57801.0,57981.0,62925.0,60784.0,63542.0,110956.0,113813.0,113616.0,112261.0,113793.0
+CHECK,,,,,,,,,,,,
+NET: assets - (liabilities + equity),__net__,net,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

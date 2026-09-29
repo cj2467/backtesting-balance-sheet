@@ -1,3 +1,19 @@
+# Feedback 
+Thank you for the strong submission. The ALM/NIR backtesting scenario feels realistic and clearly draws on hands-on banking experience. The best design choice is the cascading structure: actualizing one product affects funding, balance sheet balancing, NIR, and variance attribution downstream.
+
+As you build this out in Phase 2, focus on these areas:
+
+1. Tighten the scenario into one specific engagement. Pick the bank profile, forecast date, backtest period, product list, and actualization sequence. Remove exploratory notes like “Is this how FTP works?” or “could even be stock-level data,” and make firm design choices.
+
+2. Simplify the prompt. Make it sound like a request from an ALM or FP&A lead, not instructions to an AI. For example: “Backtest last year’s NIR forecast using the attached actuals, maintain a balanced average balance sheet after each actualization step, and prepare product-level variance attribution.”
+
+3. Define the balancing/funding mechanics clearly. Decide how excess asset balances are funded, how margin overfunding works, whether there is an FTP/liability stack, and how HTM/AFS securities, accruals, day-count conventions, and daily-to-monthly aggregation should be handled. These rules will drive the task’s sequential complexity.
+
+4. Make the Phase 2 rubric numerically checkable. Build the model yourself and include anchor checks: starting forecast tie-out, product-level actual balances/yields/NIR, balance sheet equality after each step, reconciliation to source-of-truth actuals, total NIR error, and variance attribution by product.
+
+This is a strong foundation for a realistic corporate finance modeling task. With clearer scope and firm mechanics, it should become a very effective Phase 2 build.
+
+
 # Scenario
 
 Backtesting is used to test a Net Interest Revenue at a Bank to ensure that the model correctly interacts with the actualization of each piece, the error for each product is not too high, and under a real interest rate scenario, the banks assets would still be valued enough to cover the liabilities. Following the guidance from the federal reserve (SR 10-1 and SR 15-18), most banks of a certain size are required to follow backtesting for their Net Interest Revenue Forecast. They also need to layer in different interest rate shocks, which I will not cover in this proposal. For the sake of this task, much of the data is described as exported from data tables into clean excel or csv descriptions for the models ability to generate artifacts

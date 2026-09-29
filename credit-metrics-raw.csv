@@ -1,0 +1,2408 @@
+filer,file_period,file,table,row,col,text,scale
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,1,6,Loans Held for Investment,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,1,18,Net Charge-Offs,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,1,42,Nonperforming Loans,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,6,Average,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,12,Period-End,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,18,Amount,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,24,Rate(1),millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,30,Amount,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,36,Rate(2),millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,42,Amount,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,2,48,Rate(3),millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,3,0,Credit Card:(4),millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,0,Domestic(5),millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,6,$,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,7,"147,241",millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,12,$,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,13,"149,385",millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,18,$,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,19,714,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,24,5.82,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,26,%,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,30,$,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,31,"6,504",millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,36,4.35,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,38,%,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,42,N/A,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,4,48,N/A,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,5,0,Consumer Banking:,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,0,Auto,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,6,"74,852",millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,12,"74,976",millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,18,131,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,24,2.10,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,30,"4,259",millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,36,5.68,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,42,$,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,43,670,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,48,0.89,millions
+cof,2024-08,cof-credit-metrics-2024-08.htm,0,6,50,%,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,1,6,Loans Held for Investment,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,1,18,Net Charge-Offs,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,1,42,Nonperforming Loans,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,6,Average,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,12,Period-End,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,18,Amount,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,24,Rate(1),millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,30,Amount,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,36,Rate(2),millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,42,Amount,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,2,48,Rate(3),millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,3,0,Credit Card:(4),millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,0,Domestic(5),millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,6,$,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,7,"148,343",millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,12,$,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,13,"150,607",millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,18,$,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,19,720,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,24,5.82,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,26,%,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,30,$,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,31,"6,942",millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,36,4.61,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,38,%,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,42,N/A,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,4,48,N/A,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,5,0,Consumer Banking:,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,0,Auto,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,6,"75,593",millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,12,"75,737",millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,18,148,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,24,2.34,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,30,"4,396",millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,36,5.80,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,42,$,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,43,694,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,48,0.92,millions
+cof,2024-10,cof-credit-metrics-2024-10.htm,0,6,50,%,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,1,6,Loans Held for Investment,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,1,18,Net Charge-Offs,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,1,42,Nonperforming Loans,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,6,Average,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,12,Period-End,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,18,Amount,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,24,Rate(1),millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,30,Amount,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,36,Rate(2),millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,42,Amount,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,2,48,Rate(3),millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,3,0,Credit Card:(4),millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,0,Domestic(5),millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,6,$,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,7,"149,000",millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,12,$,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,13,"152,102",millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,18,$,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,19,755,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,24,6.08,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,26,%,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,30,$,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,31,"6,949",millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,36,4.57,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,38,%,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,42,N/A,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,4,48,N/A,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,5,0,Consumer Banking:,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,0,Auto,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,6,"75,877",millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,12,"75,955",millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,18,132,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,24,2.10,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,30,"4,226",millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,36,5.56,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,42,$,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,43,665,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,48,0.88,millions
+cof,2024-11,cof-credit-metrics-2024-11.htm,0,6,50,%,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,1,6,Loans Held for Investment,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,1,18,Net Charge-Offs,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,1,42,Nonperforming Loans,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,6,Average,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,12,Period-End,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,18,Amount,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,24,Rate(1),millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,30,Amount,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,36,Rate(2),millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,42,Amount,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,2,48,Rate(3),millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,3,0,Credit Card:(4),millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,0,Domestic(5),millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,6,$,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,7,"153,485",millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,12,$,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,13,"155,618",millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,18,$,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,19,803,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,24,6.28,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,26,%,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,30,$,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,31,"7,053",millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,36,4.53,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,38,%,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,42,N/A,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,4,48,N/A,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,5,0,Consumer Banking:,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,0,Auto,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,6,"76,429",millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,12,"76,829",millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,18,162,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,24,2.54,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,30,"4,572",millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,36,5.95,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,42,$,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,43,750,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,48,0.98,millions
+cof,2024-12,cof-credit-metrics-2024-12.htm,0,6,50,%,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,6,Average,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,12,Period-End,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,18,Amount,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,24,Rate(1),millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,30,Amount,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,36,Rate(2),millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,42,Amount,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,2,48,Rate(3),millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,3,0,Credit Card:(4),millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,0,Domestic,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,6,$,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,7,"151,668",millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,12,$,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,13,"151,703",millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,18,$,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,19,774,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,24,6.12,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,26,%,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,30,$,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,31,"6,989",millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,36,4.61,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,38,%,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,42,N/A,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,4,48,N/A,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,5,0,Consumer Banking:,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,0,Auto,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,6,"76,978",millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,12,"77,013",millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,18,125,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,24,1.95,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,30,"4,336",millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,36,5.63,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,42,$,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,43,686,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,48,0.89,millions
+cof,2025-01,cof-credit-metrics-2025-01.htm,0,6,50,%,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,6,Average,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,12,Period-End,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,18,Amount,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,24,Rate(1),millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,30,Amount,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,36,Rate(2),millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,42,Amount,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,2,48,Rate(3),millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,3,0,Credit Card:(4),millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,0,Domestic,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,6,$,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,7,"149,427",millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,12,$,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,13,"148,397",millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,18,$,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,19,790,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,24,6.35,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,26,%,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,30,$,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,31,"6,714",millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,36,4.52,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,38,%,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,42,N/A,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,4,48,N/A,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,5,0,Consumer Banking:,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,0,Auto,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,6,"77,388",millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,12,"77,023",millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,18,95,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,24,1.48,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,30,"3,863",millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,36,5.02,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,42,$,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,43,642,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,48,0.83,millions
+cof,2025-02,cof-credit-metrics-2025-02.htm,0,6,50,%,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,6,Average,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,12,Period-End,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,18,Amount,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,24,Rate(1),millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,30,Amount,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,36,Rate(2),millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,42,Amount,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,2,48,Rate(3),millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,3,0,Credit Card:(4),millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,0,Domestic,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,6,$,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,7,"147,802",millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,12,$,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,13,"150,309",millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,18,$,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,19,750,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,24,6.09,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,26,%,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,30,$,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,31,"6,389",millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,36,4.25,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,38,%,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,42,N/A,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,4,48,N/A,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,5,0,Consumer Banking:,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,0,Auto,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,6,"77,332",millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,12,"77,656",millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,18,78,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,24,1.21,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,30,"3,832",millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,36,4.93,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,42,$,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,43,561,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,48,0.72,millions
+cof,2025-03,cof-credit-metrics-2025-03.htm,0,6,50,%,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,6,Average,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,12,Period-End,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,18,Amount,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,24,Rate(1),millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,30,Amount,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,36,Rate(2),millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,42,Amount,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,2,48,Rate(3),millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,3,0,Credit Card:(4),millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,0,Domestic,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,6,$,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,7,"148,803",millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,12,$,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,13,"150,581",millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,18,$,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,19,702,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,24,5.66,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,26,%,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,30,$,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,31,"5,946",millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,36,3.95,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,38,%,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,42,N/A,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,4,48,N/A,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,5,0,Consumer Banking:,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,0,Auto,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,6,"78,071",millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,12,"78,536",millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,18,66,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,24,1.01,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,30,"3,816",millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,36,4.86,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,42,$,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,43,564,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,48,0.72,millions
+cof,2025-04,cof-credit-metrics-2025-04.htm,0,6,50,%,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,6,Average,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,12,Period-End,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,18,Amount,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,24,Rate(2),millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,30,Amount,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,36,Rate(3),millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,42,Amount,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,2,48,Rate(4),millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,3,0,Credit Card:(5),millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,0,Domestic,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,6,"$149,597",millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,12,$,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,13,"152,356",millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,18,$,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,19,694,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,24,5.57,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,26,%,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,30,$,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,31,"5,864",millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,36,3.85,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,38,%,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,42,N/A,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,4,48,N/A,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,5,0,Consumer Banking:,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,0,Auto,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,6,"78,860",millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,12,"79,279",millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,18,68,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,24,1.04,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,30,"3,723",millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,36,4.70,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,42,$,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,43,605,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,48,0.76,millions
+cof,2025-05,cof-credit-metrics-2025-05.htm,0,6,50,%,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,6,Average,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,12,Period-End,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,18,Amount,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,24,Rate(1),millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,30,Amount,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,36,Rate(2),millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,42,Amount,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,2,48,Rate(3),millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,3,0,Credit Card:(4),millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,0,Capital One Domestic,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,6,$,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,7,"150,686",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,12,$,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,13,"152,772",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,18,$,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,19,664,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,24,5.29,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,26,%,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,30,$,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,31,"5,983",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,36,3.92,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,38,%,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,42,N/A,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,4,48,N/A,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,0,Discover Domestic,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,6,"99,436",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,12,"99,709",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,18,370,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,24,4.47,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,30,"3,097",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,36,3.11,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,42,N/A,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,5,48,N/A,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,0,Domestic Card,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,6,"250,122",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,12,"252,481",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,18,"1,034",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,24,4.96,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,30,"9,080",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,36,3.60,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,42,N/A,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,6,48,N/A,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,7,0,Consumer Banking:,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,0,Auto,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,6,"79,694",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,12,"80,017",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,18,112,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,24,1.69,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,30,"3,872",millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,36,4.84,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,42,$,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,43,585,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,48,0.73,millions
+cof,2025-06,cof-credit-metrics-2025-06.htm,0,8,50,%,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,6,Average,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,12,Period-End,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,18,Amount,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,24,Rate(1),millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,30,Amount,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,36,Rate(2),millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,42,Amount,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,2,48,Rate(3),millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,3,0,Credit Card:(4),millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,0,Domestic,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,6,$,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,7,"251,212",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,12,$,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,13,"254,059",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,18,$,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,19,"1,010",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,24,4.83,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,26,%,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,30,$,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,31,"9,324",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,36,3.67,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,38,%,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,42,N/A,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,4,48,N/A,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,5,0,Consumer Banking:,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,0,Auto,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,6,"80,362",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,12,"80,807",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,18,106,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,24,1.59,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,30,"4,082",millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,36,5.05,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,42,$,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,43,607,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,48,0.75,millions
+cof,2025-07,cof-credit-metrics-2025-07.htm,0,6,50,%,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,6,Average,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,12,Period-End,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,18,Amount,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,24,Rate(1),millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,30,Amount,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,36,Rate(2),millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,42,Amount,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,2,48,Rate(3),millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,3,0,Credit Card:(4),millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,0,Domestic,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,6,$,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,7,"252,477",millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,12,$,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,13,"254,686",millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,18,$,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,19,989,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,24,4.70,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,26,%,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,30,$,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,31,"9,497",millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,36,3.73,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,38,%,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,42,N/A,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,4,48,N/A,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,5,0,Consumer Banking:,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,0,Auto,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,6,"81,147",millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,12,"81,508",millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,18,107,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,24,1.58,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,30,"4,101",millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,36,5.03,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,42,$,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,43,587,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,48,0.72,millions
+cof,2025-08,cof-credit-metrics-2025-08.htm,0,6,50,%,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,6,Average,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,12,Period-End,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,18,Amount,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,24,Rate(1),millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,30,Amount,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,36,Rate(2),millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,42,Amount,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,2,48,Rate(3),millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,3,0,Credit Card:(4),millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,0,Domestic,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,6,$,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,7,"252,269",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,12,$,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,13,"254,171",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,18,$,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,19,"1,002",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,24,4.77,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,26,%,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,30,$,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,31,"10,138",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,36,3.99,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,38,%,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,42,N/A,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,4,48,N/A,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,5,0,Consumer Banking:,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,0,Auto,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,6,"82,221",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,12,"82,452",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,18,115,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,24,1.67,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,30,"4,097",millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,36,4.97,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,42,$,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,43,529,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,48,0.64,millions
+cof,2025-10,cof-credit-metrics-2025-10.htm,0,6,50,%,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,6,Average,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,12,Period-End,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,18,Amount,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,24,Rate(1),millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,30,Amount,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,36,Rate(2),millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,42,Amount,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,2,48,Rate(3),millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,3,0,Credit Card:(4),millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,0,Domestic,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,6,$,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,7,"253,503",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,12,$,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,13,"257,409",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,18,$,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,19,"1,060",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,24,5.02,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,26,%,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,30,$,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,31,"10,332",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,36,4.01,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,38,%,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,42,N/A,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,4,48,N/A,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,5,0,Consumer Banking:,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,0,Auto,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,6,"82,773",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,12,"83,032",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,18,118,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,24,1.71,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,30,"4,168",millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,36,5.02,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,42,$,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,43,531,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,48,0.64,millions
+cof,2025-11,cof-credit-metrics-2025-11.htm,0,6,50,%,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,1,6,Loans Held for Investment,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,1,18,Net Charge-Offs,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,1,42,Nonperforming Loans,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,6,Average,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,12,Period-End,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,18,Amount,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,24,Rate(1),millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,30,Amount,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,36,Rate(2),millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,42,Amount,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,2,48,Rate(3),millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,3,0,Credit Card:(4),millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,0,Domestic,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,6,$,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,7,"259,834",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,12,$,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,13,"262,403",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,18,$,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,19,"1,085",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,24,5.01,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,26,%,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,30,$,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,31,"10,471",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,36,3.99,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,38,%,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,42,N/A,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,4,48,N/A,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,5,0,Consumer Banking:,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,0,Auto,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,6,"83,308",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,12,"83,600",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,18,144,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,24,2.07,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,30,"4,371",millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,36,5.23,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,42,$,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,43,566,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,48,0.68,millions
+cof,2025-12,cof-credit-metrics-2025-12.htm,0,6,50,%,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,1,6,Loans Held for Investment,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,1,18,Net Charge-Offs,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,1,42,Nonperforming Loans,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,6,Average,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,12,Period-End,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,18,Amount,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,24,Rate(1),millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,30,Amount,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,36,Rate(2),millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,42,Amount,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,2,48,Rate(3),millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,3,0,Credit Card:(4),millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,0,Domestic,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,6,$,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,7,"257,404",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,12,$,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,13,"257,219",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,18,$,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,19,"1,082",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,24,5.04,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,26,%,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,30,$,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,31,"10,402",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,36,4.04,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,38,%,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,42,N/A,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,4,48,N/A,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,5,0,Consumer Banking:,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,0,Auto,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,6,"83,965",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,12,"84,134",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,18,136,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,24,1.94,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,30,"4,003",millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,36,4.76,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,42,$,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,43,531,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,48,0.63,millions
+cof,2026-01,cof-credit-metrics-2026-01.htm,0,6,50,%,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,1,6,Loans Held for Investment,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,1,18,Net Charge-Offs,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,1,42,Nonperforming Loans,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,6,Average,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,12,Period-End,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,18,Amount,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,24,Rate(1),millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,30,Amount,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,36,Rate(2),millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,42,Amount,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,2,48,Rate(3),millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,3,0,Credit Card:(4),millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,0,Domestic,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,6,$,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,7,"253,811",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,12,$,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,13,"252,340",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,18,$,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,19,"1,094",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,24,5.17,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,26,%,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,30,$,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,31,"10,005",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,36,3.96,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,38,%,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,42,N/A,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,4,48,N/A,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,5,0,Consumer Banking:,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,0,Auto,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,6,"84,462",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,12,"84,584",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,18,108,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,24,1.54,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,30,"3,449",millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,36,4.08,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,42,$,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,43,504,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,48,0.60,millions
+cof,2026-02,cof-credit-metrics-2026-02.htm,0,6,50,%,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,1,6,Loans Held for Investment,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,1,18,Net Charge-Offs,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,1,42,Nonperforming Loans,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,6,Average,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,12,Period-End,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,18,Amount,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,24,Rate(1),millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,30,Amount,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,36,Rate(2),millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,42,Amount,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,2,48,Rate(3),millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,3,0,Credit Card:(4),millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,0,Domestic,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,6,$,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,7,"250,871",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,12,$,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,13,"254,028",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,18,$,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,19,"1,065",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,24,5.09,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,26,%,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,30,$,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,31,"9,395",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,36,3.70,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,38,%,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,42,N/A,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,4,48,N/A,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,5,0,Consumer Banking:,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,0,Auto,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,6,"85,134",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,12,"85,700",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,18,102,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,24,1.44,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,30,"3,609",millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,36,4.21,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,42,$,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,43,475,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,48,0.55,millions
+cof,2026-03,cof-credit-metrics-2026-03.htm,0,6,50,%,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,1,6,Loans Held for Investment,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,1,18,Net Charge-Offs,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,1,42,Nonperforming Loans,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,6,Average,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,12,Period-End,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,18,Amount,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,24,Rate(1),millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,30,Amount,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,36,Rate(2),millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,42,Amount,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,2,48,Rate(3),millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,3,0,Credit Card:(4),millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,0,Domestic,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,6,$,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,7,"253,124",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,12,$,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,13,"255,320",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,18,$,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,19,"1,042",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,24,4.94,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,26,%,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,30,$,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,31,"8,781",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,36,3.44,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,38,%,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,42,N/A,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,4,48,N/A,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,5,0,Consumer Banking:,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,0,Auto,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,6,"86,246",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,12,"86,847",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,18,86,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,24,1.20,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,30,"3,488",millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,36,4.02,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,42,$,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,43,477,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,48,0.55,millions
+cof,2026-04,cof-credit-metrics-2026-04.htm,0,6,50,%,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,1,6,Loans Held for Investment,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,1,18,Net Charge-Offs,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,1,42,Nonperforming Loans,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,6,Average,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,12,Period-End,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,18,Amount,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,24,Rate(1),millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,30,Amount,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,36,Rate(2),millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,42,Amount,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,2,48,Rate(3),millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,3,0,Credit Card:(4),millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,0,Domestic,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,6,$,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,7,"254,552",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,12,$,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,13,"257,997",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,18,$,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,19,"1,022",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,24,4.82,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,26,%,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,30,$,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,31,"8,582",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,36,3.33,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,38,%,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,42,N/A,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,4,48,N/A,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,5,0,Consumer Banking:,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,0,Auto,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,6,"87,337",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,12,"87,985",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,18,105,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,24,1.45,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,30,"3,730",millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,36,4.24,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,42,$,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,43,549,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,48,0.62,millions
+cof,2026-05,cof-credit-metrics-2026-05.htm,0,6,50,%,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,1,6,Loans Held for Investment,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,1,18,Net Charge-Offs,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,1,42,Nonperforming Loans,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,6,Average,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,12,Period-End,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,18,Amount,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,24,Rate(1),millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,30,Amount,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,36,Rate(2),millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,42,Amount,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,2,48,Rate(3),millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,3,0,Credit Card:(4),millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,0,Domestic,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,6,$,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,7,"256,201",millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,12,$,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,13,"259,005",millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,18,$,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,19,934,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,24,4.37,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,26,%,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,30,$,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,31,"8,770",millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,36,3.39,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,38,%,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,42,N/A,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,4,48,N/A,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,5,0,Consumer Banking:,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,0,Auto,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,6,"88,676",millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,12,"89,311",millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,18,122,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,24,1.65,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,30,"3,862",millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,36,4.32,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,42,$,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,43,546,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,48,0.61,millions
+cof,2026-06,cof-credit-metrics-2026-06.htm,0,6,50,%,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,1,6,Loans Held for Investment,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,1,18,Net Charge-Offs,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,1,30,30+ Day Performing Delinquencies,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,1,42,Nonperforming Loans,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,0,"(Dollars in millions, except as noted)",millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,6,Average,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,12,Period-End,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,18,Amount,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,24,Rate(1),millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,30,Amount,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,36,Rate(2),millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,42,Amount,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,2,48,Rate(3),millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,3,0,Credit Card:(4),millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,0,Domestic,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,6,$,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,7,"256,704",millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,12,$,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,13,"258,940",millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,18,$,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,19,881,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,24,4.12,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,26,%,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,30,$,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,31,"9,014",millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,36,3.48,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,38,%,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,42,N/A,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,4,48,N/A,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,5,0,Consumer Banking:,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,0,Auto,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,6,"89,899",millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,12,"90,545",millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,18,111,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,24,1.48,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,30,"3,979",millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,36,4.39,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,42,$,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,43,571,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,48,0.63,millions
+cof,2026-07,cof-credit-metrics-2026-07.htm,0,6,50,%,millions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,6,"Aug 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,9,"Jul 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,12,"Jun 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,15,"May 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,18,"Apr 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,21,"Mar 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,24,"Feb 29,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,27,"Jan 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,30,"Dec 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,33,"Nov 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,36,"Oct 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,1,39,"Sep 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,6,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,9,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,12,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,15,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,18,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,21,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,24,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,27,2024,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,30,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,33,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,36,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,2,39,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,0,Ending Loans,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,6,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,7,100.6,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,9,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,10,100.5,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,12,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,13,100.1,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,15,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,16,99.8,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,18,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,19,99.7,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,21,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,22,99.5,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,24,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,25,99.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,27,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,28,101.0,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,30,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,31,102.3,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,33,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,34,100.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,36,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,37,98.7,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,39,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,3,40,97.4,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,0,Average Loans,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,6,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,7,100.4,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,9,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,10,100.0,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,12,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,13,99.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,15,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,16,99.5,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,18,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,19,99.4,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,21,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,22,99.3,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,24,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,25,100.3,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,27,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,28,101.3,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,30,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,31,101.7,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,33,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,34,99.2,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,36,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,37,97.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,39,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,4,40,97.0,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,0,Net Principal Charge-off Rate(1),billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,6,5.22,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,8,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,9,5.28,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,11,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,12,5.67,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,14,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,15,5.38,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,17,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,18,5.60,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,20,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,21,5.90,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,23,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,24,5.86,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,26,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,27,5.23,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,29,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,30,4.90,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,32,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,33,4.71,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,35,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,36,4.42,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,38,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,39,4.15,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,5,41,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,0,Delinquency Rate (30 or more days)(2),billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,6,3.79,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,8,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,9,3.73,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,11,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,12,3.69,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,14,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,15,3.65,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,17,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,18,3.72,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,20,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,21,3.83,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,23,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,24,4.01,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,26,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,27,4.02,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,29,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,30,3.87,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,32,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,33,3.76,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,35,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,36,3.61,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,38,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,39,3.41,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,6,41,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,6,"Aug 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,9,"Jul 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,12,"Jun 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,15,"May 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,18,"Apr 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,21,"Mar 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,24,"Feb 28,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,27,"Jan 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,30,"Dec 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,33,"Nov 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,36,"Oct 31,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,8,39,"Sep 30,",billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,6,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,9,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,12,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,15,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,18,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,21,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,24,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,27,2023,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,30,2022,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,33,2022,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,36,2022,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,9,39,2022,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,0,Ending Loans,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,6,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,7,96.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,9,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,10,95.6,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,12,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,13,94.0,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,15,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,16,92.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,18,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,19,91.3,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,21,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,22,89.8,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,24,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,25,89.6,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,27,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,28,90.0,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,30,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,31,90.1,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,33,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,34,87.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,36,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,37,85.4,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,39,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,10,40,83.6,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,0,Average Loans,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,6,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,7,96.0,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,9,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,10,94.5,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,12,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,13,93.3,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,15,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,16,91.7,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,18,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,19,90.5,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,21,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,22,89.2,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,24,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,25,89.5,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,27,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,28,89.7,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,30,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,31,89.1,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,33,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,34,85.9,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,36,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,37,84.2,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,39,$,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,11,40,83.0,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,0,Net Principal Charge-off Rate(1),billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,6,4.16,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,8,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,9,3.77,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,11,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,12,3.80,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,14,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,15,3.67,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,17,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,18,3.56,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,20,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,21,3.13,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,23,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,24,3.40,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,26,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,27,2.81,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,29,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,30,2.54,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,32,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,33,2.46,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,35,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,36,2.10,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,38,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,39,2.01,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,12,41,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,0,Delinquency Rate (30 or more days)(2),billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,6,3.15,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,8,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,9,3.00,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,11,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,12,2.86,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,14,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,15,2.77,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,17,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,18,2.75,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,20,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,21,2.76,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,23,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,24,2.74,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,26,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,27,2.67,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,29,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,30,2.53,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,32,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,33,2.36,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,35,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,36,2.23,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,38,%,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,39,2.11,billions
+discover,2024-08,discover-credit-metrics-2024-08.htm,0,13,41,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,6,"Oct 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,9,"Sep 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,12,"Aug 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,15,"Jul 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,18,"Jun 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,21,"May 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,24,"Apr 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,27,"Mar 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,30,"Feb 29,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,33,"Jan 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,36,"Dec 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,1,39,"Nov 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,6,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,9,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,12,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,15,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,18,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,21,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,24,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,27,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,30,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,33,2024,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,36,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,2,39,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,0,Ending Loans,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,6,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,7,100.7,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,9,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,10,100.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,12,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,13,100.6,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,15,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,16,100.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,18,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,19,100.1,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,21,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,22,99.8,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,24,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,25,99.7,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,27,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,28,99.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,30,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,31,99.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,33,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,34,101.0,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,36,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,37,102.3,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,39,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,3,40,100.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,0,Average Loans,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,6,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,7,100.2,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,9,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,10,100.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,12,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,13,100.4,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,15,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,16,100.0,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,18,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,19,99.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,21,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,22,99.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,24,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,25,99.4,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,27,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,28,99.3,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,30,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,31,100.3,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,33,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,34,101.3,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,36,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,37,101.7,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,39,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,4,40,99.2,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,0,Net Principal Charge-off Rate(1),billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,6,4.31,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,8,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,9,5.36,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,11,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,12,5.22,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,14,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,15,5.28,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,17,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,18,5.67,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,20,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,21,5.38,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,23,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,24,5.60,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,26,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,27,5.90,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,29,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,30,5.86,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,32,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,33,5.23,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,35,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,36,4.90,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,38,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,39,4.71,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,5,41,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,0,Delinquency Rate (30 or more days)(2),billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,6,3.87,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,8,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,9,3.84,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,11,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,12,3.79,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,14,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,15,3.73,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,17,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,18,3.69,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,20,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,21,3.65,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,23,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,24,3.72,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,26,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,27,3.83,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,29,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,30,4.01,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,32,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,33,4.02,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,35,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,36,3.87,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,38,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,39,3.76,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,6,41,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,6,"Oct 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,9,"Sep 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,12,"Aug 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,15,"Jul 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,18,"Jun 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,21,"May 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,24,"Apr 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,27,"Mar 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,30,"Feb 28,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,33,"Jan 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,36,"Dec 31,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,8,39,"Nov 30,",billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,6,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,9,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,12,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,15,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,18,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,21,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,24,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,27,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,30,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,33,2023,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,36,2022,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,9,39,2022,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,0,Ending Loans,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,6,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,7,98.7,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,9,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,10,97.4,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,12,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,13,96.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,15,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,16,95.6,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,18,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,19,94.0,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,21,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,22,92.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,24,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,25,91.3,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,27,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,28,89.8,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,30,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,31,89.6,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,33,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,34,90.0,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,36,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,37,90.1,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,39,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,10,40,87.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,0,Average Loans,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,6,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,7,97.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,9,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,10,97.0,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,12,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,13,96.0,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,15,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,16,94.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,18,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,19,93.3,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,21,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,22,91.7,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,24,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,25,90.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,27,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,28,89.2,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,30,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,31,89.5,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,33,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,34,89.7,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,36,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,37,89.1,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,39,$,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,11,40,85.9,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,0,Net Principal Charge-off Rate(1),billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,6,4.42,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,8,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,9,4.15,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,11,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,12,4.16,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,14,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,15,3.77,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,17,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,18,3.80,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,20,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,21,3.67,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,23,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,24,3.56,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,26,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,27,3.13,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,29,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,30,3.40,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,32,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,33,2.81,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,35,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,36,2.54,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,38,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,39,2.46,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,12,41,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,0,Delinquency Rate (30 or more days)(2),billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,6,3.61,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,8,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,9,3.41,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,11,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,12,3.15,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,14,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,15,3.00,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,17,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,18,2.86,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,20,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,21,2.77,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,23,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,24,2.75,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,26,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,27,2.76,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,29,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,30,2.74,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,32,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,33,2.67,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,35,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,36,2.53,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,38,%,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,39,2.36,billions
+discover,2024-10,discover-credit-metrics-2024-10.htm,0,13,41,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,6,"Nov 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,9,"Oct 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,12,"Sep 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,15,"Aug 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,18,"Jul 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,21,"Jun 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,24,"May 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,27,"Apr 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,30,"Mar 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,33,"Feb 29,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,36,"Jan 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,1,39,"Dec 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,6,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,9,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,12,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,15,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,18,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,21,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,24,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,27,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,30,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,33,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,36,2024,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,2,39,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,0,Ending Loans,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,6,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,7,101.3,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,9,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,10,100.7,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,12,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,13,100.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,15,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,16,100.6,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,18,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,19,100.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,21,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,22,100.1,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,24,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,25,99.8,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,27,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,28,99.7,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,30,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,31,99.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,33,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,34,99.9,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,36,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,37,101.0,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,39,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,3,40,102.3,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,0,Average Loans,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,6,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,7,100.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,9,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,10,100.2,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,12,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,13,100.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,15,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,16,100.4,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,18,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,19,100.0,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,21,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,22,99.9,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,24,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,25,99.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,27,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,28,99.4,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,30,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,31,99.3,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,33,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,34,100.3,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,36,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,37,101.3,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,39,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,4,40,101.7,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,0,Net Principal Charge-off Rate(1),billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,6,5.37,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,8,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,9,4.31,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,11,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,12,5.36,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,14,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,15,5.22,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,17,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,18,5.28,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,20,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,21,5.67,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,23,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,24,5.38,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,26,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,27,5.60,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,29,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,30,5.90,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,32,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,33,5.86,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,35,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,36,5.23,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,38,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,39,4.90,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,5,41,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,0,Delinquency Rate (30 or more days)(2),billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,6,3.87,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,8,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,9,3.87,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,11,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,12,3.84,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,14,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,15,3.79,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,17,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,18,3.73,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,20,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,21,3.69,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,23,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,24,3.65,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,26,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,27,3.72,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,29,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,30,3.83,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,32,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,33,4.01,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,35,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,36,4.02,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,38,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,39,3.87,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,6,41,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,6,"Nov 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,9,"Oct 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,12,"Sep 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,15,"Aug 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,18,"Jul 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,21,"Jun 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,24,"May 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,27,"Apr 30,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,30,"Mar 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,33,"Feb 28,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,36,"Jan 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,8,39,"Dec 31,",billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,6,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,9,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,12,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,15,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,18,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,21,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,24,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,27,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,30,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,33,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,36,2023,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,9,39,2022,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,0,Ending Loans,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,6,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,7,100.9,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,9,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,10,98.7,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,12,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,13,97.4,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,15,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,16,96.9,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,18,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,19,95.6,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,21,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,22,94.0,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,24,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,25,92.9,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,27,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,28,91.3,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,30,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,31,89.8,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,33,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,34,89.6,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,36,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,37,90.0,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,39,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,10,40,90.1,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,0,Average Loans,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,6,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,7,99.2,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,9,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,10,97.9,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,12,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,13,97.0,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,15,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,16,96.0,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,18,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,19,94.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,21,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,22,93.3,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,24,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,25,91.7,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,27,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,28,90.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,30,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,31,89.2,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,33,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,34,89.5,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,36,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,37,89.7,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,39,$,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,11,40,89.1,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,0,Net Principal Charge-off Rate(1),billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,6,4.71,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,8,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,9,4.42,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,11,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,12,4.15,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,14,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,15,4.16,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,17,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,18,3.77,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,20,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,21,3.80,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,23,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,24,3.67,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,26,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,27,3.56,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,29,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,30,3.13,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,32,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,33,3.40,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,35,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,36,2.81,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,38,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,39,2.54,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,12,41,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,0,Delinquency Rate (30 or more days)(2),billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,6,3.76,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,8,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,9,3.61,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,11,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,12,3.41,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,14,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,15,3.15,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,17,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,18,3.00,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,20,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,21,2.86,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,23,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,24,2.77,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,26,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,27,2.75,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,29,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,30,2.76,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,32,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,33,2.74,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,35,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,36,2.67,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,38,%,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,39,2.53,billions
+discover,2024-11,discover-credit-metrics-2024-11.htm,0,13,41,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,6,"Jan 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,9,"Dec 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,12,"Nov 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,15,"Oct 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,18,"Sep 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,21,"Aug 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,24,"Jul 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,27,"Jun 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,30,"May 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,33,"Apr 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,36,"Mar 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,1,39,"Feb 29,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,6,2025,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,9,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,12,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,15,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,18,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,21,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,24,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,27,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,30,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,33,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,36,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,2,39,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,0,Ending Loans,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,6,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,7,100.6,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,9,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,10,102.8,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,12,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,13,101.3,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,15,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,16,100.7,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,18,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,19,100.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,21,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,22,100.6,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,24,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,25,100.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,27,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,28,100.1,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,30,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,31,99.8,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,33,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,34,99.7,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,36,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,37,99.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,39,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,3,40,99.9,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,0,Average Loans,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,6,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,7,101.4,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,9,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,10,102.4,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,12,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,13,100.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,15,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,16,100.2,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,18,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,19,100.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,21,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,22,100.4,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,24,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,25,100.0,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,27,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,28,99.9,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,30,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,31,99.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,33,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,34,99.4,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,36,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,37,99.3,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,39,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,4,40,100.3,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,0,Net Principal Charge-off Rate(1),billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,6,5.48,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,8,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,9,5.41,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,11,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,12,5.37,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,14,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,15,4.31,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,17,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,18,5.36,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,20,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,21,5.22,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,23,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,24,5.28,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,26,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,27,5.67,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,29,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,30,5.38,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,32,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,33,5.60,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,35,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,36,5.90,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,38,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,39,5.86,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,5,41,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,0,Delinquency Rate (30 or more days)(2),billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,6,3.87,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,8,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,9,3.84,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,11,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,12,3.87,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,14,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,15,3.87,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,17,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,18,3.84,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,20,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,21,3.79,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,23,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,24,3.73,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,26,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,27,3.69,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,29,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,30,3.65,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,32,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,33,3.72,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,35,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,36,3.83,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,38,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,39,4.01,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,6,41,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,6,"Jan 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,9,"Dec 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,12,"Nov 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,15,"Oct 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,18,"Sep 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,21,"Aug 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,24,"Jul 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,27,"Jun 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,30,"May 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,33,"Apr 30,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,36,"Mar 31,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,8,39,"Feb 28,",billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,6,2024,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,9,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,12,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,15,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,18,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,21,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,24,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,27,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,30,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,33,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,36,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,9,39,2023,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,0,Ending Loans,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,6,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,7,101.0,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,9,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,10,102.3,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,12,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,13,100.9,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,15,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,16,98.7,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,18,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,19,97.4,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,21,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,22,96.9,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,24,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,25,95.6,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,27,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,28,94.0,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,30,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,31,92.9,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,33,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,34,91.3,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,36,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,37,89.8,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,39,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,10,40,89.6,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,0,Average Loans,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,6,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,7,101.3,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,9,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,10,101.7,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,12,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,13,99.2,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,15,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,16,97.9,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,18,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,19,97.0,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,21,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,22,96.0,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,24,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,25,94.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,27,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,28,93.3,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,30,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,31,91.7,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,33,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,34,90.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,36,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,37,89.2,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,39,$,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,11,40,89.5,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,0,Net Principal Charge-off Rate(1),billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,6,5.23,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,8,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,9,4.90,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,11,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,12,4.71,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,14,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,15,4.42,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,17,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,18,4.15,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,20,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,21,4.16,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,23,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,24,3.77,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,26,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,27,3.80,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,29,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,30,3.67,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,32,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,33,3.56,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,35,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,36,3.13,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,38,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,39,3.40,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,12,41,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,0,Delinquency Rate (30 or more days)(2),billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,6,4.02,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,8,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,9,3.87,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,11,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,12,3.76,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,14,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,15,3.61,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,17,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,18,3.41,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,20,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,21,3.15,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,23,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,24,3.00,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,26,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,27,2.86,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,29,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,30,2.77,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,32,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,33,2.75,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,35,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,36,2.76,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,38,%,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,39,2.74,billions
+discover,2025-01,discover-credit-metrics-2025-01.htm,0,13,41,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,6,"Feb 28,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,9,"Jan 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,12,"Dec 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,15,"Nov 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,18,"Oct 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,21,"Sep 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,24,"Aug 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,27,"Jul 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,30,"Jun 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,33,"May 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,36,"Apr 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,1,39,"Mar 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,6,2025,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,9,2025,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,12,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,15,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,18,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,21,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,24,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,27,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,30,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,33,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,36,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,2,39,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,0,Ending Loans,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,6,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,7,99.2,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,9,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,10,100.6,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,12,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,13,102.8,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,15,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,16,101.3,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,18,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,19,100.7,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,21,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,22,100.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,24,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,25,100.6,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,27,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,28,100.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,30,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,31,100.1,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,33,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,34,99.8,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,36,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,37,99.7,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,39,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,3,40,99.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,0,Average Loans,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,6,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,7,100.1,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,9,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,10,101.4,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,12,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,13,102.4,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,15,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,16,100.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,18,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,19,100.2,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,21,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,22,100.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,24,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,25,100.4,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,27,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,28,100.0,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,30,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,31,99.9,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,33,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,34,99.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,36,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,37,99.4,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,39,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,4,40,99.3,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,0,Net Principal Charge-off Rate(1),billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,6,6.03,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,8,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,9,5.48,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,11,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,12,5.41,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,14,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,15,5.37,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,17,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,18,4.31,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,20,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,21,5.36,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,23,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,24,5.22,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,26,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,27,5.28,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,29,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,30,5.67,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,32,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,33,5.38,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,35,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,36,5.60,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,38,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,39,5.90,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,5,41,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,0,Delinquency Rate (30 or more days)(2),billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,6,3.78,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,8,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,9,3.87,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,11,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,12,3.84,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,14,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,15,3.87,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,17,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,18,3.87,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,20,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,21,3.84,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,23,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,24,3.79,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,26,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,27,3.73,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,29,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,30,3.69,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,32,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,33,3.65,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,35,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,36,3.72,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,38,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,39,3.83,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,6,41,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,6,"Feb 29,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,9,"Jan 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,12,"Dec 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,15,"Nov 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,18,"Oct 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,21,"Sep 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,24,"Aug 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,27,"Jul 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,30,"Jun 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,33,"May 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,36,"Apr 30,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,8,39,"Mar 31,",billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,6,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,9,2024,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,12,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,15,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,18,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,21,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,24,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,27,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,30,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,33,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,36,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,9,39,2023,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,0,Ending Loans,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,6,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,7,99.9,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,9,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,10,101.0,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,12,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,13,102.3,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,15,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,16,100.9,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,18,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,19,98.7,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,21,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,22,97.4,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,24,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,25,96.9,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,27,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,28,95.6,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,30,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,31,94.0,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,33,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,34,92.9,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,36,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,37,91.3,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,39,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,10,40,89.8,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,0,Average Loans,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,6,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,7,100.3,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,9,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,10,101.3,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,12,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,13,101.7,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,15,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,16,99.2,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,18,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,19,97.9,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,21,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,22,97.0,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,24,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,25,96.0,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,27,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,28,94.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,30,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,31,93.3,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,33,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,34,91.7,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,36,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,37,90.5,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,39,$,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,11,40,89.2,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,0,Net Principal Charge-off Rate(1),billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,6,5.86,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,8,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,9,5.23,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,11,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,12,4.90,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,14,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,15,4.71,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,17,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,18,4.42,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,20,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,21,4.15,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,23,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,24,4.16,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,26,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,27,3.77,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,29,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,30,3.80,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,32,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,33,3.67,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,35,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,36,3.56,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,38,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,39,3.13,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,12,41,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,0,Delinquency Rate (30 or more days)(2),billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,6,4.01,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,8,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,9,4.02,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,11,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,12,3.87,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,14,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,15,3.76,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,17,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,18,3.61,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,20,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,21,3.41,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,23,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,24,3.15,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,26,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,27,3.00,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,29,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,30,2.86,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,32,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,33,2.77,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,35,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,36,2.75,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,38,%,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,39,2.76,billions
+discover,2025-02,discover-credit-metrics-2025-02.htm,0,13,41,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,6,"Apr 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,9,"Mar 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,12,"Feb 28,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,15,"Jan 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,18,"Dec 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,21,"Nov 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,24,"Oct 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,27,"Sep 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,30,"Aug 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,33,"Jul 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,36,"Jun 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,1,39,"May 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,6,2025,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,9,2025,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,12,2025,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,15,2025,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,18,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,21,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,24,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,27,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,30,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,33,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,36,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,2,39,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,0,Ending Loans,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,6,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,7,99.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,9,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,10,99.0,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,12,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,13,99.2,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,15,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,16,100.6,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,18,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,19,102.8,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,21,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,22,101.3,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,24,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,25,100.7,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,27,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,28,100.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,30,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,31,100.6,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,33,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,34,100.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,36,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,37,100.1,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,39,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,3,40,99.8,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,0,Average Loans,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,6,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,7,99.1,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,9,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,10,98.8,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,12,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,13,100.1,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,15,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,16,101.4,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,18,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,19,102.4,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,21,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,22,100.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,24,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,25,100.2,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,27,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,28,100.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,30,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,31,100.4,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,33,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,34,100.0,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,36,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,37,99.9,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,39,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,4,40,99.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,0,Net Principal Charge-off Rate(1),billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,6,5.04,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,8,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,9,4.94,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,11,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,12,6.03,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,14,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,15,5.48,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,17,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,18,5.41,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,20,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,21,5.37,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,23,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,24,4.31,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,26,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,27,5.36,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,29,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,30,5.22,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,32,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,33,5.28,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,35,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,36,5.67,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,38,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,39,5.38,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,5,41,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,0,Delinquency Rate (30 or more days)(2),billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,6,3.50,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,8,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,9,3.66,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,11,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,12,3.78,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,14,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,15,3.87,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,17,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,18,3.84,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,20,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,21,3.87,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,23,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,24,3.87,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,26,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,27,3.84,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,29,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,30,3.79,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,32,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,33,3.73,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,35,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,36,3.69,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,38,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,39,3.65,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,6,41,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,6,"Apr 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,9,"Mar 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,12,"Feb 29,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,15,"Jan 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,18,"Dec 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,21,"Nov 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,24,"Oct 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,27,"Sep 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,30,"Aug 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,33,"Jul 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,36,"Jun 30,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,8,39,"May 31,",billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,6,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,9,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,12,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,15,2024,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,18,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,21,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,24,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,27,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,30,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,33,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,36,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,9,39,2023,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,0,Ending Loans,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,6,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,7,99.7,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,9,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,10,99.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,12,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,13,99.9,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,15,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,16,101.0,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,18,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,19,102.3,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,21,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,22,100.9,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,24,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,25,98.7,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,27,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,28,97.4,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,30,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,31,96.9,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,33,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,34,95.6,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,36,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,37,94.0,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,39,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,10,40,92.9,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,0,Average Loans,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,6,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,7,99.4,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,9,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,10,99.3,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,12,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,13,100.3,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,15,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,16,101.3,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,18,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,19,101.7,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,21,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,22,99.2,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,24,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,25,97.9,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,27,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,28,97.0,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,30,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,31,96.0,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,33,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,34,94.5,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,36,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,37,93.3,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,39,$,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,11,40,91.7,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,0,Net Principal Charge-off Rate(1),billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,6,5.60,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,8,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,9,5.90,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,11,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,12,5.86,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,14,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,15,5.23,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,17,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,18,4.90,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,20,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,21,4.71,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,23,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,24,4.42,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,26,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,27,4.15,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,29,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,30,4.16,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,32,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,33,3.77,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,35,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,36,3.80,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,38,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,39,3.67,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,12,41,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,0,Delinquency Rate (30 or more days)(2),billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,6,3.72,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,8,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,9,3.83,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,11,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,12,4.01,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,14,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,15,4.02,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,17,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,18,3.87,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,20,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,21,3.76,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,23,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,24,3.61,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,26,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,27,3.41,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,29,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,30,3.15,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,32,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,33,3.00,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,35,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,36,2.86,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,38,%,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,39,2.77,billions
+discover,2025-04,discover-credit-metrics-2025-04.htm,0,13,41,%,billions

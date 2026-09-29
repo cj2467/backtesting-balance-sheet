@@ -17,6 +17,56 @@ Outstanding, two things:
    bug (below) and produced an empty manifest. Re-run `./download-filings.sh`.
 2. Three quarter-ends are missing — see below. Run `download-periodic.py`.
 
+## There is no monthly income statement
+
+`make-monthly-pl.py` → `monthly-pl-cof.csv`. Read the header before using it.
+
+Exactly **one** income-statement line is disclosed monthly: net charge-offs, in
+the Reg FD credit-metrics 8-K. Interest income, interest expense, NII,
+non-interest income and expense, provision and net income exist only quarterly —
+an income statement is a duration, and the shortest duration issuers report is a
+quarter (Q4 not even that; see below). So the monthly file carries monthly
+charge-offs plus the credit and balance context needed to read them, and writes
+quarterly NII and net income **only on quarter-end rows**. Intra-quarter cells
+are blank on purpose. Dividing a quarter's NII by three would look like data and
+be an assumption; do that in your model where it's visible.
+
+Coverage: 24 months, 2024-08 to 2026-07, with one structural gap — **Capital One
+does not file a September exhibit.** Filing dates run Aug 2024 (filed 9/16)
+directly to Oct 2024 (filed 11/15), and Aug 2025 (9/15) directly to Oct 2025
+(11/17). Eleven filings a year, September omitted, two years running. The
+discovery scans every 8-K in the window, so this is an absence in the
+disclosure, not a retrieval failure.
+
+### Exhibit layouts, and why the parser looks the way it does
+
+Both layouts were verified against all 28 downloaded files. Neither resembles a
+plain table.
+
+Capital One: segments down rows, metrics across a **two-tier** header. The group
+header (`Loans Held for Investment`, `Net Charge-Offs`, ...) spans several
+columns and must be forward-filled before combining with the sub-header
+(`Average`, `Period-End`, `Amount`, `Rate`). `$` and `%` occupy their own cells,
+so the number sits at the metric column or one to the right. Rows ending in `:`
+are captions, not data.
+
+Discover: fully transposed — months across columns in **two stacked 12-month
+blocks** (24 observations per file), metrics down rows, denominated in
+**billions**. Mixing that with Capital One's millions would understate Discover
+by 1000x, so everything is normalised to $mm.
+
+Validations that pass: Discover ending loans land at ~99,000 $mm as expected for
+a ~$100bn book; monthly period-end loans reconcile to 10-Q gross loans at
+70-76% coverage across six quarter-ends; and from June 2025 the exhibit's three
+additive card rows check out — `Capital One Domestic` + `Discover Domestic` =
+`Domestic Card` (152,772 + 99,709 = 252,481), 4/4 months passing.
+
+That last one caught a real bug. Both `Capital One Domestic` and `Domestic Card`
+contain "domestic", so an earlier segment map collapsed the legacy and combined
+lines into one, letting whichever came last silently overwrite the other. They
+are now separate segments: `domestic_card_legacy_cof`, `discover_domestic_card`
+and `domestic_card` (combined).
+
 ## Income statement / net interest income
 
 `extract-local-flows.py` → `flows.csv` → `make-nii-table.py` → `nii-cof.csv`.

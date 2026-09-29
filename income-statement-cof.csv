@@ -1,0 +1,38 @@
+line,concept,kind,2024Q1,2024Q2,2024Q3,2024Q4,2025Q1,2025Q2,2025Q3,2025Q4,2026Q1,2026Q2
+INTEREST INCOME,,,,,,,,,,,,
+  Loans and leases,int_inc_loans,line,9920.0,9993.0,10547.0,10434.0,10157.0,12449.0,15229.0,15186.0,14735.0,14911.0
+  Investment securities,int_inc_securities,line,687.0,700.0,733.0,753.0,770.0,784.0,823.0,841.0,832.0,850.0
+  Other,int_inc_other,line,570.0,587.0,580.0,530.0,491.0,595.0,711.0,660.0,664.0,624.0
+Total interest income,int_inc_total,subtotal,11177.0,11280.0,11860.0,11717.0,11418.0,13828.0,16763.0,16687.0,16231.0,16385.0
+INTEREST EXPENSE,,,,,,,,,,,,
+  Deposits,int_exp_deposits,line,2812.0,2874.0,2945.0,2862.0,2715.0,3120.0,3597.0,3493.0,3387.0,3338.0
+  Securitized debt,int_exp_secured,line,261.0,258.0,234.0,205.0,176.0,164.0,165.0,155.0,141.0,117.0
+  Senior and subordinated notes,int_exp_unsecured,line,606.0,591.0,596.0,540.0,505.0,535.0,582.0,550.0,532.0,535.0
+  Other borrowings,int_exp_other,line,10.0,11.0,9.0,12.0,9.0,14.0,15.0,23.0,26.0,21.0
+Total interest expense,int_exp_total,subtotal,3689.0,3734.0,3784.0,3619.0,3405.0,3833.0,4359.0,4221.0,4086.0,4011.0
+,,,,,,,,,,,,
+NET INTEREST INCOME,net_interest_income,subtotal,7488.0,7546.0,8076.0,8098.0,8013.0,9995.0,12404.0,12466.0,12145.0,12374.0
+  Provision for credit losses,provision,line,2683.0,3909.0,2482.0,2642.0,2369.0,11430.0,2714.0,4142.0,4068.0,2989.0
+Net interest income after provision,nii_after_provision,subtotal,4805.0,3637.0,5594.0,5456.0,5644.0,-1435.0,9690.0,8324.0,8077.0,9385.0
+NON-INTEREST INCOME / EXPENSE,,,,,,,,,,,,
+  Non-interest income,noninterest_income,line,1914.0,1960.0,1938.0,2092.0,1987.0,2497.0,2955.0,3117.0,3086.0,3476.0
+  Total revenue (memo),total_revenue,memo,9402.0,9506.0,10014.0,10190.0,10000.0,12492.0,15359.0,15583.0,15231.0,15850.0
+  Marketing,nie_marketing,line,1010.0,1064.0,1113.0,1375.0,1202.0,1345.0,1403.0,1934.0,1497.0,1661.0
+  Occupancy,nie_occupancy,line,554.0,551.0,587.0,674.0,615.0,737.0,856.0,958.0,867.0,969.0
+  Other non-interest expense,__resid_nie__,residual,1095.0,1131.0,1223.0,1711.0,1539.0,1910.0,2508.0,3020.0,2429.0,2644.0
+Total non-interest expense,noninterest_expense,subtotal,5137.0,4946.0,5314.0,6089.0,5902.0,6991.0,8263.0,9342.0,8464.0,9043.0
+,,,,,,,,,,,,
+PRE-TAX INCOME,pretax_income,subtotal,1582.0,651.0,2218.0,1459.0,1729.0,-5929.0,4382.0,2099.0,2699.0,3818.0
+  Income tax expense,income_tax,line,302.0,54.0,441.0,366.0,325.0,-1666.0,1189.0,345.0,518.0,798.0
+Income from continuing operations,__cont_ops__,subtotal,1280.0,597.0,1777.0,1093.0,1404.0,-4263.0,3193.0,1754.0,2181.0,3020.0
+"  Discontinued operations, net of tax",discontinued_ops,line,,0.0,0.0,3.0,0.0,-14.0,-1.0,380.0,-7.0,
+NET INCOME,net_income,subtotal,1280.0,597.0,1777.0,1096.0,1404.0,-4277.0,3192.0,2134.0,2174.0,3020.0
+  Preferred dividends,preferred_dividends,line,57.0,57.0,57.0,57.0,57.0,65.0,73.0,57.0,73.0,57.0
+PER SHARE,,,,,,,,,,,,
+  EPS -- basic,eps_basic,eps,3.14,1.39,4.42,2.67,3.46,-8.58,4.83,3.8,3.34,4.73
+  EPS -- diluted,eps_diluted,eps,3.13,1.38,4.41,2.67,3.45,-8.58,4.83,3.8,3.34,4.73
+CHECKS (all should be zero),,,,,,,,,,,,
+A  int income - int expense - NII,__chk_a__,net,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+B  NII - provision - NII after prov,__chk_b__,net,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+C  NII + NII inc - prov - NIE - pretax,__chk_c__,net,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+D  pre-tax - tax + disc ops - net income,__chk_d__,net,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

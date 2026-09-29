@@ -33,6 +33,11 @@ UA = os.environ.get("SEC_UA", "CJ cjbox21@gmail.com")
 FILERS = {
     "cof":  ("927628",  "capitalone"),
     "schw": ("316709",  "schwab"),
+    # Discover filed until the merger closed 2025-05-18. Its last 10-Q covers
+    # 2025-03-31. Needed for a pre-acquisition standalone balance sheet and
+    # income statement -- the monthly 8-K exhibits give credit and loan data
+    # but no financial statements.
+    "discover": ("1393612", "discover"),
 }
 
 
@@ -105,7 +110,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--since", default="2024-06-01",
                     help="earliest period-of-report to fetch (YYYY-MM-DD)")
-    ap.add_argument("--filer", default="cof", choices=["cof", "schw", "all"])
+    ap.add_argument("--filer", default="cof",
+                    choices=["cof", "schw", "discover", "all"])
     ap.add_argument("--dir", default="filings")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
@@ -113,7 +119,8 @@ def main():
     if UA.startswith("Your Name"):
         sys.exit("Set SEC_UA to your name and email first.")
 
-    targets = ["cof", "schw"] if args.filer == "all" else [args.filer]
+    targets = (["cof", "schw", "discover"] if args.filer == "all"
+               else [args.filer])
     os.makedirs(args.dir, exist_ok=True)
     got, failed, skipped = [], [], []
     have = existing_index(args.dir)
