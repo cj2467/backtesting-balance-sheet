@@ -1,0 +1,6 @@
+column,series_id,group,native_freq,aggregation,url,n_obs,n_months,expect_low,expect_high
+unemployment_rate,UNRATE,labor,M,as reported,stub://UNRATE,2,2,2.0,16.0
+prime_rate,MPRIME,prime,M,as reported,stub://MPRIME,2,2,2.0,14.0
+term_spread_10y_2y,T10Y2Y,spreads,D,mean of period,stub://T10Y2Y,3,2,-2.0,4.0
+case_shiller,CSUSHPISA,housing,M,as reported,stub://CSUSHPISA,2,2,150.0,500.0
+bad_units_probe,BADUNITS,spreads,M,as reported,stub://BADUNITS,1,1,0.3,8.0

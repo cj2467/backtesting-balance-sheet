@@ -17,6 +17,38 @@ Outstanding, two things:
    bug (below) and produced an empty manifest. Re-run `./download-filings.sh`.
 2. Three quarter-ends are missing — see below. Run `download-periodic.py`.
 
+## Macro drivers (FRED)
+
+`fetch-macro.py` → `macro-monthly.csv` (wide), `macro-tidy.csv` (long),
+`macro-metadata.csv` (series IDs, frequency, aggregation, source URL).
+
+```bash
+python3 fetch-macro.py --dry-run     # list the 23 series and their URLs
+python3 fetch-macro.py               # monthly, 2022-01 to present
+```
+
+Must run on your machine — Cowork's egress allowlist blocks
+`fred.stlouisfed.org`. No API key needed; uses FRED's public CSV endpoint.
+
+23 series across rates (fed funds, 3M/2Y/5Y/10Y/30Y Treasuries), prime
+(`MPRIME`), housing (Case-Shiller SA and NSA, 30-year mortgage), labour
+(U-3, U-6, payrolls), credit spreads (IG / BBB / HY OAS, 10Y-2Y and 10Y-3M term
+spreads), and consumer credit (credit card APR, bank card delinquency and
+charge-off rates).
+
+Frequency is handled explicitly rather than smoothed. Daily and weekly series
+are averaged within the calendar month and the method is recorded per series.
+Monthly series pass through. **Quarterly series are not interpolated** — the
+value sits on its quarter-end month and intra-quarter months stay blank, same
+convention as everything else here.
+
+Each series carries a plausibility range; a value outside it means the parse
+went wrong (wrong column, missing-value marker read as a number, units
+confusion) and the script exits non-zero rather than writing a bad series.
+Tested offline against synthetic FRED payloads: both header spellings
+(`DATE` and `observation_date`), `.`/`NA` missing markers, malformed lines,
+daily→monthly averaging, and the out-of-range trap.
+
 ## NII reconciliation workbook
 
 `parse-nii-tables.py` → `nii-segment.csv`, `nii-avgbal.csv`,
