@@ -1,6 +1,24 @@
 column,series_id,group,native_freq,aggregation,url,n_obs,n_months,expect_low,expect_high
-unemployment_rate,UNRATE,labor,M,as reported,stub://UNRATE,2,2,2.0,16.0
-prime_rate,MPRIME,prime,M,as reported,stub://MPRIME,2,2,2.0,14.0
-term_spread_10y_2y,T10Y2Y,spreads,D,mean of period,stub://T10Y2Y,3,2,-2.0,4.0
-case_shiller,CSUSHPISA,housing,M,as reported,stub://CSUSHPISA,2,2,150.0,500.0
-bad_units_probe,BADUNITS,spreads,M,as reported,stub://BADUNITS,1,1,0.3,8.0
+fed_funds_eff,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01,57,57,0.0,12.0
+ust_2y,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01,57,57,0.0,12.0
+ust_5y,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01,57,57,0.0,12.0
+ust_10y,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01,57,57,0.0,12.0
+ust_30y,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01,57,57,0.0,12.0
+ust_3m,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01,57,57,0.0,12.0
+prime_rate,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01,57,57,2.0,14.0
+case_shiller_nsa_adj,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01,55,55,150.0,500.0
+case_shiller_nsa,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01,55,55,150.0,500.0
+mortgage_30y_fixed,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01,248,58,2.0,12.0
+unemployment_rate,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01,56,56,2.0,16.0
+underemployment_u6,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01,56,56,4.0,25.0
+nonfarm_payrolls_k,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01,57,57,120000.0,200000.0
+ig_corp_oas,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01,785,37,0.3,8.0
+bbb_corp_oas,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01,786,37,0.5,10.0
+hy_corp_oas,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01,786,37,2.0,25.0
+term_spread_10y_2y,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01,1188,58,-2.0,4.0
+term_spread_10y_3m,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01,1188,58,-3.0,5.0
+cc_rate_all_accounts,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01,18,18,8.0,30.0
+cc_rate_accts_assessed_interest,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01,18,18,8.0,35.0
+cc_delinq_rate_banks,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01,18,18,1.0,10.0
+cc_chargeoff_rate_banks,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01,18,18,1.0,12.0
+all_loan_delinq_rate,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01,18,18,0.5,10.0

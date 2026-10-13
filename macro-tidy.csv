@@ -1,0 +1,1054 @@
+month,column,value,series_id,group,native_freq,aggregation,url
+2022-01,fed_funds_eff,0.08,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-02,fed_funds_eff,0.08,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-03,fed_funds_eff,0.2,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-04,fed_funds_eff,0.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-05,fed_funds_eff,0.77,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-06,fed_funds_eff,1.21,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-07,fed_funds_eff,1.68,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-08,fed_funds_eff,2.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-09,fed_funds_eff,2.56,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-10,fed_funds_eff,3.08,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-11,fed_funds_eff,3.78,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-12,fed_funds_eff,4.1,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-01,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-02,fed_funds_eff,4.57,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-03,fed_funds_eff,4.65,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-04,fed_funds_eff,4.83,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-05,fed_funds_eff,5.06,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-06,fed_funds_eff,5.08,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-07,fed_funds_eff,5.12,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-08,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-09,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-10,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-11,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2023-12,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-01,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-02,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-03,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-04,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-05,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-06,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-07,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-08,fed_funds_eff,5.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-09,fed_funds_eff,5.13,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-10,fed_funds_eff,4.83,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-11,fed_funds_eff,4.64,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2024-12,fed_funds_eff,4.48,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-01,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-02,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-03,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-04,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-05,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-06,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-07,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-08,fed_funds_eff,4.33,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-09,fed_funds_eff,4.22,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-10,fed_funds_eff,4.09,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-11,fed_funds_eff,3.88,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2025-12,fed_funds_eff,3.72,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-01,fed_funds_eff,3.64,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-02,fed_funds_eff,3.64,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-03,fed_funds_eff,3.64,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-04,fed_funds_eff,3.64,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-05,fed_funds_eff,3.63,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-06,fed_funds_eff,3.63,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-07,fed_funds_eff,3.63,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-08,fed_funds_eff,3.63,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2026-09,fed_funds_eff,3.75,FEDFUNDS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=FEDFUNDS&cosd=2022-01-01
+2022-01,ust_2y,0.98,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-02,ust_2y,1.44,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-03,ust_2y,1.91,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-04,ust_2y,2.54,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-05,ust_2y,2.62,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-06,ust_2y,3.0,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-07,ust_2y,3.04,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-08,ust_2y,3.25,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-09,ust_2y,3.86,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-10,ust_2y,4.38,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-11,ust_2y,4.5,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-12,ust_2y,4.29,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-01,ust_2y,4.21,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-02,ust_2y,4.53,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-03,ust_2y,4.3,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-04,ust_2y,4.02,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-05,ust_2y,4.13,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-06,ust_2y,4.64,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-07,ust_2y,4.83,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-08,ust_2y,4.9,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-09,ust_2y,5.02,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-10,ust_2y,5.07,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-11,ust_2y,4.88,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2023-12,ust_2y,4.46,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-01,ust_2y,4.32,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-02,ust_2y,4.54,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-03,ust_2y,4.59,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-04,ust_2y,4.87,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-05,ust_2y,4.86,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-06,ust_2y,4.74,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-07,ust_2y,4.5,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-08,ust_2y,3.97,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-09,ust_2y,3.62,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-10,ust_2y,3.97,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-11,ust_2y,4.26,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2024-12,ust_2y,4.23,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-01,ust_2y,4.27,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-02,ust_2y,4.21,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-03,ust_2y,3.97,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-04,ust_2y,3.78,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-05,ust_2y,3.92,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-06,ust_2y,3.89,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-07,ust_2y,3.88,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-08,ust_2y,3.7,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-09,ust_2y,3.57,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-10,ust_2y,3.52,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-11,ust_2y,3.55,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2025-12,ust_2y,3.5,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-01,ust_2y,3.54,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-02,ust_2y,3.47,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-03,ust_2y,3.71,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-04,ust_2y,3.8,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-05,ust_2y,4.0,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-06,ust_2y,4.11,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-07,ust_2y,4.22,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-08,ust_2y,4.22,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2026-09,ust_2y,4.65,GS2,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS2&cosd=2022-01-01
+2022-01,ust_5y,1.54,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-02,ust_5y,1.81,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-03,ust_5y,2.11,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-04,ust_5y,2.78,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-05,ust_5y,2.87,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-06,ust_5y,3.19,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-07,ust_5y,2.96,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-08,ust_5y,3.03,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-09,ust_5y,3.7,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-10,ust_5y,4.18,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-11,ust_5y,4.06,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-12,ust_5y,3.76,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-01,ust_5y,3.64,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-02,ust_5y,3.94,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-03,ust_5y,3.82,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-04,ust_5y,3.54,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-05,ust_5y,3.59,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-06,ust_5y,3.95,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-07,ust_5y,4.14,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-08,ust_5y,4.31,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-09,ust_5y,4.49,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-10,ust_5y,4.77,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-11,ust_5y,4.49,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2023-12,ust_5y,4.0,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-01,ust_5y,3.98,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-02,ust_5y,4.19,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-03,ust_5y,4.2,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-04,ust_5y,4.56,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-05,ust_5y,4.5,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-06,ust_5y,4.32,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-07,ust_5y,4.16,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-08,ust_5y,3.71,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-09,ust_5y,3.5,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-10,ust_5y,3.91,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-11,ust_5y,4.23,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2024-12,ust_5y,4.25,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-01,ust_5y,4.43,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-02,ust_5y,4.28,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-03,ust_5y,4.04,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-04,ust_5y,3.91,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-05,ust_5y,4.02,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-06,ust_5y,3.96,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-07,ust_5y,3.95,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-08,ust_5y,3.79,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-09,ust_5y,3.66,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-10,ust_5y,3.65,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-11,ust_5y,3.67,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2025-12,ust_5y,3.7,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-01,ust_5y,3.78,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-02,ust_5y,3.68,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-03,ust_5y,3.85,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-04,ust_5y,3.94,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-05,ust_5y,4.15,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-06,ust_5y,4.21,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-07,ust_5y,4.33,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-08,ust_5y,4.38,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2026-09,ust_5y,4.8,GS5,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS5&cosd=2022-01-01
+2022-01,ust_10y,1.76,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-02,ust_10y,1.93,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-03,ust_10y,2.13,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-04,ust_10y,2.75,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-05,ust_10y,2.9,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-06,ust_10y,3.14,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-07,ust_10y,2.9,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-08,ust_10y,2.9,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-09,ust_10y,3.52,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-10,ust_10y,3.98,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-11,ust_10y,3.89,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-12,ust_10y,3.62,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-01,ust_10y,3.53,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-02,ust_10y,3.75,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-03,ust_10y,3.66,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-04,ust_10y,3.46,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-05,ust_10y,3.57,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-06,ust_10y,3.75,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-07,ust_10y,3.9,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-08,ust_10y,4.17,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-09,ust_10y,4.38,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-10,ust_10y,4.8,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-11,ust_10y,4.5,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2023-12,ust_10y,4.02,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-01,ust_10y,4.06,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-02,ust_10y,4.21,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-03,ust_10y,4.21,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-04,ust_10y,4.54,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-05,ust_10y,4.48,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-06,ust_10y,4.31,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-07,ust_10y,4.25,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-08,ust_10y,3.87,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-09,ust_10y,3.72,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-10,ust_10y,4.1,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-11,ust_10y,4.36,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2024-12,ust_10y,4.39,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-01,ust_10y,4.63,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-02,ust_10y,4.45,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-03,ust_10y,4.28,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-04,ust_10y,4.28,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-05,ust_10y,4.42,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-06,ust_10y,4.38,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-07,ust_10y,4.39,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-08,ust_10y,4.26,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-09,ust_10y,4.12,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-10,ust_10y,4.06,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-11,ust_10y,4.09,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2025-12,ust_10y,4.14,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-01,ust_10y,4.21,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-02,ust_10y,4.13,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-03,ust_10y,4.25,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-04,ust_10y,4.32,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-05,ust_10y,4.48,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-06,ust_10y,4.47,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-07,ust_10y,4.6,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-08,ust_10y,4.68,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2026-09,ust_10y,4.99,GS10,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS10&cosd=2022-01-01
+2022-01,ust_30y,2.1,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-02,ust_30y,2.25,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-03,ust_30y,2.41,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-04,ust_30y,2.81,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-05,ust_30y,3.07,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-06,ust_30y,3.25,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-07,ust_30y,3.1,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-08,ust_30y,3.13,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-09,ust_30y,3.56,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-10,ust_30y,4.04,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-11,ust_30y,4.0,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-12,ust_30y,3.66,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-01,ust_30y,3.66,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-02,ust_30y,3.8,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-03,ust_30y,3.77,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-04,ust_30y,3.68,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-05,ust_30y,3.86,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-06,ust_30y,3.87,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-07,ust_30y,3.96,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-08,ust_30y,4.28,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-09,ust_30y,4.47,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-10,ust_30y,4.95,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-11,ust_30y,4.66,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2023-12,ust_30y,4.14,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-01,ust_30y,4.26,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-02,ust_30y,4.38,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-03,ust_30y,4.36,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-04,ust_30y,4.66,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-05,ust_30y,4.62,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-06,ust_30y,4.44,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-07,ust_30y,4.46,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-08,ust_30y,4.15,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-09,ust_30y,4.04,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-10,ust_30y,4.38,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-11,ust_30y,4.54,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2024-12,ust_30y,4.58,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-01,ust_30y,4.85,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-02,ust_30y,4.68,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-03,ust_30y,4.6,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-04,ust_30y,4.71,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-05,ust_30y,4.9,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-06,ust_30y,4.89,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-07,ust_30y,4.92,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-08,ust_30y,4.87,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-09,ust_30y,4.74,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-10,ust_30y,4.64,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-11,ust_30y,4.7,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2025-12,ust_30y,4.8,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-01,ust_30y,4.84,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-02,ust_30y,4.76,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-03,ust_30y,4.85,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-04,ust_30y,4.91,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-05,ust_30y,5.03,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-06,ust_30y,4.95,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-07,ust_30y,5.1,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-08,ust_30y,5.22,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2026-09,ust_30y,5.37,GS30,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=GS30&cosd=2022-01-01
+2022-01,ust_3m,0.15,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-02,ust_3m,0.33,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-03,ust_3m,0.44,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-04,ust_3m,0.76,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-05,ust_3m,0.98,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-06,ust_3m,1.49,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-07,ust_3m,2.23,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-08,ust_3m,2.63,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-09,ust_3m,3.13,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-10,ust_3m,3.72,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-11,ust_3m,4.15,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-12,ust_3m,4.25,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-01,ust_3m,4.54,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-02,ust_3m,4.65,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-03,ust_3m,4.69,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-04,ust_3m,4.92,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-05,ust_3m,5.14,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-06,ust_3m,5.16,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-07,ust_3m,5.25,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-08,ust_3m,5.3,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-09,ust_3m,5.32,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-10,ust_3m,5.34,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-11,ust_3m,5.27,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2023-12,ust_3m,5.24,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-01,ust_3m,5.22,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-02,ust_3m,5.24,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-03,ust_3m,5.24,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-04,ust_3m,5.24,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-05,ust_3m,5.25,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-06,ust_3m,5.24,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-07,ust_3m,5.2,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-08,ust_3m,5.05,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-09,ust_3m,4.72,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-10,ust_3m,4.51,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-11,ust_3m,4.42,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2024-12,ust_3m,4.27,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-01,ust_3m,4.21,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-02,ust_3m,4.22,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-03,ust_3m,4.2,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-04,ust_3m,4.21,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-05,ust_3m,4.25,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-06,ust_3m,4.23,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-07,ust_3m,4.25,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-08,ust_3m,4.12,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-09,ust_3m,3.92,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-10,ust_3m,3.82,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-11,ust_3m,3.78,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2025-12,ust_3m,3.59,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-01,ust_3m,3.57,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-02,ust_3m,3.6,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-03,ust_3m,3.61,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-04,ust_3m,3.61,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-05,ust_3m,3.6,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-06,ust_3m,3.66,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-07,ust_3m,3.73,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-08,ust_3m,3.72,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2026-09,ust_3m,3.94,TB3MS,rates,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=TB3MS&cosd=2022-01-01
+2022-01,prime_rate,3.25,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-02,prime_rate,3.25,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-03,prime_rate,3.37,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-04,prime_rate,3.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-05,prime_rate,3.94,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-06,prime_rate,4.38,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-07,prime_rate,4.85,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-08,prime_rate,5.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-09,prime_rate,5.73,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-10,prime_rate,6.25,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-11,prime_rate,6.95,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-12,prime_rate,7.27,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-01,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-02,prime_rate,7.74,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-03,prime_rate,7.82,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-04,prime_rate,8.0,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-05,prime_rate,8.23,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-06,prime_rate,8.25,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-07,prime_rate,8.29,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-08,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-09,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-10,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-11,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2023-12,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-01,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-02,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-03,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-04,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-05,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-06,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-07,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-08,prime_rate,8.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-09,prime_rate,8.3,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-10,prime_rate,8.0,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-11,prime_rate,7.81,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2024-12,prime_rate,7.65,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-01,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-02,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-03,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-04,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-05,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-06,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-07,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-08,prime_rate,7.5,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-09,prime_rate,7.38,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-10,prime_rate,7.23,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-11,prime_rate,7.0,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2025-12,prime_rate,6.83,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-01,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-02,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-03,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-04,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-05,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-06,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-07,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-08,prime_rate,6.75,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2026-09,prime_rate,6.87,MPRIME,prime,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MPRIME&cosd=2022-01-01
+2022-01,case_shiller_nsa_adj,286.047,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-02,case_shiller_nsa_adj,291.031,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-03,case_shiller_nsa_adj,296.245,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-04,case_shiller_nsa_adj,300.275,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-05,case_shiller_nsa_adj,303.276,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-06,case_shiller_nsa_adj,304.148,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-07,case_shiller_nsa_adj,303.383,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-08,case_shiller_nsa_adj,301.123,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-09,case_shiller_nsa_adj,299.136,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-10,case_shiller_nsa_adj,298.766,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-11,case_shiller_nsa_adj,298.398,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-12,case_shiller_nsa_adj,297.637,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-01,case_shiller_nsa_adj,297.228,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-02,case_shiller_nsa_adj,297.533,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-03,case_shiller_nsa_adj,298.629,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-04,case_shiller_nsa_adj,300.068,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-05,case_shiller_nsa_adj,302.075,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-06,case_shiller_nsa_adj,304.181,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-07,case_shiller_nsa_adj,306.548,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-08,case_shiller_nsa_adj,309.216,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-09,case_shiller_nsa_adj,311.35,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-10,case_shiller_nsa_adj,313.24,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-11,case_shiller_nsa_adj,313.995,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2023-12,case_shiller_nsa_adj,314.691,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-01,case_shiller_nsa_adj,315.651,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-02,case_shiller_nsa_adj,316.919,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-03,case_shiller_nsa_adj,318.057,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-04,case_shiller_nsa_adj,319.137,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-05,case_shiller_nsa_adj,320.02,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-06,case_shiller_nsa_adj,320.8,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-07,case_shiller_nsa_adj,321.645,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-08,case_shiller_nsa_adj,322.559,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-09,case_shiller_nsa_adj,323.579,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-10,case_shiller_nsa_adj,324.505,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-11,case_shiller_nsa_adj,325.791,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2024-12,case_shiller_nsa_adj,327.359,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-01,case_shiller_nsa_adj,328.788,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-02,case_shiller_nsa_adj,329.472,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-03,case_shiller_nsa_adj,328.944,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-04,case_shiller_nsa_adj,328.157,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-05,case_shiller_nsa_adj,327.53,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-06,case_shiller_nsa_adj,327.011,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-07,case_shiller_nsa_adj,326.924,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-08,case_shiller_nsa_adj,327.388,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-09,case_shiller_nsa_adj,327.862,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-10,case_shiller_nsa_adj,328.837,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-11,case_shiller_nsa_adj,330.06,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2025-12,case_shiller_nsa_adj,331.19,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2026-01,case_shiller_nsa_adj,331.947,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2026-02,case_shiller_nsa_adj,332.171,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2026-03,case_shiller_nsa_adj,331.655,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2026-04,case_shiller_nsa_adj,331.451,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2026-05,case_shiller_nsa_adj,331.689,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2026-06,case_shiller_nsa_adj,332.294,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2026-07,case_shiller_nsa_adj,333.235,CSUSHPISA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPISA&cosd=2022-01-01
+2022-01,case_shiller_nsa,281.88,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-02,case_shiller_nsa,287.095,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-03,case_shiller_nsa,294.886,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-04,case_shiller_nsa,301.501,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-05,case_shiller_nsa,306.262,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-06,case_shiller_nsa,308.055,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-07,case_shiller_nsa,306.888,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-08,case_shiller_nsa,303.462,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-09,case_shiller_nsa,300.292,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-10,case_shiller_nsa,298.506,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-11,case_shiller_nsa,296.69,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-12,case_shiller_nsa,294.181,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-01,case_shiller_nsa,292.671,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-02,case_shiller_nsa,293.462,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-03,case_shiller_nsa,297.383,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-04,case_shiller_nsa,301.496,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-05,case_shiller_nsa,305.359,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-06,case_shiller_nsa,308.309,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-07,case_shiller_nsa,310.223,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-08,case_shiller_nsa,311.583,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-09,case_shiller_nsa,312.44,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-10,case_shiller_nsa,312.792,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-11,case_shiller_nsa,312.033,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2023-12,case_shiller_nsa,310.85,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-01,case_shiller_nsa,310.713,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-02,case_shiller_nsa,312.625,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-03,case_shiller_nsa,316.808,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-04,case_shiller_nsa,320.748,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-05,case_shiller_nsa,323.696,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-06,case_shiller_nsa,325.256,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-07,case_shiller_nsa,325.566,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-08,case_shiller_nsa,325.003,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-09,case_shiller_nsa,324.621,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-10,case_shiller_nsa,323.937,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-11,case_shiller_nsa,323.654,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2024-12,case_shiller_nsa,323.275,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-01,case_shiller_nsa,323.631,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-02,case_shiller_nsa,325.097,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-03,case_shiller_nsa,327.696,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-04,case_shiller_nsa,329.848,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-05,case_shiller_nsa,331.367,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-06,case_shiller_nsa,331.564,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-07,case_shiller_nsa,330.923,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-08,case_shiller_nsa,329.845,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-09,case_shiller_nsa,328.874,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-10,case_shiller_nsa,328.233,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-11,case_shiller_nsa,327.853,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2025-12,case_shiller_nsa,327.028,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2026-01,case_shiller_nsa,326.764,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2026-02,case_shiller_nsa,327.824,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2026-03,case_shiller_nsa,330.408,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2026-04,case_shiller_nsa,333.15,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2026-05,case_shiller_nsa,335.584,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2026-06,case_shiller_nsa,336.908,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2026-07,case_shiller_nsa,337.306,CSUSHPINSA,housing,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=CSUSHPINSA&cosd=2022-01-01
+2022-01,mortgage_30y_fixed,3.445,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-02,mortgage_30y_fixed,3.7625,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-03,mortgage_30y_fixed,4.172,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-04,mortgage_30y_fixed,4.9825,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-05,mortgage_30y_fixed,5.23,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-06,mortgage_30y_fixed,5.522,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-07,mortgage_30y_fixed,5.4125,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-08,mortgage_30y_fixed,5.2225,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-09,mortgage_30y_fixed,6.112,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-10,mortgage_30y_fixed,6.9,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-11,mortgage_30y_fixed,6.805,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-12,mortgage_30y_fixed,6.364,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-01,mortgage_30y_fixed,6.2725,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-02,mortgage_30y_fixed,6.2575,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-03,mortgage_30y_fixed,6.544,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-04,mortgage_30y_fixed,6.3425,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-05,mortgage_30y_fixed,6.425,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-06,mortgage_30y_fixed,6.714,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-07,mortgage_30y_fixed,6.84,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-08,mortgage_30y_fixed,7.072,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-09,mortgage_30y_fixed,7.2,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-10,mortgage_30y_fixed,7.62,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-11,mortgage_30y_fixed,7.442,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2023-12,mortgage_30y_fixed,6.815,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-01,mortgage_30y_fixed,6.6425,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-02,mortgage_30y_fixed,6.776,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-03,mortgage_30y_fixed,6.82,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-04,mortgage_30y_fixed,6.9925,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-05,mortgage_30y_fixed,7.06,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-06,mortgage_30y_fixed,6.9175,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-07,mortgage_30y_fixed,6.8475,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-08,mortgage_30y_fixed,6.5,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-09,mortgage_30y_fixed,6.18,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-10,mortgage_30y_fixed,6.428,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-11,mortgage_30y_fixed,6.805,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2024-12,mortgage_30y_fixed,6.715,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-01,mortgage_30y_fixed,6.958,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-02,mortgage_30y_fixed,6.8425,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-03,mortgage_30y_fixed,6.65,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-04,mortgage_30y_fixed,6.725,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-05,mortgage_30y_fixed,6.816,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-06,mortgage_30y_fixed,6.8175,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-07,mortgage_30y_fixed,6.72,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-08,mortgage_30y_fixed,6.5875,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-09,mortgage_30y_fixed,6.3525,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-10,mortgage_30y_fixed,6.254,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-11,mortgage_30y_fixed,6.2375,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2025-12,mortgage_30y_fixed,6.19,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-01,mortgage_30y_fixed,6.1025,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-02,mortgage_30y_fixed,6.0475,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-03,mortgage_30y_fixed,6.1775,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-04,mortgage_30y_fixed,6.332,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-05,mortgage_30y_fixed,6.4425,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-06,mortgage_30y_fixed,6.49,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-07,mortgage_30y_fixed,6.542,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-08,mortgage_30y_fixed,6.6675,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-09,mortgage_30y_fixed,6.8625,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2026-10,mortgage_30y_fixed,7.28,MORTGAGE30US,housing,W,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=MORTGAGE30US&cosd=2022-01-01
+2022-01,unemployment_rate,4.0,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-02,unemployment_rate,3.9,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-03,unemployment_rate,3.7,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-04,unemployment_rate,3.7,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-05,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-06,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-07,unemployment_rate,3.5,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-08,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-09,unemployment_rate,3.5,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-10,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-11,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-12,unemployment_rate,3.5,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-01,unemployment_rate,3.5,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-02,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-03,unemployment_rate,3.5,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-04,unemployment_rate,3.4,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-05,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-06,unemployment_rate,3.6,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-07,unemployment_rate,3.5,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-08,unemployment_rate,3.7,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-09,unemployment_rate,3.7,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-10,unemployment_rate,3.9,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-11,unemployment_rate,3.7,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2023-12,unemployment_rate,3.8,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-01,unemployment_rate,3.7,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-02,unemployment_rate,3.9,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-03,unemployment_rate,3.9,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-04,unemployment_rate,3.9,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-05,unemployment_rate,3.9,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-06,unemployment_rate,4.1,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-07,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-08,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-09,unemployment_rate,4.1,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-10,unemployment_rate,4.1,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-11,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2024-12,unemployment_rate,4.1,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-01,unemployment_rate,4.0,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-02,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-03,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-04,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-05,unemployment_rate,4.3,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-06,unemployment_rate,4.1,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-07,unemployment_rate,4.3,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-08,unemployment_rate,4.3,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-09,unemployment_rate,4.4,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-11,unemployment_rate,4.5,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2025-12,unemployment_rate,4.4,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-01,unemployment_rate,4.3,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-02,unemployment_rate,4.4,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-03,unemployment_rate,4.3,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-04,unemployment_rate,4.3,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-05,unemployment_rate,4.3,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-06,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-07,unemployment_rate,4.1,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-08,unemployment_rate,4.1,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2026-09,unemployment_rate,4.2,UNRATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=UNRATE&cosd=2022-01-01
+2022-01,underemployment_u6,7.1,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-02,underemployment_u6,7.2,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-03,underemployment_u6,7.0,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-04,underemployment_u6,7.0,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-05,underemployment_u6,7.1,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-06,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-07,underemployment_u6,6.8,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-08,underemployment_u6,6.9,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-09,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-10,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-11,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-12,underemployment_u6,6.6,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-01,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-02,underemployment_u6,6.8,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-03,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-04,underemployment_u6,6.6,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-05,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-06,underemployment_u6,6.9,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-07,underemployment_u6,6.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-08,underemployment_u6,7.1,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-09,underemployment_u6,7.0,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-10,underemployment_u6,7.2,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-11,underemployment_u6,7.0,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2023-12,underemployment_u6,7.2,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-01,underemployment_u6,7.2,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-02,underemployment_u6,7.3,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-03,underemployment_u6,7.3,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-04,underemployment_u6,7.4,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-05,underemployment_u6,7.4,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-06,underemployment_u6,7.4,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-07,underemployment_u6,7.8,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-08,underemployment_u6,7.8,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-09,underemployment_u6,7.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-10,underemployment_u6,7.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-11,underemployment_u6,7.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2024-12,underemployment_u6,7.6,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-01,underemployment_u6,7.5,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-02,underemployment_u6,8.0,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-03,underemployment_u6,7.9,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-04,underemployment_u6,7.8,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-05,underemployment_u6,7.8,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-06,underemployment_u6,7.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-07,underemployment_u6,7.9,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-08,underemployment_u6,8.1,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-09,underemployment_u6,8.1,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-11,underemployment_u6,8.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2025-12,underemployment_u6,8.4,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-01,underemployment_u6,8.1,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-02,underemployment_u6,7.9,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-03,underemployment_u6,8.0,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-04,underemployment_u6,8.2,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-05,underemployment_u6,8.1,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-06,underemployment_u6,7.9,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-07,underemployment_u6,7.9,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-08,underemployment_u6,7.7,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2026-09,underemployment_u6,7.6,U6RATE,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=U6RATE&cosd=2022-01-01
+2022-01,nonfarm_payrolls_k,150006.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-02,nonfarm_payrolls_k,150825.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-03,nonfarm_payrolls_k,151315.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-04,nonfarm_payrolls_k,151623.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-05,nonfarm_payrolls_k,151924.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-06,nonfarm_payrolls_k,152358.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-07,nonfarm_payrolls_k,153072.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-08,nonfarm_payrolls_k,153362.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-09,nonfarm_payrolls_k,153582.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-10,nonfarm_payrolls_k,153939.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-11,nonfarm_payrolls_k,154242.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2022-12,nonfarm_payrolls_k,154342.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-01,nonfarm_payrolls_k,154776.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-02,nonfarm_payrolls_k,155066.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-03,nonfarm_payrolls_k,155134.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-04,nonfarm_payrolls_k,155375.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-05,nonfarm_payrolls_k,155655.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-06,nonfarm_payrolls_k,155880.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-07,nonfarm_payrolls_k,156043.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-08,nonfarm_payrolls_k,156261.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-09,nonfarm_payrolls_k,156417.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-10,nonfarm_payrolls_k,156576.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-11,nonfarm_payrolls_k,156703.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-12,nonfarm_payrolls_k,156857.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-01,nonfarm_payrolls_k,157032.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-02,nonfarm_payrolls_k,157238.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-03,nonfarm_payrolls_k,157466.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-04,nonfarm_payrolls_k,157530.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-05,nonfarm_payrolls_k,157608.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-06,nonfarm_payrolls_k,157695.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-07,nonfarm_payrolls_k,157748.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-08,nonfarm_payrolls_k,157757.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-09,nonfarm_payrolls_k,157912.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-10,nonfarm_payrolls_k,157945.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-11,nonfarm_payrolls_k,158079.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2024-12,nonfarm_payrolls_k,158316.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-01,nonfarm_payrolls_k,158268.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-02,nonfarm_payrolls_k,158310.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-03,nonfarm_payrolls_k,158377.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-04,nonfarm_payrolls_k,158485.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-05,nonfarm_payrolls_k,158498.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-06,nonfarm_payrolls_k,158478.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-07,nonfarm_payrolls_k,158542.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-08,nonfarm_payrolls_k,158472.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-09,nonfarm_payrolls_k,158548.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-10,nonfarm_payrolls_k,158408.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-11,nonfarm_payrolls_k,158449.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2025-12,nonfarm_payrolls_k,158432.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-01,nonfarm_payrolls_k,158592.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-02,nonfarm_payrolls_k,158436.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-03,nonfarm_payrolls_k,158650.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-04,nonfarm_payrolls_k,158798.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-05,nonfarm_payrolls_k,158861.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-06,nonfarm_payrolls_k,158892.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-07,nonfarm_payrolls_k,158882.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-08,nonfarm_payrolls_k,159015.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2026-09,nonfarm_payrolls_k,159044.0,PAYEMS,labor,M,as reported,https://fred.stlouisfed.org/graph/fredgraph.csv?id=PAYEMS&cosd=2022-01-01
+2023-10,ig_corp_oas,1.2948,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2023-11,ig_corp_oas,1.2132,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2023-12,ig_corp_oas,1.0729,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-01,ig_corp_oas,1.0273,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-02,ig_corp_oas,0.9805,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-03,ig_corp_oas,0.9543,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-04,ig_corp_oas,0.92,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-05,ig_corp_oas,0.8896,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-06,ig_corp_oas,0.9357,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-07,ig_corp_oas,0.9343,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-08,ig_corp_oas,1.0048,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-09,ig_corp_oas,0.961,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-10,ig_corp_oas,0.8552,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-11,ig_corp_oas,0.8068,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2024-12,ig_corp_oas,0.8035,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-01,ig_corp_oas,0.8227,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-02,ig_corp_oas,0.823,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-03,ig_corp_oas,0.9176,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-04,ig_corp_oas,1.1057,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-05,ig_corp_oas,0.9609,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-06,ig_corp_oas,0.8805,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-07,ig_corp_oas,0.8061,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-08,ig_corp_oas,0.7864,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-09,ig_corp_oas,0.7718,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-10,ig_corp_oas,0.7761,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-11,ig_corp_oas,0.8324,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2025-12,ig_corp_oas,0.7968,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-01,ig_corp_oas,0.7586,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-02,ig_corp_oas,0.7857,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-03,ig_corp_oas,0.8805,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-04,ig_corp_oas,0.8209,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-05,ig_corp_oas,0.7614,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-06,ig_corp_oas,0.7459,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-07,ig_corp_oas,0.78,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-08,ig_corp_oas,0.7962,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-09,ig_corp_oas,0.8009,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2026-10,ig_corp_oas,0.86,BAMLC0A0CM,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM&cosd=2022-01-01
+2023-10,bbb_corp_oas,1.5895,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2023-11,bbb_corp_oas,1.5005,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2023-12,bbb_corp_oas,1.341,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-01,bbb_corp_oas,1.2664,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-02,bbb_corp_oas,1.2171,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-03,bbb_corp_oas,1.189,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-04,bbb_corp_oas,1.1436,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-05,bbb_corp_oas,1.1078,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-06,bbb_corp_oas,1.1533,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-07,bbb_corp_oas,1.1552,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-08,bbb_corp_oas,1.2413,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-09,bbb_corp_oas,1.1986,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-10,bbb_corp_oas,1.0787,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-11,bbb_corp_oas,1.0114,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2024-12,bbb_corp_oas,1.0029,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-01,bbb_corp_oas,1.0209,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-02,bbb_corp_oas,1.022,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-03,bbb_corp_oas,1.1371,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-04,bbb_corp_oas,1.3762,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-05,bbb_corp_oas,1.2152,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-06,bbb_corp_oas,1.1038,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-07,bbb_corp_oas,1.013,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-08,bbb_corp_oas,0.9945,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-09,bbb_corp_oas,0.9736,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-10,bbb_corp_oas,0.9861,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-11,bbb_corp_oas,1.0562,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2025-12,bbb_corp_oas,1.0145,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-01,bbb_corp_oas,0.9677,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-02,bbb_corp_oas,0.9929,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-03,bbb_corp_oas,1.1018,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-04,bbb_corp_oas,1.0327,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-05,bbb_corp_oas,0.9573,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-06,bbb_corp_oas,0.9336,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-07,bbb_corp_oas,0.9661,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-08,bbb_corp_oas,0.9829,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-09,bbb_corp_oas,0.9809,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2026-10,bbb_corp_oas,1.06,BAMLC0A4CBBB,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A4CBBB&cosd=2022-01-01
+2023-10,hy_corp_oas,4.3671,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2023-11,hy_corp_oas,3.9859,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2023-12,hy_corp_oas,3.5743,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-01,hy_corp_oas,3.5459,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-02,hy_corp_oas,3.36,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-03,hy_corp_oas,3.1805,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-04,hy_corp_oas,3.2273,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-05,hy_corp_oas,3.117,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-06,hy_corp_oas,3.2,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-07,hy_corp_oas,3.1552,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-08,hy_corp_oas,3.3661,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-09,hy_corp_oas,3.2581,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-10,hy_corp_oas,2.9304,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-11,hy_corp_oas,2.6964,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2024-12,hy_corp_oas,2.7552,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-01,hy_corp_oas,2.7205,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-02,hy_corp_oas,2.7085,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-03,hy_corp_oas,3.1714,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-04,hy_corp_oas,4.0348,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-05,hy_corp_oas,3.3543,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-06,hy_corp_oas,3.1252,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-07,hy_corp_oas,2.8891,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-08,hy_corp_oas,2.9027,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-09,hy_corp_oas,2.7882,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-10,hy_corp_oas,2.9248,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-11,hy_corp_oas,3.081,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2025-12,hy_corp_oas,2.8918,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-01,hy_corp_oas,2.7405,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-02,hy_corp_oas,2.9195,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-03,hy_corp_oas,3.1873,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-04,hy_corp_oas,2.9255,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-05,hy_corp_oas,2.7736,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-06,hy_corp_oas,2.7318,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-07,hy_corp_oas,2.7435,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-08,hy_corp_oas,2.7014,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-09,hy_corp_oas,2.7555,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2026-10,hy_corp_oas,3.24,BAMLH0A0HYM2,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLH0A0HYM2&cosd=2022-01-01
+2022-01,term_spread_10y_2y,0.7835,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-02,term_spread_10y_2y,0.4989,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-03,term_spread_10y_2y,0.2183,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-04,term_spread_10y_2y,0.2095,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-05,term_spread_10y_2y,0.2814,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-06,term_spread_10y_2y,0.1452,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-07,term_spread_10y_2y,-0.14,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-08,term_spread_10y_2y,-0.3522,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-09,term_spread_10y_2y,-0.3376,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-10,term_spread_10y_2y,-0.3915,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-11,term_spread_10y_2y,-0.6125,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-12,term_spread_10y_2y,-0.6724,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-01,term_spread_10y_2y,-0.676,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-02,term_spread_10y_2y,-0.7868,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-03,term_spread_10y_2y,-0.6396,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-04,term_spread_10y_2y,-0.556,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-05,term_spread_10y_2y,-0.5582,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-06,term_spread_10y_2y,-0.8914,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-07,term_spread_10y_2y,-0.929,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-08,term_spread_10y_2y,-0.7339,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-09,term_spread_10y_2y,-0.643,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-10,term_spread_10y_2y,-0.2695,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-11,term_spread_10y_2y,-0.3795,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2023-12,term_spread_10y_2y,-0.437,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-01,term_spread_10y_2y,-0.2648,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-02,term_spread_10y_2y,-0.3365,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-03,term_spread_10y_2y,-0.3795,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-04,term_spread_10y_2y,-0.3341,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-05,term_spread_10y_2y,-0.3741,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-06,term_spread_10y_2y,-0.4316,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-07,term_spread_10y_2y,-0.2473,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-08,term_spread_10y_2y,-0.0945,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-09,term_spread_10y_2y,0.101,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-10,term_spread_10y_2y,0.1232,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-11,term_spread_10y_2y,0.0984,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2024-12,term_spread_10y_2y,0.1657,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-01,term_spread_10y_2y,0.3571,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-02,term_spread_10y_2y,0.2411,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-03,term_spread_10y_2y,0.3105,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-04,term_spread_10y_2y,0.5014,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-05,term_spread_10y_2y,0.5038,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-06,term_spread_10y_2y,0.4945,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-07,term_spread_10y_2y,0.5095,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-08,term_spread_10y_2y,0.561,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-09,term_spread_10y_2y,0.5519,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-10,term_spread_10y_2y,0.5405,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-11,term_spread_10y_2y,0.5439,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2025-12,term_spread_10y_2y,0.6423,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-01,term_spread_10y_2y,0.6765,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-02,term_spread_10y_2y,0.6542,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-03,term_spread_10y_2y,0.5314,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-04,term_spread_10y_2y,0.52,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-05,term_spread_10y_2y,0.489,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-06,term_spread_10y_2y,0.3576,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-07,term_spread_10y_2y,0.3768,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-08,term_spread_10y_2y,0.4681,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-09,term_spread_10y_2y,0.3376,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2026-10,term_spread_10y_2y,0.455,T10Y2Y,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y2Y&cosd=2022-01-01
+2022-01,term_spread_10y_3m,1.6185,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-02,term_spread_10y_3m,1.6195,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-03,term_spread_10y_3m,1.6804,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-04,term_spread_10y_3m,1.984,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-05,term_spread_10y_3m,1.9052,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-06,term_spread_10y_3m,1.6048,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-07,term_spread_10y_3m,0.598,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-08,term_spread_10y_3m,0.1761,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-09,term_spread_10y_3m,0.2971,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-10,term_spread_10y_3m,0.111,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-11,term_spread_10y_3m,-0.432,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-12,term_spread_10y_3m,-0.7419,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-01,term_spread_10y_3m,-1.156,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-02,term_spread_10y_3m,-1.0411,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-03,term_spread_10y_3m,-1.1957,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-04,term_spread_10y_3m,-1.6135,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-05,term_spread_10y_3m,-1.7345,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-06,term_spread_10y_3m,-1.6676,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-07,term_spread_10y_3m,-1.589,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-08,term_spread_10y_3m,-1.3913,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-09,term_spread_10y_3m,-1.1765,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-10,term_spread_10y_3m,-0.8067,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-11,term_spread_10y_3m,-1.02,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2023-12,term_spread_10y_3m,-1.422,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-01,term_spread_10y_3m,-1.3957,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-02,term_spread_10y_3m,-1.233,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-03,term_spread_10y_3m,-1.26,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-04,term_spread_10y_3m,-0.9045,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-05,term_spread_10y_3m,-0.9727,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-06,term_spread_10y_3m,-1.2011,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-07,term_spread_10y_3m,-1.1832,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-08,term_spread_10y_3m,-1.4245,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-09,term_spread_10y_3m,-1.1985,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-10,term_spread_10y_3m,-0.6227,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-11,term_spread_10y_3m,-0.2642,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2024-12,term_spread_10y_3m,0.0005,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-01,term_spread_10y_3m,0.2862,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-02,term_spread_10y_3m,0.1189,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-03,term_spread_10y_3m,-0.0552,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-04,term_spread_10y_3m,-0.0433,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-05,term_spread_10y_3m,0.0624,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-06,term_spread_10y_3m,-0.0375,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-07,term_spread_10y_3m,-0.0205,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-08,term_spread_10y_3m,-0.04,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-09,term_spread_10y_3m,0.0548,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-10,term_spread_10y_3m,0.0841,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-11,term_spread_10y_3m,0.1567,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2025-12,term_spread_10y_3m,0.4636,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-01,term_spread_10y_3m,0.548,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-02,term_spread_10y_3m,0.4379,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-03,term_spread_10y_3m,0.5268,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-04,term_spread_10y_3m,0.6227,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-05,term_spread_10y_3m,0.7985,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-06,term_spread_10y_3m,0.6595,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-07,term_spread_10y_3m,0.7327,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-08,term_spread_10y_3m,0.8076,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-09,term_spread_10y_3m,0.8962,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2026-10,term_spread_10y_3m,1.08,T10Y3M,spreads,D,mean of period,https://fred.stlouisfed.org/graph/fredgraph.csv?id=T10Y3M&cosd=2022-01-01
+2022-02,cc_rate_all_accounts,14.56,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2022-05,cc_rate_all_accounts,15.13,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2022-08,cc_rate_all_accounts,16.27,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2022-11,cc_rate_all_accounts,19.07,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2023-02,cc_rate_all_accounts,20.09,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2023-05,cc_rate_all_accounts,20.84,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2023-08,cc_rate_all_accounts,21.19,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2023-11,cc_rate_all_accounts,21.47,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2024-02,cc_rate_all_accounts,21.59,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2024-05,cc_rate_all_accounts,21.51,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2024-08,cc_rate_all_accounts,21.76,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2024-11,cc_rate_all_accounts,21.47,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2025-02,cc_rate_all_accounts,21.37,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2025-05,cc_rate_all_accounts,21.16,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2025-08,cc_rate_all_accounts,21.39,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2025-11,cc_rate_all_accounts,20.97,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2026-02,cc_rate_all_accounts,21.0,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2026-05,cc_rate_all_accounts,20.94,TERMCBCCALLNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCALLNS&cosd=2022-01-01
+2022-02,cc_rate_accts_assessed_interest,16.17,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2022-05,cc_rate_accts_assessed_interest,16.65,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2022-08,cc_rate_accts_assessed_interest,18.43,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2022-11,cc_rate_accts_assessed_interest,20.4,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2023-02,cc_rate_accts_assessed_interest,20.92,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2023-05,cc_rate_accts_assessed_interest,22.16,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2023-08,cc_rate_accts_assessed_interest,22.77,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2023-11,cc_rate_accts_assessed_interest,22.75,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2024-02,cc_rate_accts_assessed_interest,22.63,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2024-05,cc_rate_accts_assessed_interest,22.78,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2024-08,cc_rate_accts_assessed_interest,23.37,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2024-11,cc_rate_accts_assessed_interest,22.8,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2025-02,cc_rate_accts_assessed_interest,21.91,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2025-05,cc_rate_accts_assessed_interest,22.25,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2025-08,cc_rate_accts_assessed_interest,22.83,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2025-11,cc_rate_accts_assessed_interest,22.3,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2026-02,cc_rate_accts_assessed_interest,21.52,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2026-05,cc_rate_accts_assessed_interest,22.15,TERMCBCCINTNS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=TERMCBCCINTNS&cosd=2022-01-01
+2022-01,cc_delinq_rate_banks,1.69,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2022-04,cc_delinq_rate_banks,1.83,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2022-07,cc_delinq_rate_banks,2.05,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2022-10,cc_delinq_rate_banks,2.26,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2023-01,cc_delinq_rate_banks,2.47,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2023-04,cc_delinq_rate_banks,2.75,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2023-07,cc_delinq_rate_banks,2.95,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2023-10,cc_delinq_rate_banks,3.1,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2024-01,cc_delinq_rate_banks,3.17,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2024-04,cc_delinq_rate_banks,3.22,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2024-07,cc_delinq_rate_banks,3.2,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2024-10,cc_delinq_rate_banks,3.08,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2025-01,cc_delinq_rate_banks,3.05,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2025-04,cc_delinq_rate_banks,3.04,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2025-07,cc_delinq_rate_banks,2.99,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2025-10,cc_delinq_rate_banks,2.95,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2026-01,cc_delinq_rate_banks,2.91,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2026-04,cc_delinq_rate_banks,2.85,DRCCLACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRCCLACBS&cosd=2022-01-01
+2022-01,cc_chargeoff_rate_banks,1.73,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2022-04,cc_chargeoff_rate_banks,1.86,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2022-07,cc_chargeoff_rate_banks,2.1,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2022-10,cc_chargeoff_rate_banks,2.51,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2023-01,cc_chargeoff_rate_banks,2.86,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2023-04,cc_chargeoff_rate_banks,3.23,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2023-07,cc_chargeoff_rate_banks,3.76,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2023-10,cc_chargeoff_rate_banks,4.18,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2024-01,cc_chargeoff_rate_banks,4.4,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2024-04,cc_chargeoff_rate_banks,4.56,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2024-07,cc_chargeoff_rate_banks,4.69,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2024-10,cc_chargeoff_rate_banks,4.57,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2025-01,cc_chargeoff_rate_banks,4.44,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2025-04,cc_chargeoff_rate_banks,4.19,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2025-07,cc_chargeoff_rate_banks,4.18,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2025-10,cc_chargeoff_rate_banks,4.09,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2026-01,cc_chargeoff_rate_banks,3.82,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2026-04,cc_chargeoff_rate_banks,3.82,CORCCACBS,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=CORCCACBS&cosd=2022-01-01
+2022-01,all_loan_delinq_rate,1.24,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2022-04,all_loan_delinq_rate,1.18,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2022-07,all_loan_delinq_rate,1.18,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2022-10,all_loan_delinq_rate,1.23,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2023-01,all_loan_delinq_rate,1.21,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2023-04,all_loan_delinq_rate,1.21,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2023-07,all_loan_delinq_rate,1.31,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2023-10,all_loan_delinq_rate,1.42,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2024-01,all_loan_delinq_rate,1.43,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2024-04,all_loan_delinq_rate,1.43,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2024-07,all_loan_delinq_rate,1.49,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2024-10,all_loan_delinq_rate,1.55,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2025-01,all_loan_delinq_rate,1.53,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2025-04,all_loan_delinq_rate,1.44,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2025-07,all_loan_delinq_rate,1.44,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2025-10,all_loan_delinq_rate,1.5,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2026-01,all_loan_delinq_rate,1.46,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
+2026-04,all_loan_delinq_rate,1.38,DRALACBN,consumer,Q,as reported (quarterly; intra-quarter blank),https://fred.stlouisfed.org/graph/fredgraph.csv?id=DRALACBN&cosd=2022-01-01
