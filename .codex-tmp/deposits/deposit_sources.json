@@ -1,0 +1,724 @@
+{
+  "quarterly": [
+    {
+      "period": "2024Q1",
+      "year": 2024,
+      "quarter": 1,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 35707.0,
+      "interest_expense_mm": 148.0,
+      "reported_rate": 0.0166,
+      "effective_rate": 0.016579382193967568,
+      "source_files": "capitalone-10q-2024q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q1",
+      "year": 2024,
+      "quarter": 1,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 206621.0,
+      "interest_expense_mm": 1721.0,
+      "reported_rate": 0.0333,
+      "effective_rate": 0.03331703941032131,
+      "source_files": "capitalone-10q-2024q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q1",
+      "year": 2024,
+      "quarter": 1,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 76122.0,
+      "interest_expense_mm": 943.0,
+      "reported_rate": 0.0495,
+      "effective_rate": 0.04955203489135861,
+      "source_files": "capitalone-10q-2024q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q1",
+      "year": 2024,
+      "quarter": 1,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 318450.0,
+      "interest_expense_mm": 2812.0,
+      "reported_rate": 0.0353,
+      "effective_rate": 0.035321086512796356,
+      "source_files": "capitalone-10q-2024q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q1",
+      "year": 2024,
+      "quarter": 1,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 27207.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2024q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q2",
+      "year": 2024,
+      "quarter": 2,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 34855.0,
+      "interest_expense_mm": 138.0,
+      "reported_rate": 0.0158,
+      "effective_rate": 0.01583703916224358,
+      "source_files": "capitalone-10q-2024q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q2",
+      "year": 2024,
+      "quarter": 2,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 208832.0,
+      "interest_expense_mm": 1753.0,
+      "reported_rate": 0.0336,
+      "effective_rate": 0.033577229543365,
+      "source_files": "capitalone-10q-2024q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q2",
+      "year": 2024,
+      "quarter": 2,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 78894.0,
+      "interest_expense_mm": 983.0,
+      "reported_rate": 0.0499,
+      "effective_rate": 0.049839024513904734,
+      "source_files": "capitalone-10q-2024q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q2",
+      "year": 2024,
+      "quarter": 2,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 322581.0,
+      "interest_expense_mm": 2874.0,
+      "reported_rate": 0.0356,
+      "effective_rate": 0.03563756079868312,
+      "source_files": "capitalone-10q-2024q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q2",
+      "year": 2024,
+      "quarter": 2,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 26907.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2024q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q3",
+      "year": 2024,
+      "quarter": 3,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 33936.0,
+      "interest_expense_mm": 135.0,
+      "reported_rate": 0.0159,
+      "effective_rate": 0.015912305516265914,
+      "source_files": "capitalone-10q-2024q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q3",
+      "year": 2024,
+      "quarter": 3,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 211608.0,
+      "interest_expense_mm": 1825.0,
+      "reported_rate": 0.0345,
+      "effective_rate": 0.03449775055763487,
+      "source_files": "capitalone-10q-2024q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q3",
+      "year": 2024,
+      "quarter": 3,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 78965.0,
+      "interest_expense_mm": 985.0,
+      "reported_rate": 0.0499,
+      "effective_rate": 0.04989552333312227,
+      "source_files": "capitalone-10q-2024q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q3",
+      "year": 2024,
+      "quarter": 3,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 324509.0,
+      "interest_expense_mm": 2945.0,
+      "reported_rate": 0.0363,
+      "effective_rate": 0.03630099627437144,
+      "source_files": "capitalone-10q-2024q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q3",
+      "year": 2024,
+      "quarter": 3,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 26616.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2024q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2024Q4",
+      "year": 2024,
+      "quarter": 4,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 35129.0,
+      "interest_expense_mm": 123.0,
+      "reported_rate": 0.014005522502775484,
+      "effective_rate": 0.014005522502775484,
+      "source_files": "capitalone-10k-fy2024.htm; capitalone-10q-2024q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2024Q4",
+      "year": 2024,
+      "quarter": 4,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 217390.0,
+      "interest_expense_mm": 1784.0,
+      "reported_rate": 0.03282579695478173,
+      "effective_rate": 0.03282579695478173,
+      "source_files": "capitalone-10k-fy2024.htm; capitalone-10q-2024q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2024Q4",
+      "year": 2024,
+      "quarter": 4,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 79101.0,
+      "interest_expense_mm": 955.0,
+      "reported_rate": 0.04829268909369035,
+      "effective_rate": 0.04829268909369035,
+      "source_files": "capitalone-10k-fy2024.htm; capitalone-10q-2024q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2024Q4",
+      "year": 2024,
+      "quarter": 4,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 331620.0,
+      "interest_expense_mm": 2862.0,
+      "reported_rate": 0.03452144020264158,
+      "effective_rate": 0.03452144020264158,
+      "source_files": "capitalone-10k-fy2024.htm; capitalone-10q-2024q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2024Q4",
+      "year": 2024,
+      "quarter": 4,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 26757.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10k-fy2024.htm; capitalone-10q-2024q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2025Q1",
+      "year": 2025,
+      "quarter": 1,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 36285.0,
+      "interest_expense_mm": 119.0,
+      "reported_rate": 0.0131,
+      "effective_rate": 0.013118368471820312,
+      "source_files": "capitalone-10q-2025q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q1",
+      "year": 2025,
+      "quarter": 1,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 227780.0,
+      "interest_expense_mm": 1768.0,
+      "reported_rate": 0.0311,
+      "effective_rate": 0.03104750197559048,
+      "source_files": "capitalone-10q-2025q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q1",
+      "year": 2025,
+      "quarter": 1,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 73775.0,
+      "interest_expense_mm": 828.0,
+      "reported_rate": 0.0449,
+      "effective_rate": 0.04489325652321247,
+      "source_files": "capitalone-10q-2025q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q1",
+      "year": 2025,
+      "quarter": 1,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 337840.0,
+      "interest_expense_mm": 2715.0,
+      "reported_rate": 0.0322,
+      "effective_rate": 0.03214539426947668,
+      "source_files": "capitalone-10q-2025q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q1",
+      "year": 2025,
+      "quarter": 1,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 26238.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2025q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q2",
+      "year": 2025,
+      "quarter": 2,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 35776.0,
+      "interest_expense_mm": 108.0,
+      "reported_rate": 0.012,
+      "effective_rate": 0.012075134168157423,
+      "source_files": "capitalone-10q-2025q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q2",
+      "year": 2025,
+      "quarter": 2,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 265622.0,
+      "interest_expense_mm": 2064.0,
+      "reported_rate": 0.0311,
+      "effective_rate": 0.03108176280579169,
+      "source_files": "capitalone-10q-2025q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q2",
+      "year": 2025,
+      "quarter": 2,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 85741.0,
+      "interest_expense_mm": 948.0,
+      "reported_rate": 0.044199999999999996,
+      "effective_rate": 0.04422621616262931,
+      "source_files": "capitalone-10q-2025q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q2",
+      "year": 2025,
+      "quarter": 2,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 387139.0,
+      "interest_expense_mm": 3120.0,
+      "reported_rate": 0.0322,
+      "effective_rate": 0.032236483536920844,
+      "source_files": "capitalone-10q-2025q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q2",
+      "year": 2025,
+      "quarter": 2,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 27429.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2025q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q3",
+      "year": 2025,
+      "quarter": 3,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 35419.0,
+      "interest_expense_mm": 107.0,
+      "reported_rate": 0.0121,
+      "effective_rate": 0.012083909765944832,
+      "source_files": "capitalone-10q-2025q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q3",
+      "year": 2025,
+      "quarter": 3,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 300386.0,
+      "interest_expense_mm": 2355.0,
+      "reported_rate": 0.031400000000000004,
+      "effective_rate": 0.03135965058291665,
+      "source_files": "capitalone-10q-2025q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q3",
+      "year": 2025,
+      "quarter": 3,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 103722.0,
+      "interest_expense_mm": 1135.0,
+      "reported_rate": 0.0438,
+      "effective_rate": 0.04377084900021211,
+      "source_files": "capitalone-10q-2025q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q3",
+      "year": 2025,
+      "quarter": 3,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 439527.0,
+      "interest_expense_mm": 3597.0,
+      "reported_rate": 0.0327,
+      "effective_rate": 0.03273519032960433,
+      "source_files": "capitalone-10q-2025q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q3",
+      "year": 2025,
+      "quarter": 3,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 27753.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2025q3.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2025Q4",
+      "year": 2025,
+      "quarter": 4,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 36304.0,
+      "interest_expense_mm": 99.0,
+      "reported_rate": 0.010907888937858087,
+      "effective_rate": 0.010907888937858087,
+      "source_files": "capitalone-10k-fy2025.htm; capitalone-10q-2025q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2025Q4",
+      "year": 2025,
+      "quarter": 4,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 301934.0,
+      "interest_expense_mm": 2314.0,
+      "reported_rate": 0.030655706213940793,
+      "effective_rate": 0.030655706213940793,
+      "source_files": "capitalone-10k-fy2025.htm; capitalone-10q-2025q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2025Q4",
+      "year": 2025,
+      "quarter": 4,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 104975.0,
+      "interest_expense_mm": 1080.0,
+      "reported_rate": 0.04115265539414146,
+      "effective_rate": 0.04115265539414146,
+      "source_files": "capitalone-10k-fy2025.htm; capitalone-10q-2025q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2025Q4",
+      "year": 2025,
+      "quarter": 4,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 443213.0,
+      "interest_expense_mm": 3493.0,
+      "reported_rate": 0.03152434608190644,
+      "effective_rate": 0.03152434608190644,
+      "source_files": "capitalone-10k-fy2025.htm; capitalone-10q-2025q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2025Q4",
+      "year": 2025,
+      "quarter": 4,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 28209.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10k-fy2025.htm; capitalone-10q-2025q3.htm",
+      "method": "Derived Q4 = full year less nine months"
+    },
+    {
+      "period": "2026Q1",
+      "year": 2026,
+      "quarter": 1,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 38642.0,
+      "interest_expense_mm": 114.0,
+      "reported_rate": 0.0118,
+      "effective_rate": 0.011800631437296207,
+      "source_files": "capitalone-10q-2026q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q1",
+      "year": 2026,
+      "quarter": 1,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 309341.0,
+      "interest_expense_mm": 2263.0,
+      "reported_rate": 0.029300000000000003,
+      "effective_rate": 0.02926220578584798,
+      "source_files": "capitalone-10q-2026q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q1",
+      "year": 2026,
+      "quarter": 1,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 103974.0,
+      "interest_expense_mm": 1010.0,
+      "reported_rate": 0.038900000000000004,
+      "effective_rate": 0.038855867813107126,
+      "source_files": "capitalone-10q-2026q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q1",
+      "year": 2026,
+      "quarter": 1,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 451957.0,
+      "interest_expense_mm": 3387.0,
+      "reported_rate": 0.03,
+      "effective_rate": 0.029976303055379162,
+      "source_files": "capitalone-10q-2026q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q1",
+      "year": 2026,
+      "quarter": 1,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 28001.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2026q1.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q2",
+      "year": 2026,
+      "quarter": 2,
+      "deposit_type": "Checking",
+      "avg_balance_mm": 39759.0,
+      "interest_expense_mm": 116.0,
+      "reported_rate": 0.011699999999999999,
+      "effective_rate": 0.011670313639679067,
+      "source_files": "capitalone-10q-2026q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q2",
+      "year": 2026,
+      "quarter": 2,
+      "deposit_type": "Savings",
+      "avg_balance_mm": 314378.0,
+      "interest_expense_mm": 2210.0,
+      "reported_rate": 0.0281,
+      "effective_rate": 0.028119015961676708,
+      "source_files": "capitalone-10q-2026q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q2",
+      "year": 2026,
+      "quarter": 2,
+      "deposit_type": "Time deposits",
+      "avg_balance_mm": 103993.0,
+      "interest_expense_mm": 1012.0,
+      "reported_rate": 0.038900000000000004,
+      "effective_rate": 0.038925696921908205,
+      "source_files": "capitalone-10q-2026q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q2",
+      "year": 2026,
+      "quarter": 2,
+      "deposit_type": "Total interest-bearing deposits",
+      "avg_balance_mm": 458130.0,
+      "interest_expense_mm": 3338.0,
+      "reported_rate": 0.0291,
+      "effective_rate": 0.029144565952895465,
+      "source_files": "capitalone-10q-2026q2.htm",
+      "method": "Reported three-month average"
+    },
+    {
+      "period": "2026Q2",
+      "year": 2026,
+      "quarter": 2,
+      "deposit_type": "Non-interest-bearing deposits",
+      "avg_balance_mm": 28661.0,
+      "interest_expense_mm": 0.0,
+      "reported_rate": 0.0,
+      "effective_rate": 0.0,
+      "source_files": "capitalone-10q-2026q2.htm",
+      "method": "Reported three-month average"
+    }
+  ],
+  "noninterest_eop_anchors": [
+    {
+      "period_end": "2023-12-31",
+      "eop_balance_mm": 28024.0,
+      "source_file": "capitalone-10k-fy2024.htm",
+      "source_form": "10-K"
+    },
+    {
+      "period_end": "2024-03-31",
+      "eop_balance_mm": 27617.0,
+      "source_file": "capitalone-10q-2024q1.htm",
+      "source_form": "10-Q"
+    },
+    {
+      "period_end": "2024-06-30",
+      "eop_balance_mm": 27005.0,
+      "source_file": "capitalone-10q-2024q2.htm",
+      "source_form": "10-Q"
+    },
+    {
+      "period_end": "2024-09-30",
+      "eop_balance_mm": 26378.0,
+      "source_file": "capitalone-10q-2024q3.htm",
+      "source_form": "10-Q"
+    },
+    {
+      "period_end": "2024-12-31",
+      "eop_balance_mm": 26122.0,
+      "source_file": "capitalone-10k-fy2024.htm",
+      "source_form": "10-K"
+    },
+    {
+      "period_end": "2025-03-31",
+      "eop_balance_mm": 26500.0,
+      "source_file": "capitalone-10q-2025q1.htm",
+      "source_form": "10-Q"
+    },
+    {
+      "period_end": "2025-06-30",
+      "eop_balance_mm": 27879.0,
+      "source_file": "capitalone-10q-2025q2.htm",
+      "source_form": "10-Q"
+    },
+    {
+      "period_end": "2025-09-30",
+      "eop_balance_mm": 27649.0,
+      "source_file": "capitalone-10q-2025q3.htm",
+      "source_form": "10-Q"
+    },
+    {
+      "period_end": "2025-12-31",
+      "eop_balance_mm": 27385.0,
+      "source_file": "capitalone-10k-fy2025.htm",
+      "source_form": "10-K"
+    },
+    {
+      "period_end": "2026-03-31",
+      "eop_balance_mm": 27936.0,
+      "source_file": "capitalone-10q-2026q1.htm",
+      "source_form": "10-Q"
+    },
+    {
+      "period_end": "2026-06-30",
+      "eop_balance_mm": 27793.0,
+      "source_file": "capitalone-10q-2026q2.htm",
+      "source_form": "10-Q"
+    }
+  ],
+  "source_checks": [
+    {
+      "period": "2024Q1",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2024Q2",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2024Q3",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2024Q4",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2025Q1",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2025Q2",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2025Q3",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2025Q4",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2026Q1",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    },
+    {
+      "period": "2026Q2",
+      "balance_difference_mm": 0.0,
+      "interest_difference_mm": 0.0
+    }
+  ]
+}
